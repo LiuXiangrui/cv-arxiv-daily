@@ -1570,6 +1570,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Multi-Modality Deep Network for Extreme Learned Image Compression**|Xuhao Jiang et.al.|[2304.13583](http://arxiv.org/abs/2304.13583)|null|
 |**2023-03-25**|**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**|Xi Zhang et.al.|[2304.12319](http://arxiv.org/abs/2304.12319)|null|
 |**2023-04-19**|**SLIC: Self-Conditioned Adaptive Transform with Large-Scale Receptive Fields for Learned Image Compression**|Wei Jiang et.al.|[2304.09571](http://arxiv.org/abs/2304.09571)|null|
 |**2023-04-14**|**M2T: Masking Transformers Twice for Faster Decoding**|Fabian Mentzer et.al.|[2304.07313](http://arxiv.org/abs/2304.07313)|null|
