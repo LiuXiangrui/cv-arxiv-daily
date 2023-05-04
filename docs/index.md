@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Optimized Live 4K Video Multicast**|Zhaoyuan He et.al.|[2305.02155](http://arxiv.org/abs/2305.02155)|null|
 |**2023-04-25**|**The Bjøntegaard Bible -- Why your Way of Comparing Video Codecs May Be Wrong**|Christian Herglotz et.al.|[2304.12852](http://arxiv.org/abs/2304.12852)|null|
 |**2023-04-20**|**Reconstructing Signing Avatars From Video Using Linguistic Priors**|Maria-Paola Forte et.al.|[2304.10482](http://arxiv.org/abs/2304.10482)|null|
 |**2023-04-18**|**Multimodal Short Video Rumor Detection System Based on Contrastive Learning**|Yuxing Yang et.al.|[2304.08401](http://arxiv.org/abs/2304.08401)|null|
@@ -1546,6 +1547,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**ProgDTD: Progressive Learned Image Compression with Double-Tail-Drop Training**|Ali Hojjat et.al.|[2305.02145](http://arxiv.org/abs/2305.02145)|null|
 |**2023-04-30**|**Learned Focused Plenoptic Image Compression with Microimage Preprocessing and Global Attention**|Kedeng Tong et.al.|[2305.00489](http://arxiv.org/abs/2305.00489)|**[link](https://github.com/vincentchandelier/gacn)**|
 |**2023-04-26**|**Multi-Modality Deep Network for Extreme Learned Image Compression**|Xuhao Jiang et.al.|[2304.13583](http://arxiv.org/abs/2304.13583)|null|
 |**2023-03-25**|**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**|Xi Zhang et.al.|[2304.12319](http://arxiv.org/abs/2304.12319)|null|
