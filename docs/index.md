@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Improved Screen Content Coding in VVC Using Soft Context Formation**|Hannah Och et.al.|[2305.05440](http://arxiv.org/abs/2305.05440)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660](http://arxiv.org/abs/2305.02660)|null|
 |**2023-05-03**|**Optimized Live 4K Video Multicast**|Zhaoyuan He et.al.|[2305.02155](http://arxiv.org/abs/2305.02155)|null|
 |**2023-04-25**|**The Bjøntegaard Bible -- Why your Way of Comparing Video Codecs May Be Wrong**|Christian Herglotz et.al.|[2304.12852](http://arxiv.org/abs/2304.12852)|**[link](https://github.com/fau-lms/bjontegaard)**|
@@ -1548,6 +1549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Multiscale Augmented Normalizing Flows for Image Compression**|Marc Windsheimer et.al.|[2305.05451](http://arxiv.org/abs/2305.05451)|null|
 |**2023-05-06**|**NL-CS Net: Deep Learning with Non-Local Prior for Image Compressive Sensing**|Shuai Bian et.al.|[2305.03899](http://arxiv.org/abs/2305.03899)|null|
 |**2023-05-04**|**Multi-Modality Deep Network for JPEG Artifacts Reduction**|Xuhao Jiang et.al.|[2305.02760](http://arxiv.org/abs/2305.02760)|null|
 |**2023-05-04**|**Semantically Structured Image Compression via Irregular Group-Based Decoupling**|Ruoyu Feng et.al.|[2305.02586](http://arxiv.org/abs/2305.02586)|null|
