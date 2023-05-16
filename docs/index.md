@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.15
+## Updated on 2023.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1549,7 +1549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-12**|**HFLIC: Human Friendly Perceptual Learned Image Compression with Reinforced Transform**|Peirong Ning et.al.|[2305.07519](http://arxiv.org/abs/2305.07519)|**[link](https://github.com/beiluo97/hflic)**|
+|**2023-05-15**|**HFLIC: Human Friendly Perceptual Learned Image Compression with Reinforced Transform**|Peirong Ning et.al.|[2305.07519](http://arxiv.org/abs/2305.07519)|**[link](https://github.com/beiluo97/hflic)**|
 |**2023-05-09**|**Multiscale Augmented Normalizing Flows for Image Compression**|Marc Windsheimer et.al.|[2305.05451](http://arxiv.org/abs/2305.05451)|null|
 |**2023-05-06**|**NL-CS Net: Deep Learning with Non-Local Prior for Image Compressive Sensing**|Shuai Bian et.al.|[2305.03899](http://arxiv.org/abs/2305.03899)|null|
 |**2023-05-04**|**Multi-Modality Deep Network for JPEG Artifacts Reduction**|Xuhao Jiang et.al.|[2305.02760](http://arxiv.org/abs/2305.02760)|null|
