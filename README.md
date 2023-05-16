@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-14**|**Vehicle Detection and Classification without Residual Calculation: Accelerating HEVC Image Decoding with Random Perturbation Injection**|Muhammet Sebul Beratoğlu et.al.|[2305.08265](http://arxiv.org/abs/2305.08265)|null|
 |**2023-05-09**|**Improved Screen Content Coding in VVC Using Soft Context Formation**|Hannah Och et.al.|[2305.05440](http://arxiv.org/abs/2305.05440)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660](http://arxiv.org/abs/2305.02660)|null|
 |**2023-05-03**|**Optimized Live 4K Video Multicast**|Zhaoyuan He et.al.|[2305.02155](http://arxiv.org/abs/2305.02155)|null|
@@ -1573,6 +1574,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Generative Adversarial Networks for Spatio-Spectral Compression of Hyperspectral Images**|Akshara Preethy Byju et.al.|[2305.08514](http://arxiv.org/abs/2305.08514)|null|
+|**2023-05-13**|**DNN-Compressed Domain Visual Recognition with Feature Adaptation**|Yingpeng Deng et.al.|[2305.08000](http://arxiv.org/abs/2305.08000)|null|
+|**2023-05-12**|**ROI-based Deep Image Compression with Swin Transformers**|Binglin Li et.al.|[2305.07783](http://arxiv.org/abs/2305.07783)|null|
+|**2023-05-12**|**Exploring the Rate-Distortion-Complexity Optimization in Neural Image Compression**|Yixin Gao et.al.|[2305.07678](http://arxiv.org/abs/2305.07678)|null|
 |**2023-05-15**|**HFLIC: Human Friendly Perceptual Learned Image Compression with Reinforced Transform**|Peirong Ning et.al.|[2305.07519](http://arxiv.org/abs/2305.07519)|**[link](https://github.com/beiluo97/hflic)**|
 |**2023-05-09**|**Multiscale Augmented Normalizing Flows for Image Compression**|Marc Windsheimer et.al.|[2305.05451](http://arxiv.org/abs/2305.05451)|null|
 |**2023-05-06**|**NL-CS Net: Deep Learning with Non-Local Prior for Image Compressive Sensing**|Shuai Bian et.al.|[2305.03899](http://arxiv.org/abs/2305.03899)|null|
