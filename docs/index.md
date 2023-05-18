@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1497,7 +1497,7 @@ layout: default
 |**2023-05-03**|**Optimized Live 4K Video Multicast**|Zhaoyuan He et.al.|[2305.02155](http://arxiv.org/abs/2305.02155)|null|
 |**2023-04-25**|**The Bjøntegaard Bible -- Why your Way of Comparing Video Codecs May Be Wrong**|Christian Herglotz et.al.|[2304.12852](http://arxiv.org/abs/2304.12852)|**[link](https://github.com/fau-lms/bjontegaard)**|
 |**2023-04-20**|**Reconstructing Signing Avatars From Video Using Linguistic Priors**|Maria-Paola Forte et.al.|[2304.10482](http://arxiv.org/abs/2304.10482)|null|
-|**2023-04-18**|**Multimodal Short Video Rumor Detection System Based on Contrastive Learning**|Yuxing Yang et.al.|[2304.08401](http://arxiv.org/abs/2304.08401)|null|
+|**2023-05-17**|**Multimodal Short Video Rumor Detection System Based on Contrastive Learning**|Yuxing Yang et.al.|[2304.08401](http://arxiv.org/abs/2304.08401)|null|
 |**2023-04-15**|**Hierarchical Interactive Reconstruction Network For Video Compressive Sensing**|Tong Zhang et.al.|[2304.07473](http://arxiv.org/abs/2304.07473)|null|
 |**2023-05-04**|**Perceptual Quality Assessment of Face Video Compression: A Benchmark and An Effective Method**|Yixuan Li et.al.|[2304.07056](http://arxiv.org/abs/2304.07056)|**[link](https://github.com/yixuan423/compressed-face-videos-quality-assessment)**|
 |**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|
