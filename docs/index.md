@@ -1550,6 +1550,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Deep Image Compression Using Scene Text Quality Assessment**|Shohei Uchigasaki et.al.|[2305.11373](http://arxiv.org/abs/2305.11373)|null|
 |**2023-05-18**|**Transformer-based Variable-rate Image Compression with Region-of-interest Control**|Chia-Hao Kao et.al.|[2305.10807](http://arxiv.org/abs/2305.10807)|null|
 |**2023-05-17**|**VVC+M: Plug and Play Scalable Image Coding for Humans and Machines**|Alon Harell et.al.|[2305.10453](http://arxiv.org/abs/2305.10453)|null|
 |**2023-05-15**|**Generative Adversarial Networks for Spatio-Spectral Compression of Hyperspectral Images**|Akshara Preethy Byju et.al.|[2305.08514](http://arxiv.org/abs/2305.08514)|null|
