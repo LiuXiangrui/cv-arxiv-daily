@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1550,7 +1550,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
+|**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
 |**2023-05-22**|**The Rate-Distortion-Perception Trade-off with Side Information**|Yassine Hamdi et.al.|[2305.13116](http://arxiv.org/abs/2305.13116)|null|
 |**2023-05-22**|**Sparsity and Coefficient Permutation Based Two-Domain AMP for Image Block Compressed Sensing**|Junhui Li et.al.|[2305.12986](http://arxiv.org/abs/2305.12986)|null|
 |**2023-05-19**|**Deep Image Compression Using Scene Text Quality Assessment**|Shohei Uchigasaki et.al.|[2305.11373](http://arxiv.org/abs/2305.11373)|null|
