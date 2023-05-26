@@ -1491,6 +1491,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Learned Wavelet Video Coding using Motion Compensated Temporal Filtering**|Anna Meyer et.al.|[2305.16211](http://arxiv.org/abs/2305.16211)|null|
+|**2023-05-25**|**MDVSC -- Wireless Model Division Video Semantic Communication**|Zhicheng Bao et.al.|[2305.15799](http://arxiv.org/abs/2305.15799)|null|
 |**2023-05-14**|**Vehicle Detection and Classification without Residual Calculation: Accelerating HEVC Image Decoding with Random Perturbation Injection**|Muhammet Sebul Beratoğlu et.al.|[2305.08265](http://arxiv.org/abs/2305.08265)|null|
 |**2023-05-09**|**Improved Screen Content Coding in VVC Using Soft Context Formation**|Hannah Och et.al.|[2305.05440](http://arxiv.org/abs/2305.05440)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660](http://arxiv.org/abs/2305.02660)|null|
@@ -1550,6 +1552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**NVTC: Nonlinear Vector Transform Coding**|Runsen Feng et.al.|[2305.16025](http://arxiv.org/abs/2305.16025)|null|
 |**2023-05-24**|**Jointly Optimizing Image Compression with Low-light Image Enhancement**|Shilv Cai et.al.|[2305.15030](http://arxiv.org/abs/2305.15030)|null|
 |**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
 |**2023-05-22**|**The Rate-Distortion-Perception Trade-off with Side Information**|Yassine Hamdi et.al.|[2305.13116](http://arxiv.org/abs/2305.13116)|null|
