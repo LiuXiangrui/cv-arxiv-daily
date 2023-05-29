@@ -1552,6 +1552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Random-Access Neural Compression of Material Textures**|Karthik Vaidyanathan et.al.|[2305.17105](http://arxiv.org/abs/2305.17105)|null|
 |**2023-05-25**|**NVTC: Nonlinear Vector Transform Coding**|Runsen Feng et.al.|[2305.16025](http://arxiv.org/abs/2305.16025)|null|
 |**2023-05-24**|**Jointly Optimizing Image Compression with Low-light Image Enhancement**|Shilv Cai et.al.|[2305.15030](http://arxiv.org/abs/2305.15030)|null|
 |**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
