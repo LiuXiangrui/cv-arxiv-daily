@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**Rate-Distortion Theory in Coding for Machines and its Application**|Alon Harell et.al.|[2305.17295](http://arxiv.org/abs/2305.17295)|null|
 |**2023-05-25**|**Learned Wavelet Video Coding using Motion Compensated Temporal Filtering**|Anna Meyer et.al.|[2305.16211](http://arxiv.org/abs/2305.16211)|null|
 |**2023-05-25**|**MDVSC -- Wireless Model Division Video Semantic Communication**|Zhicheng Bao et.al.|[2305.15799](http://arxiv.org/abs/2305.15799)|null|
 |**2023-05-14**|**Vehicle Detection and Classification without Residual Calculation: Accelerating HEVC Image Decoding with Random Perturbation Injection**|Muhammet Sebul Beratoğlu et.al.|[2305.08265](http://arxiv.org/abs/2305.08265)|null|
@@ -1576,6 +1577,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**High-Fidelity Image Compression with Score-based Generative Models**|Emiel Hoogeboom et.al.|[2305.18231](http://arxiv.org/abs/2305.18231)|null|
 |**2023-05-26**|**Random-Access Neural Compression of Material Textures**|Karthik Vaidyanathan et.al.|[2305.17105](http://arxiv.org/abs/2305.17105)|null|
 |**2023-05-25**|**NVTC: Nonlinear Vector Transform Coding**|Runsen Feng et.al.|[2305.16025](http://arxiv.org/abs/2305.16025)|null|
 |**2023-05-24**|**Jointly Optimizing Image Compression with Low-light Image Enhancement**|Shilv Cai et.al.|[2305.15030](http://arxiv.org/abs/2305.15030)|null|
