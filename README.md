@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**On the Choice of Perception Loss Function for Learned Video Compression**|Sadaf Salehkalaibar et.al.|[2305.19301](http://arxiv.org/abs/2305.19301)|null|
 |**2023-05-30**|**VVC Extension Scheme for Object Detection Using Contrast Reduction**|Takahiro Shindo et.al.|[2305.18782](http://arxiv.org/abs/2305.18782)|null|
 |**2023-05-26**|**Rate-Distortion Theory in Coding for Machines and its Application**|Alon Harell et.al.|[2305.17295](http://arxiv.org/abs/2305.17295)|null|
 |**2023-05-25**|**Learned Wavelet Video Coding using Motion Compensated Temporal Filtering**|Anna Meyer et.al.|[2305.16211](http://arxiv.org/abs/2305.16211)|null|
