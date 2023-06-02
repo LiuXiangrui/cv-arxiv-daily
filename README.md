@@ -1579,6 +1579,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Wuerstchen: Efficient Pretraining of Text-to-Image Models**|Pablo Pernias et.al.|[2306.00637](http://arxiv.org/abs/2306.00637)|null|
+|**2023-06-01**|**HySpecNet-11k: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods**|Martin Hermann Paul Fuchs et.al.|[2306.00385](http://arxiv.org/abs/2306.00385)|null|
 |**2023-05-26**|**High-Fidelity Image Compression with Score-based Generative Models**|Emiel Hoogeboom et.al.|[2305.18231](http://arxiv.org/abs/2305.18231)|null|
 |**2023-05-26**|**Random-Access Neural Compression of Material Textures**|Karthik Vaidyanathan et.al.|[2305.17105](http://arxiv.org/abs/2305.17105)|null|
 |**2023-05-25**|**NVTC: Nonlinear Vector Transform Coding**|Runsen Feng et.al.|[2305.16025](http://arxiv.org/abs/2305.16025)|null|
