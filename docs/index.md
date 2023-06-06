@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.05
+## Updated on 2023.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1528,7 +1528,7 @@ layout: default
 |**2023-04-23**|**RiDDLE: Reversible and Diversified De-identification with Latent Encryptor**|Dongze Li et.al.|[2303.05171](http://arxiv.org/abs/2303.05171)|**[link](https://github.com/ldz666666/riddle)**|
 |**2023-03-09**|**Multispectral Image Compression Based on HEVC Using Pel-Recursive Inter-Band Prediction**|Anna Meyer et.al.|[2303.05132](http://arxiv.org/abs/2303.05132)|null|
 |**2023-03-08**|**Scene Matters: Model-based Deep Video Compression**|Lv Tang et.al.|[2303.04557](http://arxiv.org/abs/2303.04557)|null|
-|**2023-03-27**|**Geometry-based spherical JND modeling for 360 $^\circ$ display**|Hongan Wei et.al.|[2303.03703](http://arxiv.org/abs/2303.03703)|null|
+|**2023-06-05**|**Geometry-based spherical JND modeling for 360 $^\circ$ display**|Hongan Wei et.al.|[2303.03703](http://arxiv.org/abs/2303.03703)|null|
 |**2023-03-06**|**RQAT-INR: Improved Implicit Neural Image Compression**|Bharath Bhushan Damodaran et.al.|[2303.03028](http://arxiv.org/abs/2303.03028)|null|
 |**2023-03-06**|**Butterfly: Multiple Reference Frames Feature Propagation Mechanism for Neural Video Compression**|Feng Wang et.al.|[2303.02959](http://arxiv.org/abs/2303.02959)|null|
 |**2023-03-08**|**The First Comprehensive Dataset with Multiple Distortion Types for Visual Just-Noticeable Differences**|Yaxuan Liu et.al.|[2303.02562](http://arxiv.org/abs/2303.02562)|null|
