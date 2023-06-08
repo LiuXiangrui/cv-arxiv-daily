@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Video Compression with Arbitrary Rescaling Network**|Mengxi Guo et.al.|[2306.04202](http://arxiv.org/abs/2306.04202)|null|
 |**2023-05-30**|**On the Choice of Perception Loss Function for Learned Video Compression**|Sadaf Salehkalaibar et.al.|[2305.19301](http://arxiv.org/abs/2305.19301)|null|
 |**2023-05-30**|**VVC Extension Scheme for Object Detection Using Contrast Reduction**|Takahiro Shindo et.al.|[2305.18782](http://arxiv.org/abs/2305.18782)|null|
 |**2023-05-26**|**Rate-Distortion Theory in Coding for Machines and its Application**|Alon Harell et.al.|[2305.17295](http://arxiv.org/abs/2305.17295)|null|
@@ -1555,6 +1556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Integrated Photonic Encoder for Terapixel Image Processing**|Xiao Wang et.al.|[2306.04554](http://arxiv.org/abs/2306.04554)|null|
 |**2023-06-01**|**Reconstruction Distortion of Learned Image Compression with Imperceptible Perturbations**|Yang Sui et.al.|[2306.01125](http://arxiv.org/abs/2306.01125)|null|
 |**2023-06-01**|**Wuerstchen: Efficient Pretraining of Text-to-Image Models**|Pablo Pernias et.al.|[2306.00637](http://arxiv.org/abs/2306.00637)|**[link](https://github.com/dome272/wuerstchen)**|
 |**2023-06-02**|**HySpecNet-11k: A Large-Scale Hyperspectral Dataset for Benchmarking Learning-Based Hyperspectral Image Compression Methods**|Martin Hermann Paul Fuchs et.al.|[2306.00385](http://arxiv.org/abs/2306.00385)|null|
