@@ -1580,6 +1580,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**TransTIC: Transferring Transformer-based Image Compression from Human Visualization to Machine Perception**|Yi-Hsin Chen et.al.|[2306.05085](http://arxiv.org/abs/2306.05085)|null|
 |**2023-06-07**|**Integrated Photonic Encoder for Terapixel Image Processing**|Xiao Wang et.al.|[2306.04554](http://arxiv.org/abs/2306.04554)|null|
 |**2023-06-01**|**Reconstruction Distortion of Learned Image Compression with Imperceptible Perturbations**|Yang Sui et.al.|[2306.01125](http://arxiv.org/abs/2306.01125)|null|
 |**2023-06-01**|**Wuerstchen: Efficient Pretraining of Text-to-Image Models**|Pablo Pernias et.al.|[2306.00637](http://arxiv.org/abs/2306.00637)|**[link](https://github.com/dome272/wuerstchen)**|
