@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Infinite Photorealistic Worlds using Procedural Generation**|Alexander Raistrick et.al.|[2306.09310](http://arxiv.org/abs/2306.09310)|null|
 |**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957](http://arxiv.org/abs/2306.05957)|**[link](https://github.com/taldatech/ddlp)**|
 |**2023-06-07**|**Video Compression with Arbitrary Rescaling Network**|Mengxi Guo et.al.|[2306.04202](http://arxiv.org/abs/2306.04202)|null|
 |**2023-05-30**|**On the Choice of Perception Loss Function for Learned Video Compression**|Sadaf Salehkalaibar et.al.|[2305.19301](http://arxiv.org/abs/2305.19301)|null|
@@ -1557,6 +1558,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Exploring Resolution Fields for Scalable Image Compression with Uncertainty Guidance**|Dongyi Zhang et.al.|[2306.08941](http://arxiv.org/abs/2306.08941)|**[link](https://github.com/jgiroro/rpnsic)**|
 |**2023-06-13**|**Localization of Just Noticeable Difference for Image Compression**|Guangan Chen et.al.|[2306.07678](http://arxiv.org/abs/2306.07678)|**[link](https://github.com/angchen-dev/locjnd)**|
 |**2023-06-09**|**Exploring Effective Mask Sampling Modeling for Neural Image Compression**|Lin Liu et.al.|[2306.05704](http://arxiv.org/abs/2306.05704)|null|
 |**2023-06-08**|**TransTIC: Transferring Transformer-based Image Compression from Human Visualization to Machine Perception**|Yi-Hsin Chen et.al.|[2306.05085](http://arxiv.org/abs/2306.05085)|null|
