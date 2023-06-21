@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724](http://arxiv.org/abs/2306.11724)|null|
+|**2023-06-19**|**LVVC: A Learned Versatile Video Coding Framework for Efficient Human-Machine Vision**|Xihua Sheng et.al.|[2306.10681](http://arxiv.org/abs/2306.10681)|null|
 |**2023-06-16**|**HiNeRV: Video Compression with Hierarchical Encoding based Neural Representation**|Ho Man Kwan et.al.|[2306.09818](http://arxiv.org/abs/2306.09818)|null|
 |**2023-06-15**|**Infinite Photorealistic Worlds using Procedural Generation**|Alexander Raistrick et.al.|[2306.09310](http://arxiv.org/abs/2306.09310)|null|
 |**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957](http://arxiv.org/abs/2306.05957)|**[link](https://github.com/taldatech/ddlp)**|
@@ -1583,6 +1585,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-18**|**GAN-based Image Compression with Improved RDO Process**|Fanxin Xia et.al.|[2306.10461](http://arxiv.org/abs/2306.10461)|null|
 |**2023-06-15**|**Exploring Resolution Fields for Scalable Image Compression with Uncertainty Guidance**|Dongyi Zhang et.al.|[2306.08941](http://arxiv.org/abs/2306.08941)|**[link](https://github.com/jgiroro/rpnsic)**|
 |**2023-06-13**|**Localization of Just Noticeable Difference for Image Compression**|Guangan Chen et.al.|[2306.07678](http://arxiv.org/abs/2306.07678)|**[link](https://github.com/angchen-dev/locjnd)**|
 |**2023-06-09**|**Exploring Effective Mask Sampling Modeling for Neural Image Compression**|Lin Liu et.al.|[2306.05704](http://arxiv.org/abs/2306.05704)|null|
