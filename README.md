@@ -1513,7 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-21**|**Recoil: Parallel rANS Decoding with Decoder-Adaptive Scalability**|Fangzheng Lin et.al.|[2306.12141](http://arxiv.org/abs/2306.12141)|null|
+|**2023-06-21**|**Recoil: Parallel rANS Decoding with Decoder-Adaptive Scalability**|Fangzheng Lin et.al.|[2306.12141](http://arxiv.org/abs/2306.12141)|**[link](https://github.com/lin-toto/recoil)**|
 |**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724](http://arxiv.org/abs/2306.11724)|null|
 |**2023-06-19**|**LVVC: A Learned Versatile Video Coding Framework for Efficient Human-Machine Vision**|Xihua Sheng et.al.|[2306.10681](http://arxiv.org/abs/2306.10681)|null|
 |**2023-06-16**|**HiNeRV: Video Compression with Hierarchical Encoding based Neural Representation**|Ho Man Kwan et.al.|[2306.09818](http://arxiv.org/abs/2306.09818)|null|
@@ -1586,6 +1586,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Image storage on synthetic DNA using compressive autoencoders and DNA-adapted entropy coders**|Xavier Pic et.al.|[2306.12882](http://arxiv.org/abs/2306.12882)|null|
+|**2023-06-22**|**MQ-Coder inspired arithmetic coder for synthetic DNA data storage**|Xavier Pic et.al.|[2306.12708](http://arxiv.org/abs/2306.12708)|null|
 |**2023-06-21**|**Beyond Learned Metadata-based Raw Image Reconstruction**|Yufei Wang et.al.|[2306.12058](http://arxiv.org/abs/2306.12058)|null|
 |**2023-06-18**|**GAN-based Image Compression with Improved RDO Process**|Fanxin Xia et.al.|[2306.10461](http://arxiv.org/abs/2306.10461)|null|
 |**2023-06-15**|**Exploring Resolution Fields for Scalable Image Compression with Uncertainty Guidance**|Dongyi Zhang et.al.|[2306.08941](http://arxiv.org/abs/2306.08941)|**[link](https://github.com/jgiroro/rpnsic)**|
