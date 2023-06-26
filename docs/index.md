@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1491,7 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-21**|**Recoil: Parallel rANS Decoding with Decoder-Adaptive Scalability**|Fangzheng Lin et.al.|[2306.12141](http://arxiv.org/abs/2306.12141)|**[link](https://github.com/lin-toto/recoil)**|
+|**2023-06-23**|**Recoil: Parallel rANS Decoding with Decoder-Adaptive Scalability**|Fangzheng Lin et.al.|[2306.12141](http://arxiv.org/abs/2306.12141)|**[link](https://github.com/lin-toto/recoil)**|
 |**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724](http://arxiv.org/abs/2306.11724)|null|
 |**2023-06-19**|**LVVC: A Learned Versatile Video Coding Framework for Efficient Human-Machine Vision**|Xihua Sheng et.al.|[2306.10681](http://arxiv.org/abs/2306.10681)|null|
 |**2023-06-16**|**HiNeRV: Video Compression with Hierarchical Encoding based Neural Representation**|Ho Man Kwan et.al.|[2306.09818](http://arxiv.org/abs/2306.09818)|null|
