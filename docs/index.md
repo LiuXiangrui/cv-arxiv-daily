@@ -1622,14 +1622,14 @@ layout: default
 |**2023-02-27**|**Saliency-Driven Hierarchical Learned Image Coding for Machines**|Kristian Fischer et.al.|[2302.13581](http://arxiv.org/abs/2302.13581)|null|
 |**2023-02-26**|**Data-Efficient Sequence-Based Visual Place Recognition with Highly Compressed JPEG Images**|Mihnea-Alexandru Tomita et.al.|[2302.13314](http://arxiv.org/abs/2302.13314)|null|
 |**2023-03-08**|**JND-Based Perceptual Optimization For Learned Image Compression**|Feng Ding et.al.|[2302.13092](http://arxiv.org/abs/2302.13092)|null|
-|**2023-02-28**|**Raw Image Reconstruction with Learned Compact Metadata**|Yufei Wang et.al.|[2302.12995](http://arxiv.org/abs/2302.12995)|null|
+|**2023-02-28**|**Raw Image Reconstruction with Learned Compact Metadata**|Yufei Wang et.al.|[2302.12995](http://arxiv.org/abs/2302.12995)|**[link](https://github.com/wyf0912/r2lcm)**|
 |**2023-02-24**|**Effect of Lossy Compression Algorithms on Face Image Quality and Recognition**|Torsten Schlett et.al.|[2302.12593](http://arxiv.org/abs/2302.12593)|null|
 |**2023-02-19**|**Deep Selector-JPEG: Adaptive JPEG Image Compression for Computer Vision in Image classification with Human Vision Criteria**|Hossam Amer et.al.|[2302.09560](http://arxiv.org/abs/2302.09560)|null|
 |**2023-02-18**|**Multistage Spatial Context Models for Learned Image Compression**|Fangzheng Lin et.al.|[2302.09263](http://arxiv.org/abs/2302.09263)|null|
 |**2023-04-08**|**QARV: Quantization-Aware ResNet VAE for Lossy Image Compression**|Zhihao Duan et.al.|[2302.08899](http://arxiv.org/abs/2302.08899)|**[link](https://github.com/duanzhiihao/lossy-vae)**|
 |**2023-02-13**|**Dual-layer Image Compression via Adaptive Downsampling and Spatially Varying Upconversion**|Xi Zhang et.al.|[2302.06096](http://arxiv.org/abs/2302.06096)|null|
 |**2023-02-10**|**EVC: Towards Real-Time Neural Image Compression with Mask Decay**|Guo-Hua Wang et.al.|[2302.05071](http://arxiv.org/abs/2302.05071)|**[link](https://github.com/microsoft/dcvc)**|
-|**2023-02-17**|**Hypernetworks build Implicit Neural Representations of Sounds**|Filip Szatkowski et.al.|[2302.04959](http://arxiv.org/abs/2302.04959)|null|
+|**2023-02-17**|**Hypernetworks build Implicit Neural Representations of Sounds**|Filip Szatkowski et.al.|[2302.04959](http://arxiv.org/abs/2302.04959)|**[link](https://github.com/wut-ai/hypersound)**|
 |**2023-02-09**|**Hyperspectral Image Compression Using Implicit Neural Representation**|Shima Rezasoltani et.al.|[2302.04129](http://arxiv.org/abs/2302.04129)|null|
 |**2023-02-06**|**Adjoint Method in PDE-based Image Compression**|Zakaria Belhachmi et.al.|[2302.02665](http://arxiv.org/abs/2302.02665)|null|
 |**2023-01-28**|**Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models**|Matthew J. Muckley et.al.|[2301.11189](http://arxiv.org/abs/2301.11189)|null|
