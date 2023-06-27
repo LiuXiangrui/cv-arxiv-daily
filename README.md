@@ -1513,6 +1513,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**ViNT: A Foundation Model for Visual Navigation**|Dhruv Shah et.al.|[2306.14846](http://arxiv.org/abs/2306.14846)|null|
+|**2023-06-25**|**Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2306.14287](http://arxiv.org/abs/2306.14287)|null|
+|**2023-06-23**|**Motion Plane Adaptive Motion Modeling for Spherical Video Coding in H.266/VVC**|Andy Regensky et.al.|[2306.13694](http://arxiv.org/abs/2306.13694)|null|
 |**2023-06-26**|**Recoil: Parallel rANS Decoding with Decoder-Adaptive Scalability**|Fangzheng Lin et.al.|[2306.12141](http://arxiv.org/abs/2306.12141)|**[link](https://github.com/lin-toto/recoil)**|
 |**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724](http://arxiv.org/abs/2306.11724)|null|
 |**2023-06-19**|**LVVC: A Learned Versatile Video Coding Framework for Efficient Human-Machine Vision**|Xihua Sheng et.al.|[2306.10681](http://arxiv.org/abs/2306.10681)|null|
@@ -1586,6 +1589,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-25**|**Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2306.14287](http://arxiv.org/abs/2306.14287)|null|
 |**2023-06-22**|**Image storage on synthetic DNA using compressive autoencoders and DNA-adapted entropy coders**|Xavier Pic et.al.|[2306.12882](http://arxiv.org/abs/2306.12882)|null|
 |**2023-06-22**|**MQ-Coder inspired arithmetic coder for synthetic DNA data storage**|Xavier Pic et.al.|[2306.12708](http://arxiv.org/abs/2306.12708)|null|
 |**2023-06-21**|**Beyond Learned Metadata-based Raw Image Reconstruction**|Yufei Wang et.al.|[2306.12058](http://arxiv.org/abs/2306.12058)|null|
