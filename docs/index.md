@@ -1565,6 +1565,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**You Can Mask More For Extremely Low-Bitrate Image Compression**|Anqi Li et.al.|[2306.15561](http://arxiv.org/abs/2306.15561)|**[link](https://github.com/lianqi1008/mcm)**|
 |**2023-06-25**|**Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2306.14287](http://arxiv.org/abs/2306.14287)|null|
 |**2023-06-22**|**Image storage on synthetic DNA using compressive autoencoders and DNA-adapted entropy coders**|Xavier Pic et.al.|[2306.12882](http://arxiv.org/abs/2306.12882)|null|
 |**2023-06-22**|**MQ-Coder inspired arithmetic coder for synthetic DNA data storage**|Xavier Pic et.al.|[2306.12708](http://arxiv.org/abs/2306.12708)|null|
