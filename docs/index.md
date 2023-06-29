@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-16**|**Coding Estimation based on Rate Distortion Control of H.264 Encoded Videos for Low Latency Applications**|Amitesh Kumar Singam et.al.|[2306.16366](http://arxiv.org/abs/2306.16366)|null|
 |**2023-06-26**|**ViNT: A Foundation Model for Visual Navigation**|Dhruv Shah et.al.|[2306.14846](http://arxiv.org/abs/2306.14846)|null|
 |**2023-06-25**|**Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2306.14287](http://arxiv.org/abs/2306.14287)|null|
 |**2023-06-23**|**Motion Plane Adaptive Motion Modeling for Spherical Video Coding in H.266/VVC**|Andy Regensky et.al.|[2306.13694](http://arxiv.org/abs/2306.13694)|null|
