@@ -1513,6 +1513,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**All-intra rate control using low complexity video features for Versatile Video Coding**|Vignesh V Menon et.al.|[2306.16786](http://arxiv.org/abs/2306.16786)|null|
+|**2023-06-29**|**End-to-End Learnable Multi-Scale Feature Compression for VCM**|Yeongwoong Kim et.al.|[2306.16670](http://arxiv.org/abs/2306.16670)|null|
+|**2023-06-28**|**Multi-Scale Deformable Alignment and Content-Adaptive Inference for Flexible-Rate Bi-Directional Video Compression**|M. Akın Yılmaz et.al.|[2306.16544](http://arxiv.org/abs/2306.16544)|null|
 |**2023-03-16**|**Coding Estimation based on Rate Distortion Control of H.264 Encoded Videos for Low Latency Applications**|Amitesh Kumar Singam et.al.|[2306.16366](http://arxiv.org/abs/2306.16366)|null|
 |**2023-06-26**|**ViNT: A Foundation Model for Visual Navigation**|Dhruv Shah et.al.|[2306.14846](http://arxiv.org/abs/2306.14846)|null|
 |**2023-06-25**|**Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2306.14287](http://arxiv.org/abs/2306.14287)|null|
@@ -1590,6 +1593,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Processing Energy Modeling for Neural Network Based Image Compression**|Christian Herglotz et.al.|[2306.16755](http://arxiv.org/abs/2306.16755)|null|
+|**2023-06-29**|**Rapid-INR: Storage Efficient CPU-free DNN Training Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2306.16699](http://arxiv.org/abs/2306.16699)|null|
 |**2023-06-27**|**You Can Mask More For Extremely Low-Bitrate Image Compression**|Anqi Li et.al.|[2306.15561](http://arxiv.org/abs/2306.15561)|**[link](https://github.com/lianqi1008/mcm)**|
 |**2023-06-25**|**Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression**|A. Burakhan Koyuncu et.al.|[2306.14287](http://arxiv.org/abs/2306.14287)|null|
 |**2023-06-22**|**Image storage on synthetic DNA using compressive autoencoders and DNA-adapted entropy coders**|Xavier Pic et.al.|[2306.12882](http://arxiv.org/abs/2306.12882)|null|
