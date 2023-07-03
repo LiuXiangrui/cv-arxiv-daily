@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
 |**2023-06-29**|**All-intra rate control using low complexity video features for Versatile Video Coding**|Vignesh V Menon et.al.|[2306.16786](http://arxiv.org/abs/2306.16786)|null|
 |**2023-06-29**|**End-to-End Learnable Multi-Scale Feature Compression for VCM**|Yeongwoong Kim et.al.|[2306.16670](http://arxiv.org/abs/2306.16670)|null|
 |**2023-06-28**|**Multi-Scale Deformable Alignment and Content-Adaptive Inference for Flexible-Rate Bi-Directional Video Compression**|M. Akın Yılmaz et.al.|[2306.16544](http://arxiv.org/abs/2306.16544)|**[link](https://github.com/KUIS-AI-Tekalp-Research-Group/video-compression)**|
@@ -1569,6 +1570,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
 |**2023-06-29**|**Processing Energy Modeling for Neural Network Based Image Compression**|Christian Herglotz et.al.|[2306.16755](http://arxiv.org/abs/2306.16755)|null|
 |**2023-06-29**|**Rapid-INR: Storage Efficient CPU-free DNN Training Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2306.16699](http://arxiv.org/abs/2306.16699)|null|
 |**2023-06-27**|**You Can Mask More For Extremely Low-Bitrate Image Compression**|Anqi Li et.al.|[2306.15561](http://arxiv.org/abs/2306.15561)|**[link](https://github.com/lianqi1008/mcm)**|
