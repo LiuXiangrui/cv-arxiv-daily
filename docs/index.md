@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1536,7 +1536,7 @@ layout: default
 |**2023-03-24**|**Towards Scalable Neural Representation for Diverse Videos**|Bo He et.al.|[2303.14124](http://arxiv.org/abs/2303.14124)|null|
 |**2023-04-02**|**Low-complexity Deep Video Compression with A Distributed Coding Architecture**|Xinjie Zhang et.al.|[2303.11599](http://arxiv.org/abs/2303.11599)|**[link](https://github.com/xinjie-q/distributed-dvc)**|
 |**2023-03-21**|**Lightweight Hybrid Video Compression Framework Using Reference-Guided Restoration Network**|Hochang Rhee et.al.|[2303.11592](http://arxiv.org/abs/2303.11592)|null|
-|**2023-03-20**|**Sandwiched Video Compression: Efficiently Extending the Reach of Standard Codecs with Neural Wrappers**|Berivan Isik et.al.|[2303.11473](http://arxiv.org/abs/2303.11473)|null|
+|**2023-07-05**|**Sandwiched Video Compression: Efficiently Extending the Reach of Standard Codecs with Neural Wrappers**|Berivan Isik et.al.|[2303.11473](http://arxiv.org/abs/2303.11473)|null|
 |**2023-03-17**|**Toward Super-Resolution for Appearance-Based Gaze Estimation**|Galen O'Shea et.al.|[2303.10151](http://arxiv.org/abs/2303.10151)|null|
 |**2023-03-11**|**Rate-Distortion Optimization With Alternative References For UGC Video Compression**|Xin Xiong et.al.|[2303.06254](http://arxiv.org/abs/2303.06254)|null|
 |**2023-03-10**|**Entropy Coding Improvement for Low-complexity Compressive Auto-encoders**|Franck Galpin et.al.|[2303.05962](http://arxiv.org/abs/2303.05962)|null|
