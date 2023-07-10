@@ -1571,6 +1571,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Semantic-Aware Image Compressed Sensing**|Bowen Zhang et.al.|[2307.03246](http://arxiv.org/abs/2307.03246)|null|
 |**2023-07-05**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
 |**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|null|
 |**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
