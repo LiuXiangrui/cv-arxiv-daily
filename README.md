@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-09**|**Predictive Coding For Animation-Based Video Compression**|Goluck Konuko et.al.|[2307.04187](http://arxiv.org/abs/2307.04187)|null|
 |**2023-07-05**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
 |**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
 |**2023-06-29**|**All-intra rate control using low complexity video features for Versatile Video Coding**|Vignesh V Menon et.al.|[2306.16786](http://arxiv.org/abs/2306.16786)|null|
