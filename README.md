@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Offline and Online Optical Flow Enhancement for Deep Video Compression**|Chuanbo Tang et.al.|[2307.05092](http://arxiv.org/abs/2307.05092)|null|
 |**2023-07-09**|**Predictive Coding For Animation-Based Video Compression**|Goluck Konuko et.al.|[2307.04187](http://arxiv.org/abs/2307.04187)|null|
 |**2023-07-05**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
 |**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
