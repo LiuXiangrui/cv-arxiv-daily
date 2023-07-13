@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1493,7 +1493,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-11**|**Offline and Online Optical Flow Enhancement for Deep Video Compression**|Chuanbo Tang et.al.|[2307.05092](http://arxiv.org/abs/2307.05092)|null|
 |**2023-07-09**|**Predictive Coding For Animation-Based Video Compression**|Goluck Konuko et.al.|[2307.04187](http://arxiv.org/abs/2307.04187)|null|
-|**2023-07-05**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
+|**2023-07-12**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
 |**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
 |**2023-06-29**|**All-intra rate control using low complexity video features for Versatile Video Coding**|Vignesh V Menon et.al.|[2306.16786](http://arxiv.org/abs/2306.16786)|null|
 |**2023-06-29**|**End-to-End Learnable Multi-Scale Feature Compression for VCM**|Yeongwoong Kim et.al.|[2306.16670](http://arxiv.org/abs/2306.16670)|null|
@@ -1574,7 +1574,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-11**|**Semantic-Aware Image Compressed Sensing**|Bowen Zhang et.al.|[2307.03246](http://arxiv.org/abs/2307.03246)|null|
-|**2023-07-05**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
+|**2023-07-12**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
 |**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|null|
 |**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
 |**2023-06-29**|**Processing Energy Modeling for Neural Network Based Image Compression**|Christian Herglotz et.al.|[2306.16755](http://arxiv.org/abs/2306.16755)|null|
