@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Efficient Convolution and Transformer-Based Network for Video Frame Interpolation**|Issa Khalifeh et.al.|[2307.06443](http://arxiv.org/abs/2307.06443)|null|
+|**2023-07-12**|**ConvNeXt-ChARM: ConvNeXt-based Transform for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.06342](http://arxiv.org/abs/2307.06342)|null|
 |**2023-07-12**|**Spatially-Adaptive Learning-Based Image Compression with Hierarchical Multi-Scale Latent Spaces**|Fabian Brand et.al.|[2307.06102](http://arxiv.org/abs/2307.06102)|null|
 |**2023-07-12**|**AICT: An Adaptive Image Compression Transformer**|Ahmed Ghorbel et.al.|[2307.06091](http://arxiv.org/abs/2307.06091)|null|
 |**2023-07-11**|**Offline and Online Optical Flow Enhancement for Deep Video Compression**|Chuanbo Tang et.al.|[2307.05092](http://arxiv.org/abs/2307.05092)|null|
@@ -1599,6 +1601,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**ConvNeXt-ChARM: ConvNeXt-based Transform for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.06342](http://arxiv.org/abs/2307.06342)|null|
 |**2023-07-12**|**Spatially-Adaptive Learning-Based Image Compression with Hierarchical Multi-Scale Latent Spaces**|Fabian Brand et.al.|[2307.06102](http://arxiv.org/abs/2307.06102)|null|
 |**2023-07-12**|**AICT: An Adaptive Image Compression Transformer**|Ahmed Ghorbel et.al.|[2307.06091](http://arxiv.org/abs/2307.06091)|null|
 |**2023-07-11**|**Semantic-Aware Image Compressed Sensing**|Bowen Zhang et.al.|[2307.03246](http://arxiv.org/abs/2307.03246)|null|
