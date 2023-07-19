@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Learned Scalable Video Coding For Humans and Machines**|Hadi Hadizadeh et.al.|[2307.08978](http://arxiv.org/abs/2307.08978)|null|
 |**2023-07-17**|**Efficient coding of 360° videos exploiting inactive regions in projection formats**|Christian Herglotz et.al.|[2307.08344](http://arxiv.org/abs/2307.08344)|null|
 |**2023-07-14**|**Sampling-Priors-Augmented Deep Unfolding Network for Robust Video Compressive Sensing**|Yuhao Huang et.al.|[2307.07291](http://arxiv.org/abs/2307.07291)|null|
 |**2023-07-12**|**Efficient Convolution and Transformer-Based Network for Video Frame Interpolation**|Issa Khalifeh et.al.|[2307.06443](http://arxiv.org/abs/2307.06443)|null|
@@ -1579,6 +1580,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Deep Physics-Guided Unrolling Generalization for Compressed Sensing**|Bin Chen et.al.|[2307.08950](http://arxiv.org/abs/2307.08950)|null|
 |**2023-07-17**|**Neural Image Compression: Generalization, Robustness, and Spectral Biases**|Kelsey Lieberman et.al.|[2307.08657](http://arxiv.org/abs/2307.08657)|null|
 |**2023-07-17**|**Extreme Image Compression using Fine-tuned VQGAN Models**|Qi Mao et.al.|[2307.08265](http://arxiv.org/abs/2307.08265)|null|
 |**2023-07-12**|**ConvNeXt-ChARM: ConvNeXt-based Transform for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.06342](http://arxiv.org/abs/2307.06342)|null|
