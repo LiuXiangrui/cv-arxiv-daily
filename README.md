@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding**|Fabian Brand et.al.|[2307.12864](http://arxiv.org/abs/2307.12864)|null|
+|**2023-07-22**|**Learn to Compress (LtC): Efficient Learning-based Streaming Video Analytics**|Quazi Mishkatul Alam et.al.|[2307.12171](http://arxiv.org/abs/2307.12171)|null|
 |**2023-07-18**|**Learned Scalable Video Coding For Humans and Machines**|Hadi Hadizadeh et.al.|[2307.08978](http://arxiv.org/abs/2307.08978)|null|
 |**2023-07-17**|**Efficient coding of 360° videos exploiting inactive regions in projection formats**|Christian Herglotz et.al.|[2307.08344](http://arxiv.org/abs/2307.08344)|null|
 |**2023-07-14**|**Sampling-Priors-Augmented Deep Unfolding Network for Robust Video Compressive Sensing**|Yuhao Huang et.al.|[2307.07291](http://arxiv.org/abs/2307.07291)|null|
