@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1492,7 +1492,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-24**|**Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding**|Fabian Brand et.al.|[2307.12864](http://arxiv.org/abs/2307.12864)|null|
-|**2023-07-22**|**Learn to Compress (LtC): Efficient Learning-based Streaming Video Analytics**|Quazi Mishkatul Alam et.al.|[2307.12171](http://arxiv.org/abs/2307.12171)|null|
+|**2023-07-25**|**Learn to Compress (LtC): Efficient Learning-based Streaming Video Analytics**|Quazi Mishkatul Alam et.al.|[2307.12171](http://arxiv.org/abs/2307.12171)|null|
 |**2023-07-18**|**Learned Scalable Video Coding For Humans and Machines**|Hadi Hadizadeh et.al.|[2307.08978](http://arxiv.org/abs/2307.08978)|null|
 |**2023-07-17**|**Efficient coding of 360° videos exploiting inactive regions in projection formats**|Christian Herglotz et.al.|[2307.08344](http://arxiv.org/abs/2307.08344)|null|
 |**2023-07-14**|**Sampling-Priors-Augmented Deep Unfolding Network for Robust Video Compressive Sensing**|Yuhao Huang et.al.|[2307.07291](http://arxiv.org/abs/2307.07291)|null|
@@ -1621,7 +1621,7 @@ layout: default
 |**2023-07-14**|**Transformer-based Variable-rate Image Compression with Region-of-interest Control**|Chia-Hao Kao et.al.|[2305.10807](http://arxiv.org/abs/2305.10807)|null|
 |**2023-05-17**|**VVC+M: Plug and Play Scalable Image Coding for Humans and Machines**|Alon Harell et.al.|[2305.10453](http://arxiv.org/abs/2305.10453)|null|
 |**2023-05-15**|**Generative Adversarial Networks for Spatio-Spectral Compression of Hyperspectral Images**|Akshara Preethy Byju et.al.|[2305.08514](http://arxiv.org/abs/2305.08514)|null|
-|**2023-05-13**|**DNN-Compressed Domain Visual Recognition with Feature Adaptation**|Yingpeng Deng et.al.|[2305.08000](http://arxiv.org/abs/2305.08000)|null|
+|**2023-07-26**|**DNN-Compressed Domain Visual Recognition with Feature Adaptation**|Yingpeng Deng et.al.|[2305.08000](http://arxiv.org/abs/2305.08000)|null|
 |**2023-05-12**|**ROI-based Deep Image Compression with Swin Transformers**|Binglin Li et.al.|[2305.07783](http://arxiv.org/abs/2305.07783)|null|
 |**2023-05-12**|**Exploring the Rate-Distortion-Complexity Optimization in Neural Image Compression**|Yixin Gao et.al.|[2305.07678](http://arxiv.org/abs/2305.07678)|null|
 |**2023-05-18**|**HFLIC: Human Friendly Perceptual Learned Image Compression with Reinforced Transform**|Peirong Ning et.al.|[2305.07519](http://arxiv.org/abs/2305.07519)|**[link](https://github.com/beiluo97/hflic)**|
