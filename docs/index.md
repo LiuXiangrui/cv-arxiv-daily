@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Video Decoding Energy Estimation Using Processor Events**|Christian Herglotz et.al.|[2307.14000](http://arxiv.org/abs/2307.14000)|null|
 |**2023-07-24**|**Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding**|Fabian Brand et.al.|[2307.12864](http://arxiv.org/abs/2307.12864)|null|
 |**2023-07-25**|**Learn to Compress (LtC): Efficient Learning-based Streaming Video Analytics**|Quazi Mishkatul Alam et.al.|[2307.12171](http://arxiv.org/abs/2307.12171)|null|
 |**2023-07-18**|**Learned Scalable Video Coding For Humans and Machines**|Hadi Hadizadeh et.al.|[2307.08978](http://arxiv.org/abs/2307.08978)|null|
