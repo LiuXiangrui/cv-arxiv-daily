@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.01
+## Updated on 2023.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1621,7 +1621,7 @@ layout: default
 |**2023-05-22**|**The Rate-Distortion-Perception Trade-off with Side Information**|Yassine Hamdi et.al.|[2305.13116](http://arxiv.org/abs/2305.13116)|null|
 |**2023-05-22**|**Sparsity and Coefficient Permutation Based Two-Domain AMP for Image Block Compressed Sensing**|Junhui Li et.al.|[2305.12986](http://arxiv.org/abs/2305.12986)|null|
 |**2023-05-19**|**Deep Image Compression Using Scene Text Quality Assessment**|Shohei Uchigasaki et.al.|[2305.11373](http://arxiv.org/abs/2305.11373)|null|
-|**2023-07-14**|**Transformer-based Variable-rate Image Compression with Region-of-interest Control**|Chia-Hao Kao et.al.|[2305.10807](http://arxiv.org/abs/2305.10807)|null|
+|**2023-08-01**|**Transformer-based Variable-rate Image Compression with Region-of-interest Control**|Chia-Hao Kao et.al.|[2305.10807](http://arxiv.org/abs/2305.10807)|null|
 |**2023-05-17**|**VVC+M: Plug and Play Scalable Image Coding for Humans and Machines**|Alon Harell et.al.|[2305.10453](http://arxiv.org/abs/2305.10453)|null|
 |**2023-05-15**|**Generative Adversarial Networks for Spatio-Spectral Compression of Hyperspectral Images**|Akshara Preethy Byju et.al.|[2305.08514](http://arxiv.org/abs/2305.08514)|null|
 |**2023-07-26**|**DNN-Compressed Domain Visual Recognition with Feature Adaptation**|Yingpeng Deng et.al.|[2305.08000](http://arxiv.org/abs/2305.08000)|null|
