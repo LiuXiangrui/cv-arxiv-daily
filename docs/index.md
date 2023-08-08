@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1525,7 +1525,7 @@ layout: default
 |**2023-05-26**|**Rate-Distortion Theory in Coding for Machines and its Application**|Alon Harell et.al.|[2305.17295](http://arxiv.org/abs/2305.17295)|null|
 |**2023-05-25**|**Learned Wavelet Video Coding using Motion Compensated Temporal Filtering**|Anna Meyer et.al.|[2305.16211](http://arxiv.org/abs/2305.16211)|null|
 |**2023-05-25**|**MDVSC -- Wireless Model Division Video Semantic Communication**|Zhicheng Bao et.al.|[2305.15799](http://arxiv.org/abs/2305.15799)|null|
-|**2023-06-10**|**Vehicle Detection and Classification without Residual Calculation: Accelerating HEVC Image Decoding with Random Perturbation Injection**|Muhammet Sebul Beratoğlu et.al.|[2305.08265](http://arxiv.org/abs/2305.08265)|null|
+|**2023-08-05**|**Vehicle Detection and Classification without Residual Calculation: Accelerating HEVC Image Decoding with Random Perturbation Injection**|Muhammet Sebul Beratoğlu et.al.|[2305.08265](http://arxiv.org/abs/2305.08265)|null|
 |**2023-05-09**|**Improved Screen Content Coding in VVC Using Soft Context Formation**|Hannah Och et.al.|[2305.05440](http://arxiv.org/abs/2305.05440)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660](http://arxiv.org/abs/2305.02660)|null|
 |**2023-07-22**|**Optimized Live 4K Video Multicast**|Zhaoyuan He et.al.|[2305.02155](http://arxiv.org/abs/2305.02155)|null|
@@ -1589,7 +1589,7 @@ layout: default
 |**2023-07-19**|**A3D: Adaptive, Accurate, and Autonomous Navigation for Edge-Assisted Drones**|Liekang Zeng et.al.|[2307.09880](http://arxiv.org/abs/2307.09880)|null|
 |**2023-07-18**|**Deep Physics-Guided Unrolling Generalization for Compressed Sensing**|Bin Chen et.al.|[2307.08950](http://arxiv.org/abs/2307.08950)|**[link](https://github.com/guaishou74851/prl)**|
 |**2023-07-17**|**Neural Image Compression: Generalization, Robustness, and Spectral Biases**|Kelsey Lieberman et.al.|[2307.08657](http://arxiv.org/abs/2307.08657)|null|
-|**2023-07-17**|**Extreme Image Compression using Fine-tuned VQGAN Models**|Qi Mao et.al.|[2307.08265](http://arxiv.org/abs/2307.08265)|null|
+|**2023-08-07**|**Extreme Image Compression using Fine-tuned VQGAN Models**|Qi Mao et.al.|[2307.08265](http://arxiv.org/abs/2307.08265)|null|
 |**2023-07-12**|**ConvNeXt-ChARM: ConvNeXt-based Transform for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.06342](http://arxiv.org/abs/2307.06342)|null|
 |**2023-07-12**|**Spatially-Adaptive Learning-Based Image Compression with Hierarchical Multi-Scale Latent Spaces**|Fabian Brand et.al.|[2307.06102](http://arxiv.org/abs/2307.06102)|null|
 |**2023-07-12**|**AICT: An Adaptive Image Compression Transformer**|Ahmed Ghorbel et.al.|[2307.06091](http://arxiv.org/abs/2307.06091)|null|
