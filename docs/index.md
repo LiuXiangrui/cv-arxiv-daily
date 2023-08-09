@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1507,7 +1507,7 @@ layout: default
 |**2023-07-12**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
 |**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
 |**2023-06-29**|**All-intra rate control using low complexity video features for Versatile Video Coding**|Vignesh V Menon et.al.|[2306.16786](http://arxiv.org/abs/2306.16786)|null|
-|**2023-07-16**|**End-to-End Learnable Multi-Scale Feature Compression for VCM**|Yeongwoong Kim et.al.|[2306.16670](http://arxiv.org/abs/2306.16670)|null|
+|**2023-08-08**|**End-to-End Learnable Multi-Scale Feature Compression for VCM**|Yeongwoong Kim et.al.|[2306.16670](http://arxiv.org/abs/2306.16670)|null|
 |**2023-06-28**|**Multi-Scale Deformable Alignment and Content-Adaptive Inference for Flexible-Rate Bi-Directional Video Compression**|M. Akın Yılmaz et.al.|[2306.16544](http://arxiv.org/abs/2306.16544)|**[link](https://github.com/KUIS-AI-Tekalp-Research-Group/video-compression)**|
 |**2023-03-16**|**Coding Estimation based on Rate Distortion Control of H.264 Encoded Videos for Low Latency Applications**|Amitesh Kumar Singam et.al.|[2306.16366](http://arxiv.org/abs/2306.16366)|null|
 |**2023-06-26**|**ViNT: A Foundation Model for Visual Navigation**|Dhruv Shah et.al.|[2306.14846](http://arxiv.org/abs/2306.14846)|null|
