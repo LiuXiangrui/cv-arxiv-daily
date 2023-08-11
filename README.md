@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**MDVSC -- Wireless Model Division Video Semantic Communication**|Zhicheng Bao et.al.|[2308.05338](http://arxiv.org/abs/2308.05338)|null|
 |**2023-07-27**|**Self-Supervised Graph Transformer for Deepfake Detection**|Aminollah Khormali et.al.|[2307.15019](http://arxiv.org/abs/2307.15019)|null|
 |**2023-07-26**|**Video Decoding Energy Estimation Using Processor Events**|Christian Herglotz et.al.|[2307.14000](http://arxiv.org/abs/2307.14000)|null|
 |**2023-07-24**|**Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding**|Fabian Brand et.al.|[2307.12864](http://arxiv.org/abs/2307.12864)|null|
