@@ -1513,6 +1513,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
+|**2023-08-14**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
+|**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570](http://arxiv.org/abs/2308.06570)|null|
+|**2023-08-12**|**A One-dimensional HEVC video steganalysis method using the Optimality of Predicted Motion Vectors**|Jun Li et.al.|[2308.06464](http://arxiv.org/abs/2308.06464)|null|
 |**2023-08-10**|**MDVSC -- Wireless Model Division Video Semantic Communication**|Zhicheng Bao et.al.|[2308.05338](http://arxiv.org/abs/2308.05338)|null|
 |**2023-07-27**|**Self-Supervised Graph Transformer for Deepfake Detection**|Aminollah Khormali et.al.|[2307.15019](http://arxiv.org/abs/2307.15019)|null|
 |**2023-07-26**|**Video Decoding Energy Estimation Using Processor Events**|Christian Herglotz et.al.|[2307.14000](http://arxiv.org/abs/2307.14000)|null|
