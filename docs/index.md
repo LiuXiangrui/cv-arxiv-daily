@@ -1589,6 +1589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Dynamic Low-Rank Instance Adaptation for Universal Neural Image Compression**|Yue Lv et.al.|[2308.07733](http://arxiv.org/abs/2308.07733)|**[link](https://github.com/llvy21/duic)**|
 |**2023-08-10**|**End-to-End Optimization of JPEG-Based Deep Learning Process for Image Classification**|Siyu Qi et.al.|[2308.05840](http://arxiv.org/abs/2308.05840)|null|
 |**2023-08-04**|**Frequency Disentangled Features in Neural Image Compression**|Ali Zafari et.al.|[2308.02620](http://arxiv.org/abs/2308.02620)|null|
 |**2023-07-28**|**MLIC++: Linear Complexity Multi-Reference Entropy Modeling for Learned Image Compression**|Wei Jiang et.al.|[2307.15421](http://arxiv.org/abs/2307.15421)|**[link](https://github.com/jiangweibeta/mlic)**|
