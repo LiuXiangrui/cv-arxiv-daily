@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1604,7 +1604,7 @@ layout: default
 |**2023-07-12**|**AICT: An Adaptive Image Compression Transformer**|Ahmed Ghorbel et.al.|[2307.06091](http://arxiv.org/abs/2307.06091)|null|
 |**2023-07-11**|**Semantic-Aware Image Compressed Sensing**|Bowen Zhang et.al.|[2307.03246](http://arxiv.org/abs/2307.03246)|null|
 |**2023-07-12**|**Joint Hierarchical Priors and Adaptive Spatial Resolution for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.02273](http://arxiv.org/abs/2307.02273)|null|
-|**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|null|
+|**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|**[link](https://github.com/leieric/text-sketch)**|
 |**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
 |**2023-06-29**|**Processing Energy Modeling for Neural Network Based Image Compression**|Christian Herglotz et.al.|[2306.16755](http://arxiv.org/abs/2306.16755)|null|
 |**2023-06-29**|**Rapid-INR: Storage Efficient CPU-free DNN Training Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2306.16699](http://arxiv.org/abs/2306.16699)|null|
