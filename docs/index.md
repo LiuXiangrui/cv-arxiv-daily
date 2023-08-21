@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**LSCD: A Large-Scale Screen Content Dataset for Video Compression**|Yuhao Cheng et.al.|[2308.09332](http://arxiv.org/abs/2308.09332)|null|
 |**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
 |**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570](http://arxiv.org/abs/2308.06570)|null|
@@ -1589,6 +1590,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-17**|**Dynamic Kernel-Based Adaptive Spatial Aggregation for Learned Image Compression**|Huairui Wang et.al.|[2308.08723](http://arxiv.org/abs/2308.08723)|null|
+|**2023-08-17**|**RFD-ECNet: Extreme Underwater Image Compression with Reference to Feature Dictionar**|Mengyao Li et.al.|[2308.08721](http://arxiv.org/abs/2308.08721)|**[link](https://github.com/lilala0/rfd-ecnet)**|
 |**2023-08-16**|**Conditional Perceptual Quality Preserving Image Compression**|Tongda Xu et.al.|[2308.08154](http://arxiv.org/abs/2308.08154)|null|
 |**2023-08-15**|**Dynamic Low-Rank Instance Adaptation for Universal Neural Image Compression**|Yue Lv et.al.|[2308.07733](http://arxiv.org/abs/2308.07733)|**[link](https://github.com/llvy21/duic)**|
 |**2023-08-10**|**End-to-End Optimization of JPEG-Based Deep Learning Process for Image Classification**|Siyu Qi et.al.|[2308.05840](http://arxiv.org/abs/2308.05840)|null|
