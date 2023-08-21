@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1617,7 +1617,7 @@ layout: default
 |**2023-06-15**|**Exploring Resolution Fields for Scalable Image Compression with Uncertainty Guidance**|Dongyi Zhang et.al.|[2306.08941](http://arxiv.org/abs/2306.08941)|**[link](https://github.com/jgiroro/rpnsic)**|
 |**2023-06-13**|**Localization of Just Noticeable Difference for Image Compression**|Guangan Chen et.al.|[2306.07678](http://arxiv.org/abs/2306.07678)|**[link](https://github.com/angchen-dev/locjnd)**|
 |**2023-06-09**|**Exploring Effective Mask Sampling Modeling for Neural Image Compression**|Lin Liu et.al.|[2306.05704](http://arxiv.org/abs/2306.05704)|null|
-|**2023-06-08**|**TransTIC: Transferring Transformer-based Image Compression from Human Visualization to Machine Perception**|Yi-Hsin Chen et.al.|[2306.05085](http://arxiv.org/abs/2306.05085)|null|
+|**2023-08-18**|**TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception**|Yi-Hsin Chen et.al.|[2306.05085](http://arxiv.org/abs/2306.05085)|null|
 |**2023-06-07**|**Integrated Photonic Encoder for Terapixel Image Processing**|Xiao Wang et.al.|[2306.04554](http://arxiv.org/abs/2306.04554)|null|
 |**2023-06-01**|**Reconstruction Distortion of Learned Image Compression with Imperceptible Perturbations**|Yang Sui et.al.|[2306.01125](http://arxiv.org/abs/2306.01125)|null|
 |**2023-06-01**|**Wuerstchen: Efficient Pretraining of Text-to-Image Models**|Pablo Pernias et.al.|[2306.00637](http://arxiv.org/abs/2306.00637)|**[link](https://github.com/dome272/wuerstchen)**|
@@ -1628,7 +1628,7 @@ layout: default
 |**2023-08-04**|**Jointly Optimizing Image Compression with Low-light Image Enhancement**|Shilv Cai et.al.|[2305.15030](http://arxiv.org/abs/2305.15030)|null|
 |**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
 |**2023-05-22**|**The Rate-Distortion-Perception Trade-off with Side Information**|Yassine Hamdi et.al.|[2305.13116](http://arxiv.org/abs/2305.13116)|null|
-|**2023-05-22**|**Sparsity and Coefficient Permutation Based Two-Domain AMP for Image Block Compressed Sensing**|Junhui Li et.al.|[2305.12986](http://arxiv.org/abs/2305.12986)|null|
+|**2023-08-17**|**Sparsity and Coefficient Permutation Based Two-Domain AMP for Image Block Compressed Sensing**|Junhui Li et.al.|[2305.12986](http://arxiv.org/abs/2305.12986)|null|
 |**2023-05-19**|**Deep Image Compression Using Scene Text Quality Assessment**|Shohei Uchigasaki et.al.|[2305.11373](http://arxiv.org/abs/2305.11373)|null|
 |**2023-08-01**|**Transformer-based Variable-rate Image Compression with Region-of-interest Control**|Chia-Hao Kao et.al.|[2305.10807](http://arxiv.org/abs/2305.10807)|null|
 |**2023-05-17**|**VVC+M: Plug and Play Scalable Image Coding for Humans and Machines**|Alon Harell et.al.|[2305.10453](http://arxiv.org/abs/2305.10453)|null|
