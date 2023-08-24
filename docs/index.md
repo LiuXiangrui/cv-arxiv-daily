@@ -1590,6 +1590,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Enhanced Residual SwinV2 Transformer for Learned Image Compression**|Yongqiang Wang et.al.|[2308.11864](http://arxiv.org/abs/2308.11864)|null|
 |**2023-08-17**|**Dynamic Kernel-Based Adaptive Spatial Aggregation for Learned Image Compression**|Huairui Wang et.al.|[2308.08723](http://arxiv.org/abs/2308.08723)|null|
 |**2023-08-17**|**RFD-ECNet: Extreme Underwater Image Compression with Reference to Feature Dictionar**|Mengyao Li et.al.|[2308.08721](http://arxiv.org/abs/2308.08721)|**[link](https://github.com/lilala0/rfd-ecnet)**|
 |**2023-08-16**|**Conditional Perceptual Quality Preserving Image Compression**|Tongda Xu et.al.|[2308.08154](http://arxiv.org/abs/2308.08154)|null|
