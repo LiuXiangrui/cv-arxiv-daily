@@ -1590,6 +1590,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Efficient Learned Lossless JPEG Recompression**|Lina Guo et.al.|[2308.13287](http://arxiv.org/abs/2308.13287)|null|
+|**2023-08-24**|**CompaCT: Fractal-Based Heuristic Pixel Segmentation for Lossless Compression of High-Color DICOM Medical Images**|Taaha Khan et.al.|[2308.13097](http://arxiv.org/abs/2308.13097)|**[link](https://github.com/taaha-khan/2023-compact-image-compression)**|
 |**2023-08-23**|**Enhanced Residual SwinV2 Transformer for Learned Image Compression**|Yongqiang Wang et.al.|[2308.11864](http://arxiv.org/abs/2308.11864)|null|
 |**2023-08-17**|**Dynamic Kernel-Based Adaptive Spatial Aggregation for Learned Image Compression**|Huairui Wang et.al.|[2308.08723](http://arxiv.org/abs/2308.08723)|null|
 |**2023-08-17**|**RFD-ECNet: Extreme Underwater Image Compression with Reference to Feature Dictionar**|Mengyao Li et.al.|[2308.08721](http://arxiv.org/abs/2308.08721)|**[link](https://github.com/lilala0/rfd-ecnet)**|
