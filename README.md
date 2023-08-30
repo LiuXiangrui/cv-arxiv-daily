@@ -1614,6 +1614,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Entropy-based Guidance of Deep Neural Networks for Accelerated Convergence and Improved Performance**|Mackenzie J. Meni et.al.|[2308.14938](http://arxiv.org/abs/2308.14938)|null|
 |**2023-08-27**|**Image Coding for Machines with Object Region Learning**|Takahiro Shindo et.al.|[2308.13984](http://arxiv.org/abs/2308.13984)|null|
 |**2023-08-25**|**Efficient Learned Lossless JPEG Recompression**|Lina Guo et.al.|[2308.13287](http://arxiv.org/abs/2308.13287)|null|
 |**2023-08-24**|**CompaCT: Fractal-Based Heuristic Pixel Segmentation for Lossless Compression of High-Color DICOM Medical Images**|Taaha Khan et.al.|[2308.13097](http://arxiv.org/abs/2308.13097)|**[link](https://github.com/taaha-khan/2023-compact-image-compression)**|
