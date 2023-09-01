@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.31
+## Updated on 2023.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1491,7 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-30**|**Neural Video Compression with Temporal Layer-Adaptive Hierarchical B-frame Coding**|Yeongwoong Kim et.al.|[2308.15791](http://arxiv.org/abs/2308.15791)|null|
+|**2023-08-31**|**Neural Video Compression with Temporal Layer-Adaptive Hierarchical B-frame Coding**|Yeongwoong Kim et.al.|[2308.15791](http://arxiv.org/abs/2308.15791)|null|
 |**2023-08-18**|**LSCD: A Large-Scale Screen Content Dataset for Video Compression**|Yuhao Cheng et.al.|[2308.09332](http://arxiv.org/abs/2308.09332)|null|
 |**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
