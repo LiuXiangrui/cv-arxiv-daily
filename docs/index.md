@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**Deep Video Codec Control**|Christoph Reich et.al.|[2308.16215](http://arxiv.org/abs/2308.16215)|null|
 |**2023-08-31**|**Neural Video Compression with Temporal Layer-Adaptive Hierarchical B-frame Coding**|Yeongwoong Kim et.al.|[2308.15791](http://arxiv.org/abs/2308.15791)|null|
 |**2023-08-18**|**LSCD: A Large-Scale Screen Content Dataset for Video Compression**|Yuhao Cheng et.al.|[2308.09332](http://arxiv.org/abs/2308.09332)|null|
 |**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
@@ -1591,6 +1592,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Everyone Can Attack: Repurpose Lossy Compression as a Natural Backdoor Attack**|Sze Jue Yang et.al.|[2308.16684](http://arxiv.org/abs/2308.16684)|null|
 |**2023-08-28**|**Entropy-based Guidance of Deep Neural Networks for Accelerated Convergence and Improved Performance**|Mackenzie J. Meni et.al.|[2308.14938](http://arxiv.org/abs/2308.14938)|null|
 |**2023-08-27**|**Image Coding for Machines with Object Region Learning**|Takahiro Shindo et.al.|[2308.13984](http://arxiv.org/abs/2308.13984)|null|
 |**2023-08-25**|**Efficient Learned Lossless JPEG Recompression**|Lina Guo et.al.|[2308.13287](http://arxiv.org/abs/2308.13287)|null|
