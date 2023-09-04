@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
 |**2023-08-30**|**Deep Video Codec Control**|Christoph Reich et.al.|[2308.16215](http://arxiv.org/abs/2308.16215)|null|
 |**2023-08-31**|**Neural Video Compression with Temporal Layer-Adaptive Hierarchical B-frame Coding**|Yeongwoong Kim et.al.|[2308.15791](http://arxiv.org/abs/2308.15791)|null|
 |**2023-08-18**|**LSCD: A Large-Scale Screen Content Dataset for Video Compression**|Yuhao Cheng et.al.|[2308.09332](http://arxiv.org/abs/2308.09332)|null|
