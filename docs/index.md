@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1593,7 +1593,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-31**|**Everyone Can Attack: Repurpose Lossy Compression as a Natural Backdoor Attack**|Sze Jue Yang et.al.|[2308.16684](http://arxiv.org/abs/2308.16684)|null|
+|**2023-09-03**|**Everyone Can Attack: Repurpose Lossy Compression as a Natural Backdoor Attack**|Sze Jue Yang et.al.|[2308.16684](http://arxiv.org/abs/2308.16684)|null|
 |**2023-08-28**|**Entropy-based Guidance of Deep Neural Networks for Accelerated Convergence and Improved Performance**|Mackenzie J. Meni et.al.|[2308.14938](http://arxiv.org/abs/2308.14938)|null|
 |**2023-08-27**|**Image Coding for Machines with Object Region Learning**|Takahiro Shindo et.al.|[2308.13984](http://arxiv.org/abs/2308.13984)|null|
 |**2023-08-25**|**Efficient Learned Lossless JPEG Recompression**|Lina Guo et.al.|[2308.13287](http://arxiv.org/abs/2308.13287)|null|
@@ -1605,7 +1605,7 @@ layout: default
 |**2023-08-15**|**Dynamic Low-Rank Instance Adaptation for Universal Neural Image Compression**|Yue Lv et.al.|[2308.07733](http://arxiv.org/abs/2308.07733)|**[link](https://github.com/llvy21/duic)**|
 |**2023-08-10**|**End-to-End Optimization of JPEG-Based Deep Learning Process for Image Classification**|Siyu Qi et.al.|[2308.05840](http://arxiv.org/abs/2308.05840)|null|
 |**2023-08-04**|**Frequency Disentangled Features in Neural Image Compression**|Ali Zafari et.al.|[2308.02620](http://arxiv.org/abs/2308.02620)|null|
-|**2023-07-28**|**MLIC++: Linear Complexity Multi-Reference Entropy Modeling for Learned Image Compression**|Wei Jiang et.al.|[2307.15421](http://arxiv.org/abs/2307.15421)|**[link](https://github.com/jiangweibeta/mlic)**|
+|**2023-09-03**|**MLIC++: Linear Complexity Multi-Reference Entropy Modeling for Learned Image Compression**|Wei Jiang et.al.|[2307.15421](http://arxiv.org/abs/2307.15421)|**[link](https://github.com/jiangweibeta/mlic)**|
 |**2023-07-18**|**ECSIC: Epipolar Cross Attention for Stereo Image Compression**|Matthias Wödlinger et.al.|[2307.10284](http://arxiv.org/abs/2307.10284)|null|
 |**2023-07-19**|**A3D: Adaptive, Accurate, and Autonomous Navigation for Edge-Assisted Drones**|Liekang Zeng et.al.|[2307.09880](http://arxiv.org/abs/2307.09880)|null|
 |**2023-07-18**|**Deep Physics-Guided Unrolling Generalization for Compressed Sensing**|Bin Chen et.al.|[2307.08950](http://arxiv.org/abs/2307.08950)|**[link](https://github.com/guaishou74851/prl)**|
