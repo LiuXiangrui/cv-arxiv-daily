@@ -1593,6 +1593,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Bandwidth-efficient Inference for Neural Image Compression**|Shanzhi Yin et.al.|[2309.02855](http://arxiv.org/abs/2309.02855)|null|
+|**2023-09-05**|**An Improved Upper Bound on the Rate-Distortion Function of Images**|Zhihao Duan et.al.|[2309.02574](http://arxiv.org/abs/2309.02574)|null|
+|**2023-09-05**|**Fast and High-Performance Learned Image Compression With Improved Checkerboard Context Model, Deformable Residual Module, and Knowledge Distillation**|Haisheng Fu et.al.|[2309.02529](http://arxiv.org/abs/2309.02529)|null|
 |**2023-09-03**|**Everyone Can Attack: Repurpose Lossy Compression as a Natural Backdoor Attack**|Sze Jue Yang et.al.|[2308.16684](http://arxiv.org/abs/2308.16684)|null|
 |**2023-08-28**|**Entropy-based Guidance of Deep Neural Networks for Accelerated Convergence and Improved Performance**|Mackenzie J. Meni et.al.|[2308.14938](http://arxiv.org/abs/2308.14938)|null|
 |**2023-08-27**|**Image Coding for Machines with Object Region Learning**|Takahiro Shindo et.al.|[2308.13984](http://arxiv.org/abs/2308.13984)|null|
