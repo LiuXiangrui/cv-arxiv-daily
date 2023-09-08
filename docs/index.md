@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1492,7 +1492,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-31**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
-|**2023-09-04**|**Deep Video Codec Control**|Christoph Reich et.al.|[2308.16215](http://arxiv.org/abs/2308.16215)|null|
+|**2023-09-07**|**Deep Video Codec Control**|Christoph Reich et.al.|[2308.16215](http://arxiv.org/abs/2308.16215)|null|
 |**2023-09-05**|**Neural Video Compression with Temporal Layer-Adaptive Hierarchical B-frame Coding**|Yeongwoong Kim et.al.|[2308.15791](http://arxiv.org/abs/2308.15791)|null|
 |**2023-08-18**|**LSCD: A Large-Scale Screen Content Dataset for Video Compression**|Yuhao Cheng et.al.|[2308.09332](http://arxiv.org/abs/2308.09332)|null|
 |**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
@@ -1593,7 +1593,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-06**|**Bandwidth-efficient Inference for Neural Image Compression**|Shanzhi Yin et.al.|[2309.02855](http://arxiv.org/abs/2309.02855)|null|
+|**2023-09-07**|**Bandwidth-efficient Inference for Neural Image Compression**|Shanzhi Yin et.al.|[2309.02855](http://arxiv.org/abs/2309.02855)|null|
 |**2023-09-05**|**An Improved Upper Bound on the Rate-Distortion Function of Images**|Zhihao Duan et.al.|[2309.02574](http://arxiv.org/abs/2309.02574)|null|
 |**2023-09-05**|**Fast and High-Performance Learned Image Compression With Improved Checkerboard Context Model, Deformable Residual Module, and Knowledge Distillation**|Haisheng Fu et.al.|[2309.02529](http://arxiv.org/abs/2309.02529)|null|
 |**2023-09-03**|**Everyone Can Attack: Repurpose Lossy Compression as a Natural Backdoor Attack**|Sze Jue Yang et.al.|[2308.16684](http://arxiv.org/abs/2308.16684)|null|
