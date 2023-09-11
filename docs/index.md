@@ -1228,7 +1228,7 @@ layout: default
 |**2023-03-28**|**VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**|Yuan-Chen Guo et.al.|[2303.16184](http://arxiv.org/abs/2303.16184)|null|
 |**2023-03-30**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001](http://arxiv.org/abs/2303.16001)|null|
 |**2023-03-28**|**F $^{2}$ -NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951](http://arxiv.org/abs/2303.15951)|**[link](https://github.com/Totoro97/f2-nerf)**|
-|**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427](http://arxiv.org/abs/2303.15427)|null|
+|**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427](http://arxiv.org/abs/2303.15427)|**[link](https://github.com/robincourant/jaws)**|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387](http://arxiv.org/abs/2303.15387)|null|
 |**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368](http://arxiv.org/abs/2303.15368)|null|
 |**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206](http://arxiv.org/abs/2303.15206)|null|
@@ -1323,7 +1323,7 @@ layout: default
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522](http://arxiv.org/abs/2301.11522)|null|
 |**2023-01-27**|**SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning**|Dongseok Shim et.al.|[2301.11520](http://arxiv.org/abs/2301.11520)|null|
 |**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280](http://arxiv.org/abs/2301.11280)|null|
-|**2023-01-26**|**GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**|Minseop Kwak et.al.|[2301.10941](http://arxiv.org/abs/2301.10941)|null|
+|**2023-01-26**|**GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**|Minseop Kwak et.al.|[2301.10941](http://arxiv.org/abs/2301.10941)|**[link](https://github.com/KU-CVLAB/GeCoNeRF)**|
 |**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632](http://arxiv.org/abs/2301.09632)|**[link](https://github.com/Caoang327/HexPlane)**|
 |**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060](http://arxiv.org/abs/2301.09060)|null|
 |**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556](http://arxiv.org/abs/2301.08556)|null|
