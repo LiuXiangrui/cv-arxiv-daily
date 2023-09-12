@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**CANF-VC++: Enhancing Conditional Augmented Normalizing Flows for Video Compression with Advanced Techniques**|Peng-Yu Chen et.al.|[2309.05382](http://arxiv.org/abs/2309.05382)|null|
 |**2023-09-08**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
 |**2023-09-07**|**Deep Video Codec Control**|Christoph Reich et.al.|[2308.16215](http://arxiv.org/abs/2308.16215)|null|
 |**2023-09-05**|**Neural Video Compression with Temporal Layer-Adaptive Hierarchical B-frame Coding**|Yeongwoong Kim et.al.|[2308.15791](http://arxiv.org/abs/2308.15791)|null|
@@ -1617,6 +1618,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239](http://arxiv.org/abs/2309.05239)|**[link](https://github.com/xpixelgroup/hat)**|
 |**2023-09-06**|**EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation**|Nikolai Körber et.al.|[2309.03244](http://arxiv.org/abs/2309.03244)|**[link](https://github.com/nikolai10/egic)**|
 |**2023-09-07**|**Bandwidth-efficient Inference for Neural Image Compression**|Shanzhi Yin et.al.|[2309.02855](http://arxiv.org/abs/2309.02855)|null|
 |**2023-09-05**|**An Improved Upper Bound on the Rate-Distortion Function of Images**|Zhihao Duan et.al.|[2309.02574](http://arxiv.org/abs/2309.02574)|null|
