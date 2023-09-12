@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.11
+## Updated on 2023.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1593,7 +1593,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-06**|**EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation**|Nikolai Körber et.al.|[2309.03244](http://arxiv.org/abs/2309.03244)|null|
+|**2023-09-06**|**EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation**|Nikolai Körber et.al.|[2309.03244](http://arxiv.org/abs/2309.03244)|**[link](https://github.com/nikolai10/egic)**|
 |**2023-09-07**|**Bandwidth-efficient Inference for Neural Image Compression**|Shanzhi Yin et.al.|[2309.02855](http://arxiv.org/abs/2309.02855)|null|
 |**2023-09-05**|**An Improved Upper Bound on the Rate-Distortion Function of Images**|Zhihao Duan et.al.|[2309.02574](http://arxiv.org/abs/2309.02574)|null|
 |**2023-09-05**|**Fast and High-Performance Learned Image Compression With Improved Checkerboard Context Model, Deformable Residual Module, and Knowledge Distillation**|Haisheng Fu et.al.|[2309.02529](http://arxiv.org/abs/2309.02529)|null|
