@@ -1491,6 +1491,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Context-Aware Neural Video Compression on Solar Dynamics Observatory**|Atefeh Khoshkhahtinat et.al.|[2309.10784](http://arxiv.org/abs/2309.10784)|null|
+|**2023-09-18**|**SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models**|Shyam Sundar Kannan et.al.|[2309.10062](http://arxiv.org/abs/2309.10062)|null|
 |**2023-09-14**|**MPAI-EEV: Standardization Efforts of Artificial Intelligence based End-to-End Video Coding**|Chuanmin Jia et.al.|[2309.07589](http://arxiv.org/abs/2309.07589)|null|
 |**2023-09-14**|**VCD: A Video Conferencing Dataset for Video Compression**|Babak Naderi et.al.|[2309.07376](http://arxiv.org/abs/2309.07376)|null|
 |**2023-09-13**|**Designs and Implementations in Neural Network-based Video Coding**|Yue Li et.al.|[2309.05846](http://arxiv.org/abs/2309.05846)|null|
@@ -1597,6 +1599,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Multi-Context Dual Hyper-Prior Neural Image Compression**|Atefeh Khoshkhahtinat et.al.|[2309.10799](http://arxiv.org/abs/2309.10799)|null|
+|**2023-09-19**|**Multi-spectral Entropy Constrained Neural Compression of Solar Imagery**|Ali Zafari et.al.|[2309.10791](http://arxiv.org/abs/2309.10791)|null|
 |**2023-09-11**|**COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**|Jongmin Park et.al.|[2309.07926](http://arxiv.org/abs/2309.07926)|null|
 |**2023-09-13**|**Implicit Neural Multiple Description for DNA-based data storage**|Trung Hieu Le et.al.|[2309.06956](http://arxiv.org/abs/2309.06956)|null|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239](http://arxiv.org/abs/2309.05239)|**[link](https://github.com/xpixelgroup/hat)**|
