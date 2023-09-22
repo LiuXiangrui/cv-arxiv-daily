@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|null|
+|**2023-09-21**|**Spatial-Temporal Transformer based Video Compression Framework**|Yanbo Gao et.al.|[2309.11913](http://arxiv.org/abs/2309.11913)|null|
 |**2023-09-20**|**GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation**|Jiewen Yang et.al.|[2309.11145](http://arxiv.org/abs/2309.11145)|**[link](https://github.com/xmed-lab/GraphEcho)**|
 |**2023-09-19**|**Context-Aware Neural Video Compression on Solar Dynamics Observatory**|Atefeh Khoshkhahtinat et.al.|[2309.10784](http://arxiv.org/abs/2309.10784)|null|
 |**2023-09-18**|**SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models**|Shyam Sundar Kannan et.al.|[2309.10062](http://arxiv.org/abs/2309.10062)|null|
@@ -1624,6 +1626,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Neural Image Compression Using Masked Sparse Visual Representation**|Wei Jiang et.al.|[2309.11661](http://arxiv.org/abs/2309.11661)|null|
 |**2023-09-19**|**Multi-Context Dual Hyper-Prior Neural Image Compression**|Atefeh Khoshkhahtinat et.al.|[2309.10799](http://arxiv.org/abs/2309.10799)|null|
 |**2023-09-19**|**Multi-spectral Entropy Constrained Neural Compression of Solar Imagery**|Ali Zafari et.al.|[2309.10791](http://arxiv.org/abs/2309.10791)|null|
 |**2023-09-11**|**COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**|Jongmin Park et.al.|[2309.07926](http://arxiv.org/abs/2309.07926)|null|
