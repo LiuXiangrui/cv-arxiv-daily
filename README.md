@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**A Quantum-Classical Hybrid Block-Matching Algorithm in Noisy Environment using Dissimilarity Measure**|M. Martínez-Felipe et.al.|[2309.15792](http://arxiv.org/abs/2309.15792)|null|
 |**2023-09-25**|**IBVC: Interpolation-driven B-frame Video Compression**|Meiqin Liu et.al.|[2309.13835](http://arxiv.org/abs/2309.13835)|null|
 |**2023-09-24**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|null|
 |**2023-09-21**|**Spatial-Temporal Transformer based Video Compression Framework**|Yanbo Gao et.al.|[2309.11913](http://arxiv.org/abs/2309.11913)|null|
@@ -1675,7 +1676,7 @@
 |**2023-06-15**|**Exploring Resolution Fields for Scalable Image Compression with Uncertainty Guidance**|Dongyi Zhang et.al.|[2306.08941](http://arxiv.org/abs/2306.08941)|**[link](https://github.com/jgiroro/rpnsic)**|
 |**2023-06-13**|**Localization of Just Noticeable Difference for Image Compression**|Guangan Chen et.al.|[2306.07678](http://arxiv.org/abs/2306.07678)|**[link](https://github.com/angchen-dev/locjnd)**|
 |**2023-06-09**|**Exploring Effective Mask Sampling Modeling for Neural Image Compression**|Lin Liu et.al.|[2306.05704](http://arxiv.org/abs/2306.05704)|null|
-|**2023-08-18**|**TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception**|Yi-Hsin Chen et.al.|[2306.05085](http://arxiv.org/abs/2306.05085)|null|
+|**2023-08-18**|**TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception**|Yi-Hsin Chen et.al.|[2306.05085](http://arxiv.org/abs/2306.05085)|**[link](https://github.com/NYCU-MAPL/TransTIC)**|
 |**2023-06-07**|**Integrated Photonic Encoder for Terapixel Image Processing**|Xiao Wang et.al.|[2306.04554](http://arxiv.org/abs/2306.04554)|null|
 |**2023-06-01**|**Reconstruction Distortion of Learned Image Compression with Imperceptible Perturbations**|Yang Sui et.al.|[2306.01125](http://arxiv.org/abs/2306.01125)|null|
 |**2023-06-01**|**Wuerstchen: Efficient Pretraining of Text-to-Image Models**|Pablo Pernias et.al.|[2306.00637](http://arxiv.org/abs/2306.00637)|**[link](https://github.com/dome272/wuerstchen)**|
