@@ -1604,6 +1604,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Linear Progressive Coding for Semantic Communication using Deep Neural Networks**|Eva Riherd et.al.|[2309.15959](http://arxiv.org/abs/2309.15959)|null|
 |**2023-09-23**|**Gaining Insights into Denoising by Inpainting**|Daniel Gaa et.al.|[2309.13486](http://arxiv.org/abs/2309.13486)|null|
 |**2023-09-22**|**Transformer-based Image Compression with Variable Image Quality Objectives**|Chia-Hao Kao et.al.|[2309.12717](http://arxiv.org/abs/2309.12717)|null|
 |**2023-09-20**|**Neural Image Compression Using Masked Sparse Visual Representation**|Wei Jiang et.al.|[2309.11661](http://arxiv.org/abs/2309.11661)|null|
