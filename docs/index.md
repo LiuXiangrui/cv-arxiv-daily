@@ -1604,6 +1604,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Maximal Volume Matrix Cross Approximation for Image Compression and Least Squares Solution**|Kenneth Allen et.al.|[2309.17403](http://arxiv.org/abs/2309.17403)|null|
+|**2023-09-29**|**On Uniform Scalar Quantization for Learned Image Compression**|Haotian Zhang et.al.|[2309.17051](http://arxiv.org/abs/2309.17051)|null|
 |**2023-09-27**|**Linear Progressive Coding for Semantic Communication using Deep Neural Networks**|Eva Riherd et.al.|[2309.15959](http://arxiv.org/abs/2309.15959)|null|
 |**2023-09-23**|**Gaining Insights into Denoising by Inpainting**|Daniel Gaa et.al.|[2309.13486](http://arxiv.org/abs/2309.13486)|null|
 |**2023-09-22**|**Transformer-based Image Compression with Variable Image Quality Objectives**|Chia-Hao Kao et.al.|[2309.12717](http://arxiv.org/abs/2309.12717)|null|
