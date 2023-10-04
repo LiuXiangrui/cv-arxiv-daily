@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device**|Ties van Rozendaal et.al.|[2310.01258](http://arxiv.org/abs/2310.01258)|null|
 |**2023-09-27**|**A Quantum-Classical Hybrid Block-Matching Algorithm in Noisy Environment using Dissimilarity Measure**|M. Martínez-Felipe et.al.|[2309.15792](http://arxiv.org/abs/2309.15792)|null|
 |**2023-09-25**|**IBVC: Interpolation-driven B-frame Video Compression**|Meiqin Liu et.al.|[2309.13835](http://arxiv.org/abs/2309.13835)|null|
 |**2023-09-24**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|null|
@@ -1628,6 +1629,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-01**|**CPIPS: Learning to Preserve Perceptual Distances in End-to-End Image Compression**|Chen-Hsiu Huang et.al.|[2310.00559](http://arxiv.org/abs/2310.00559)|null|
 |**2023-09-29**|**Maximal Volume Matrix Cross Approximation for Image Compression and Least Squares Solution**|Kenneth Allen et.al.|[2309.17403](http://arxiv.org/abs/2309.17403)|null|
 |**2023-09-29**|**On Uniform Scalar Quantization for Learned Image Compression**|Haotian Zhang et.al.|[2309.17051](http://arxiv.org/abs/2309.17051)|null|
 |**2023-09-27**|**Linear Progressive Coding for Semantic Communication using Deep Neural Networks**|Eva Riherd et.al.|[2309.15959](http://arxiv.org/abs/2309.15959)|null|
