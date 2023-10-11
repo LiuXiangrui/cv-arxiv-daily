@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1491,7 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|null|
+|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|**[link](https://github.com/google-research/magvit)**|
 |**2023-10-09**|**Efficient Predictive Coding of Intra Prediction Modes**|Kevin Reuzé et.al.|[2310.05623](http://arxiv.org/abs/2310.05623)|null|
 |**2023-10-07**|**High Visual-Fidelity Learned Video Compression**|Meng Li et.al.|[2310.04679](http://arxiv.org/abs/2310.04679)|null|
 |**2023-10-02**|**MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device**|Ties van Rozendaal et.al.|[2310.01258](http://arxiv.org/abs/2310.01258)|null|
@@ -1618,7 +1618,7 @@ layout: default
 |**2023-09-22**|**Transformer-based Image Compression with Variable Image Quality Objectives**|Chia-Hao Kao et.al.|[2309.12717](http://arxiv.org/abs/2309.12717)|null|
 |**2023-09-20**|**Neural Image Compression Using Masked Sparse Visual Representation**|Wei Jiang et.al.|[2309.11661](http://arxiv.org/abs/2309.11661)|null|
 |**2023-09-19**|**Multi-Context Dual Hyper-Prior Neural Image Compression**|Atefeh Khoshkhahtinat et.al.|[2309.10799](http://arxiv.org/abs/2309.10799)|null|
-|**2023-09-19**|**Multi-spectral Entropy Constrained Neural Compression of Solar Imagery**|Ali Zafari et.al.|[2309.10791](http://arxiv.org/abs/2309.10791)|null|
+|**2023-10-10**|**Multi-spectral Entropy Constrained Neural Compression of Solar Imagery**|Ali Zafari et.al.|[2309.10791](http://arxiv.org/abs/2309.10791)|null|
 |**2023-09-11**|**COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**|Jongmin Park et.al.|[2309.07926](http://arxiv.org/abs/2309.07926)|null|
 |**2023-09-13**|**Implicit Neural Multiple Description for DNA-based data storage**|Trung Hieu Le et.al.|[2309.06956](http://arxiv.org/abs/2309.06956)|null|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239](http://arxiv.org/abs/2309.05239)|**[link](https://github.com/xpixelgroup/hat)**|
