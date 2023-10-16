@@ -1501,7 +1501,7 @@ layout: default
 |**2023-10-02**|**MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device**|Ties van Rozendaal et.al.|[2310.01258](http://arxiv.org/abs/2310.01258)|null|
 |**2023-09-27**|**A Quantum-Classical Hybrid Block-Matching Algorithm in Noisy Environment using Dissimilarity Measure**|M. Martínez-Felipe et.al.|[2309.15792](http://arxiv.org/abs/2309.15792)|null|
 |**2023-09-25**|**IBVC: Interpolation-driven B-frame Video Compression**|Meiqin Liu et.al.|[2309.13835](http://arxiv.org/abs/2309.13835)|null|
-|**2023-09-24**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|null|
+|**2023-09-24**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|**[link](https://github.com/force-sight/forcesight)**|
 |**2023-09-21**|**Spatial-Temporal Transformer based Video Compression Framework**|Yanbo Gao et.al.|[2309.11913](http://arxiv.org/abs/2309.11913)|null|
 |**2023-09-20**|**GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation**|Jiewen Yang et.al.|[2309.11145](http://arxiv.org/abs/2309.11145)|**[link](https://github.com/xmed-lab/GraphEcho)**|
 |**2023-09-19**|**Context-Aware Neural Video Compression on Solar Dynamics Observatory**|Atefeh Khoshkhahtinat et.al.|[2309.10784](http://arxiv.org/abs/2309.10784)|null|
