@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Language Models as Zero-Shot Trajectory Generators**|Teyun Kwon et.al.|[2310.11604](http://arxiv.org/abs/2310.11604)|null|
 |**2023-10-16**|**Effortless Cross-Platform Video Codec: A Codebook-Based Method**|Kuan Tian et.al.|[2310.10292](http://arxiv.org/abs/2310.10292)|null|
 |**2023-10-16**|**Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning**|Dhruv Shah et.al.|[2310.10103](http://arxiv.org/abs/2310.10103)|null|
 |**2023-10-14**|**Energy-Efficient Multi-Codec Bitrate-Ladder Estimation for Adaptive Video Streaming**|Vignesh V Menon et.al.|[2310.09570](http://arxiv.org/abs/2310.09570)|null|
@@ -1639,6 +1640,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076](http://arxiv.org/abs/2310.12076)|null|
 |**2023-10-17**|**Image Compression using only Attention based Neural Networks**|Natacha Luka et.al.|[2310.11265](http://arxiv.org/abs/2310.11265)|null|
 |**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028](http://arxiv.org/abs/2310.11028)|null|
 |**2023-10-16**|**Distribution prediction for image compression: An experimental re-compressor for JPEG images**|Maxim Koroteev et.al.|[2310.10517](http://arxiv.org/abs/2310.10517)|null|
