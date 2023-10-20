@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1623,7 +1623,7 @@ layout: default
 |**2023-10-16**|**Towards image compression with perfect realism at ultra-low bitrates**|Marlène Careil et.al.|[2310.10325](http://arxiv.org/abs/2310.10325)|null|
 |**2023-10-16**|**Deep Unfolding Network for Image Compressed Sensing by Content-adaptive Gradient Updating and Deformation-invariant Non-local Modeling**|Wenxue Cui et.al.|[2310.10033](http://arxiv.org/abs/2310.10033)|null|
 |**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068](http://arxiv.org/abs/2310.08068)|null|
-|**2023-10-08**|**Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography**|InChan Hwang et.al.|[2310.05299](http://arxiv.org/abs/2310.05299)|null|
+|**2023-10-08**|**Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography**|InChan Hwang et.al.|[2310.05299](http://arxiv.org/abs/2310.05299)|**[link](https://github.com/neogeoss/EMBED_Mammo_Models)**|
 |**2023-10-08**|**Intelligent DRL-Based Adaptive Region of Interest for Delay-sensitive Telemedicine Applications**|Abdulrahman Soliman et.al.|[2310.05099](http://arxiv.org/abs/2310.05099)|null|
 |**2023-10-01**|**CPIPS: Learning to Preserve Perceptual Distances in End-to-End Image Compression**|Chen-Hsiu Huang et.al.|[2310.00559](http://arxiv.org/abs/2310.00559)|null|
 |**2023-09-29**|**Maximal Volume Matrix Cross Approximation for Image Compression and Least Squares Solution**|Kenneth Allen et.al.|[2309.17403](http://arxiv.org/abs/2309.17403)|null|
