@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang et.al.|[2310.12733](http://arxiv.org/abs/2310.12733)|null|
 |**2023-10-17**|**Language Models as Zero-Shot Trajectory Generators**|Teyun Kwon et.al.|[2310.11604](http://arxiv.org/abs/2310.11604)|null|
 |**2023-10-16**|**Effortless Cross-Platform Video Codec: A Codebook-Based Method**|Kuan Tian et.al.|[2310.10292](http://arxiv.org/abs/2310.10292)|null|
 |**2023-10-16**|**Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning**|Dhruv Shah et.al.|[2310.10103](http://arxiv.org/abs/2310.10103)|null|
