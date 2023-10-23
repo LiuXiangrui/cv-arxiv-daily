@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Video Quality Assessment and Coding Complexity of the Versatile Video Coding Standard**|Thomas Amestoy et.al.|[2310.13093](http://arxiv.org/abs/2310.13093)|null|
 |**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang et.al.|[2310.12733](http://arxiv.org/abs/2310.12733)|null|
 |**2023-10-17**|**Language Models as Zero-Shot Trajectory Generators**|Teyun Kwon et.al.|[2310.11604](http://arxiv.org/abs/2310.11604)|null|
 |**2023-10-16**|**Effortless Cross-Platform Video Codec: A Codebook-Based Method**|Kuan Tian et.al.|[2310.10292](http://arxiv.org/abs/2310.10292)|null|
@@ -1617,6 +1618,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Diagnosis-oriented Medical Image Compression with Efficient Transfer Learning**|Guangqi Xie et.al.|[2310.13250](http://arxiv.org/abs/2310.13250)|null|
 |**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076](http://arxiv.org/abs/2310.12076)|null|
 |**2023-10-17**|**Image Compression using only Attention based Neural Networks**|Natacha Luka et.al.|[2310.11265](http://arxiv.org/abs/2310.11265)|null|
 |**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028](http://arxiv.org/abs/2310.11028)|null|
