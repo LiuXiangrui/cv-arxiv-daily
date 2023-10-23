@@ -1589,7 +1589,7 @@
 |**2023-05-17**|**Multimodal Short Video Rumor Detection System Based on Contrastive Learning**|Yuxing Yang et.al.|[2304.08401](http://arxiv.org/abs/2304.08401)|null|
 |**2023-04-15**|**Hierarchical Interactive Reconstruction Network For Video Compressive Sensing**|Tong Zhang et.al.|[2304.07473](http://arxiv.org/abs/2304.07473)|null|
 |**2023-05-04**|**Perceptual Quality Assessment of Face Video Compression: A Benchmark and An Effective Method**|Yixuan Li et.al.|[2304.07056](http://arxiv.org/abs/2304.07056)|**[link](https://github.com/yixuan423/compressed-face-videos-quality-assessment)**|
-|**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|
+|**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|**[link](https://github.com/adobe-research/diffusion-rig)**|
 |**2023-04-13**|**DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos**|Qi Zhao et.al.|[2304.06544](http://arxiv.org/abs/2304.06544)|null|
 |**2023-04-12**|**An Optimal SVC Bitstream Schema for Viewport-dependent 360-degree Video Streaming**|Gang Shen et.al.|[2304.05654](http://arxiv.org/abs/2304.05654)|null|
 |**2023-04-06**|**One Transform To Compute Them All: Efficient Fusion-Based Full-Reference Video Quality Assessment**|Abhinau K. Venkataramanan et.al.|[2304.03412](http://arxiv.org/abs/2304.03412)|null|
