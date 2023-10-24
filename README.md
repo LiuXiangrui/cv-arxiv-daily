@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**CNN-based Prediction of Partition Path for VVC Fast Inter Partitioning Using Motion Fields**|Yiqun Liu et.al.|[2310.13838](http://arxiv.org/abs/2310.13838)|**[link](https://github.com/simon123123/vtm10_fast_dt_inter_partition_pcs2021)**|
 |**2023-10-19**|**Video Quality Assessment and Coding Complexity of the Versatile Video Coding Standard**|Thomas Amestoy et.al.|[2310.13093](http://arxiv.org/abs/2310.13093)|null|
 |**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang et.al.|[2310.12733](http://arxiv.org/abs/2310.12733)|null|
 |**2023-10-17**|**Language Models as Zero-Shot Trajectory Generators**|Teyun Kwon et.al.|[2310.11604](http://arxiv.org/abs/2310.11604)|null|
