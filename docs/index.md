@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1664,7 +1664,7 @@ layout: default
 |**2023-07-18**|**ECSIC: Epipolar Cross Attention for Stereo Image Compression**|Matthias Wödlinger et.al.|[2307.10284](http://arxiv.org/abs/2307.10284)|null|
 |**2023-07-19**|**A3D: Adaptive, Accurate, and Autonomous Navigation for Edge-Assisted Drones**|Liekang Zeng et.al.|[2307.09880](http://arxiv.org/abs/2307.09880)|null|
 |**2023-07-18**|**Deep Physics-Guided Unrolling Generalization for Compressed Sensing**|Bin Chen et.al.|[2307.08950](http://arxiv.org/abs/2307.08950)|**[link](https://github.com/guaishou74851/prl)**|
-|**2023-07-17**|**Neural Image Compression: Generalization, Robustness, and Spectral Biases**|Kelsey Lieberman et.al.|[2307.08657](http://arxiv.org/abs/2307.08657)|null|
+|**2023-10-27**|**Neural Image Compression: Generalization, Robustness, and Spectral Biases**|Kelsey Lieberman et.al.|[2307.08657](http://arxiv.org/abs/2307.08657)|null|
 |**2023-08-07**|**Extreme Image Compression using Fine-tuned VQGAN Models**|Qi Mao et.al.|[2307.08265](http://arxiv.org/abs/2307.08265)|null|
 |**2023-07-12**|**ConvNeXt-ChARM: ConvNeXt-based Transform for Efficient Neural Image Compression**|Ahmed Ghorbel et.al.|[2307.06342](http://arxiv.org/abs/2307.06342)|null|
 |**2023-07-12**|**Spatially-Adaptive Learning-Based Image Compression with Hierarchical Multi-Scale Latent Spaces**|Fabian Brand et.al.|[2307.06102](http://arxiv.org/abs/2307.06102)|null|
