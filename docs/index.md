@@ -1522,6 +1522,7 @@ layout: default
 |**2023-09-08**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
 |**2023-09-16**|**Deep Video Codec Control**|Christoph Reich et.al.|[2308.16215](http://arxiv.org/abs/2308.16215)|null|
 |**2023-09-05**|**Neural Video Compression with Temporal Layer-Adaptive Hierarchical B-frame Coding**|Yeongwoong Kim et.al.|[2308.15791](http://arxiv.org/abs/2308.15791)|null|
+|**2023-10-30**|**RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D**|Shuhei Kurita et.al.|[2308.12035](http://arxiv.org/abs/2308.12035)|**[link](https://github.com/shuheikurita/refego)**|
 |**2023-08-18**|**LSCD: A Large-Scale Screen Content Dataset for Video Compression**|Yuhao Cheng et.al.|[2308.09332](http://arxiv.org/abs/2308.09332)|null|
 |**2023-10-07**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
@@ -1621,6 +1622,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**A Principled Hierarchical Deep Learning Approach to Joint Image Compression and Classification**|Siyu Qi et.al.|[2310.19675](http://arxiv.org/abs/2310.19675)|null|
 |**2023-10-25**|**Frequency-Aware Transformer for Learned Image Compression**|Han Li et.al.|[2310.16387](http://arxiv.org/abs/2310.16387)|null|
 |**2023-10-20**|**Diagnosis-oriented Medical Image Compression with Efficient Transfer Learning**|Guangqi Xie et.al.|[2310.13250](http://arxiv.org/abs/2310.13250)|null|
 |**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076](http://arxiv.org/abs/2310.12076)|null|
