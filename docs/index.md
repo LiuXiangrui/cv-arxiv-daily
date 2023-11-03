@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-31**|**UAV Immersive Video Streaming: A Comprehensive Survey, Benchmarking, and Open Challenges**|Mohit K. Sharma et.al.|[2311.00082](http://arxiv.org/abs/2311.00082)|null|
 |**2023-10-25**|**Exploring Behavior Discovery Methods for Heterogeneous Swarms of Limited-Capability Robots**|Connor Mattson et.al.|[2310.16941](http://arxiv.org/abs/2310.16941)|null|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029](http://arxiv.org/abs/2310.16029)|null|
@@ -1623,6 +1624,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Deep learning based Image Compression for Microscopy Images: An Empirical Study**|Yu Zhou et.al.|[2311.01352](http://arxiv.org/abs/2311.01352)|null|
+|**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-30**|**A Principled Hierarchical Deep Learning Approach to Joint Image Compression and Classification**|Siyu Qi et.al.|[2310.19675](http://arxiv.org/abs/2310.19675)|null|
 |**2023-10-25**|**Frequency-Aware Transformer for Learned Image Compression**|Han Li et.al.|[2310.16387](http://arxiv.org/abs/2310.16387)|null|
 |**2023-10-20**|**Diagnosis-oriented Medical Image Compression with Efficient Transfer Learning**|Guangqi Xie et.al.|[2310.13250](http://arxiv.org/abs/2310.13250)|null|
