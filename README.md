@@ -1513,6 +1513,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Tensor Golub Kahan based on Einstein product**|Anas El Hachimi et.al.|[2311.03109](http://arxiv.org/abs/2311.03109)|null|
+|**2023-11-05**|**Enhanced adaptive cross-layer scheme for low latency HEVC streaming over Vehicular Ad-hoc Networks (VANETs)**|Mohamed Aymen Labiod et.al.|[2311.02664](http://arxiv.org/abs/2311.02664)|null|
+|**2023-11-05**|**Generative Face Video Coding Techniques and Standardization Efforts: A Review**|Bolin Chen et.al.|[2311.02649](http://arxiv.org/abs/2311.02649)|null|
 |**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-31**|**UAV Immersive Video Streaming: A Comprehensive Survey, Benchmarking, and Open Challenges**|Mohit K. Sharma et.al.|[2311.00082](http://arxiv.org/abs/2311.00082)|null|
 |**2023-10-25**|**Exploring Behavior Discovery Methods for Heterogeneous Swarms of Limited-Capability Robots**|Connor Mattson et.al.|[2310.16941](http://arxiv.org/abs/2310.16941)|null|
@@ -1648,6 +1651,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
+|**2023-11-06**|**Neural-based Compression Scheme for Solar Image Data**|Ali Zafari et.al.|[2311.02855](http://arxiv.org/abs/2311.02855)|null|
 |**2023-11-02**|**Deep learning based Image Compression for Microscopy Images: An Empirical Study**|Yu Zhou et.al.|[2311.01352](http://arxiv.org/abs/2311.01352)|null|
 |**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-30**|**A Principled Hierarchical Deep Learning Approach to Joint Image Compression and Classification**|Siyu Qi et.al.|[2310.19675](http://arxiv.org/abs/2310.19675)|null|
