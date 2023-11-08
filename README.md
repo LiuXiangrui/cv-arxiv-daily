@@ -1527,14 +1527,14 @@
 |**2023-10-16**|**Effortless Cross-Platform Video Codec: A Codebook-Based Method**|Kuan Tian et.al.|[2310.10292](http://arxiv.org/abs/2310.10292)|null|
 |**2023-10-16**|**Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning**|Dhruv Shah et.al.|[2310.10103](http://arxiv.org/abs/2310.10103)|null|
 |**2023-10-14**|**Energy-Efficient Multi-Codec Bitrate-Ladder Estimation for Adaptive Video Streaming**|Vignesh V Menon et.al.|[2310.09570](http://arxiv.org/abs/2310.09570)|null|
-|**2023-10-12**|**MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding**|Vinh Van Duong et.al.|[2310.08006](http://arxiv.org/abs/2310.08006)|**[link](https://github.com/duongvinh/mcpns)**|
+|**2023-11-07**|**MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding**|Vinh Van Duong et.al.|[2310.08006](http://arxiv.org/abs/2310.08006)|**[link](https://github.com/duongvinh/mcpns)**|
 |**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896](http://arxiv.org/abs/2310.07896)|null|
 |**2023-10-10**|**Encoder-Decoder-Based Intra-Frame Block Partitioning Decision**|Yucheng Jiang et.al.|[2310.06412](http://arxiv.org/abs/2310.06412)|null|
 |**2023-10-10**|**Compression Ratio Learning and Semantic Communications for Video Imaging**|Bowen Zhang et.al.|[2310.06246](http://arxiv.org/abs/2310.06246)|null|
 |**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|null|
 |**2023-10-09**|**Efficient Predictive Coding of Intra Prediction Modes**|Kevin Reuzé et.al.|[2310.05623](http://arxiv.org/abs/2310.05623)|null|
 |**2023-10-07**|**High Visual-Fidelity Learned Video Compression**|Meng Li et.al.|[2310.04679](http://arxiv.org/abs/2310.04679)|null|
-|**2023-10-02**|**MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device**|Ties van Rozendaal et.al.|[2310.01258](http://arxiv.org/abs/2310.01258)|null|
+|**2023-11-07**|**MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device**|Ties van Rozendaal et.al.|[2310.01258](http://arxiv.org/abs/2310.01258)|null|
 |**2023-09-27**|**A Quantum-Classical Hybrid Block-Matching Algorithm in Noisy Environment using Dissimilarity Measure**|M. Martínez-Felipe et.al.|[2309.15792](http://arxiv.org/abs/2309.15792)|null|
 |**2023-09-25**|**IBVC: Interpolation-driven B-frame Video Compression**|Meiqin Liu et.al.|[2309.13835](http://arxiv.org/abs/2309.13835)|null|
 |**2023-09-24**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|**[link](https://github.com/force-sight/forcesight)**|
