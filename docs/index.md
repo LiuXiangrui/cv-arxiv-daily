@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1505,7 +1505,7 @@ layout: default
 |**2023-10-16**|**Effortless Cross-Platform Video Codec: A Codebook-Based Method**|Kuan Tian et.al.|[2310.10292](http://arxiv.org/abs/2310.10292)|null|
 |**2023-10-16**|**Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning**|Dhruv Shah et.al.|[2310.10103](http://arxiv.org/abs/2310.10103)|null|
 |**2023-10-14**|**Energy-Efficient Multi-Codec Bitrate-Ladder Estimation for Adaptive Video Streaming**|Vignesh V Menon et.al.|[2310.09570](http://arxiv.org/abs/2310.09570)|null|
-|**2023-10-12**|**MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding**|Vinh Van Duong et.al.|[2310.08006](http://arxiv.org/abs/2310.08006)|null|
+|**2023-10-12**|**MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding**|Vinh Van Duong et.al.|[2310.08006](http://arxiv.org/abs/2310.08006)|**[link](https://github.com/duongvinh/mcpns)**|
 |**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896](http://arxiv.org/abs/2310.07896)|null|
 |**2023-10-10**|**Encoder-Decoder-Based Intra-Frame Block Partitioning Decision**|Yucheng Jiang et.al.|[2310.06412](http://arxiv.org/abs/2310.06412)|null|
 |**2023-10-10**|**Compression Ratio Learning and Semantic Communications for Video Imaging**|Bowen Zhang et.al.|[2310.06246](http://arxiv.org/abs/2310.06246)|null|
