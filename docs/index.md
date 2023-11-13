@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Evaluation of Sampling Algorithms for a Pairwise Subjective Assessment Methodology**|Shima Mohammadi et.al.|[2311.06093](http://arxiv.org/abs/2311.06093)|null|
 |**2023-11-08**|**Blurry Video Compression: A Trade-off between Visual Enhancement and Data Compression**|Dawit Mureja Argaw et.al.|[2311.04430](http://arxiv.org/abs/2311.04430)|null|
 |**2023-11-07**|**Perceptual Quality Improvement in Videoconferencing using Keyframes-based GAN**|Lorenzo Agnolucci et.al.|[2311.04263](http://arxiv.org/abs/2311.04263)|**[link](https://github.com/lorenzoagnolucci/keyframes-gan)**|
 |**2023-11-06**|**Tensor Golub Kahan based on Einstein product**|Anas El Hachimi et.al.|[2311.03109](http://arxiv.org/abs/2311.03109)|null|
