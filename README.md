@@ -1546,7 +1546,7 @@
 |**2023-09-19**|**Context-Aware Neural Video Compression on Solar Dynamics Observatory**|Atefeh Khoshkhahtinat et.al.|[2309.10784](http://arxiv.org/abs/2309.10784)|null|
 |**2023-09-18**|**SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models**|Shyam Sundar Kannan et.al.|[2309.10062](http://arxiv.org/abs/2309.10062)|null|
 |**2023-09-14**|**MPAI-EEV: Standardization Efforts of Artificial Intelligence based End-to-End Video Coding**|Chuanmin Jia et.al.|[2309.07589](http://arxiv.org/abs/2309.07589)|null|
-|**2023-09-14**|**VCD: A Video Conferencing Dataset for Video Compression**|Babak Naderi et.al.|[2309.07376](http://arxiv.org/abs/2309.07376)|null|
+|**2023-11-13**|**VCD: A Video Conferencing Dataset for Video Compression**|Babak Naderi et.al.|[2309.07376](http://arxiv.org/abs/2309.07376)|null|
 |**2023-09-13**|**Designs and Implementations in Neural Network-based Video Coding**|Yue Li et.al.|[2309.05846](http://arxiv.org/abs/2309.05846)|null|
 |**2023-09-11**|**CANF-VC++: Enhancing Conditional Augmented Normalizing Flows for Video Compression with Advanced Techniques**|Peng-Yu Chen et.al.|[2309.05382](http://arxiv.org/abs/2309.05382)|null|
 |**2023-09-08**|**SoDaCam: Software-defined Cameras via Single-Photon Imaging**|Varun Sundar et.al.|[2309.00066](http://arxiv.org/abs/2309.00066)|null|
@@ -1654,6 +1654,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Cattle Identification Using Muzzle Images and Deep Learning Techniques**|G. N. Kimani et.al.|[2311.08148](http://arxiv.org/abs/2311.08148)|**[link](https://github.com/peter716/animal_biometrics_system)**|
 |**2023-11-08**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
 |**2023-11-06**|**Neural-based Compression Scheme for Solar Image Data**|Ali Zafari et.al.|[2311.02855](http://arxiv.org/abs/2311.02855)|null|
 |**2023-11-02**|**Deep learning based Image Compression for Microscopy Images: An Empirical Study**|Yu Zhou et.al.|[2311.01352](http://arxiv.org/abs/2311.01352)|null|
