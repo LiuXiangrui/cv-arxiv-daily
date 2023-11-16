@@ -1515,7 +1515,7 @@ layout: default
 |**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|null|
 |**2023-10-09**|**Efficient Predictive Coding of Intra Prediction Modes**|Kevin Reuzé et.al.|[2310.05623](http://arxiv.org/abs/2310.05623)|null|
 |**2023-10-07**|**High Visual-Fidelity Learned Video Compression**|Meng Li et.al.|[2310.04679](http://arxiv.org/abs/2310.04679)|null|
-|**2023-11-07**|**MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device**|Ties van Rozendaal et.al.|[2310.01258](http://arxiv.org/abs/2310.01258)|null|
+|**2023-11-15**|**MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device**|Ties van Rozendaal et.al.|[2310.01258](http://arxiv.org/abs/2310.01258)|null|
 |**2023-09-27**|**A Quantum-Classical Hybrid Block-Matching Algorithm in Noisy Environment using Dissimilarity Measure**|M. Martínez-Felipe et.al.|[2309.15792](http://arxiv.org/abs/2309.15792)|null|
 |**2023-09-25**|**IBVC: Interpolation-driven B-frame Video Compression**|Meiqin Liu et.al.|[2309.13835](http://arxiv.org/abs/2309.13835)|null|
 |**2023-09-24**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|**[link](https://github.com/force-sight/forcesight)**|
