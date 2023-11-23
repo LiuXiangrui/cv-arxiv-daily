@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Deep Learning-Based Real-Time Quality Control of Standard Video Compression for Live Streaming**|Matin Mortaheb et.al.|[2311.12918](http://arxiv.org/abs/2311.12918)|null|
+|**2023-09-24**|**Semantic Face Compression for Metaverse: A Compact 3D Descriptor Based Approach**|Binzhe Li et.al.|[2311.12817](http://arxiv.org/abs/2311.12817)|null|
 |**2023-11-10**|**Evaluation of Sampling Algorithms for a Pairwise Subjective Assessment Methodology**|Shima Mohammadi et.al.|[2311.06093](http://arxiv.org/abs/2311.06093)|null|
 |**2023-11-08**|**Blurry Video Compression: A Trade-off between Visual Enhancement and Data Compression**|Dawit Mureja Argaw et.al.|[2311.04430](http://arxiv.org/abs/2311.04430)|null|
 |**2023-11-07**|**Perceptual Quality Improvement in Videoconferencing using Keyframes-based GAN**|Lorenzo Agnolucci et.al.|[2311.04263](http://arxiv.org/abs/2311.04263)|**[link](https://github.com/lorenzoagnolucci/keyframes-gan)**|
@@ -1654,6 +1656,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Single Image Compressed Sensing MRI via a Self-Supervised Deep Denoising Approach**|Marlon Bran Lorenzana et.al.|[2311.13144](http://arxiv.org/abs/2311.13144)|null|
+|**2023-09-26**|**Advancing The Rate-Distortion-Computation Frontier For Neural Image Compression**|David Minnen et.al.|[2311.12821](http://arxiv.org/abs/2311.12821)|null|
 |**2023-11-14**|**Cattle Identification Using Muzzle Images and Deep Learning Techniques**|G. N. Kimani et.al.|[2311.08148](http://arxiv.org/abs/2311.08148)|**[link](https://github.com/peter716/animal_biometrics_system)**|
 |**2023-11-08**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
 |**2023-11-06**|**Neural-based Compression Scheme for Solar Image Data**|Ali Zafari et.al.|[2311.02855](http://arxiv.org/abs/2311.02855)|null|
