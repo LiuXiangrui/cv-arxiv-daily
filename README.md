@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
+|**2023-11-05**|**Cross-layer scheme for low latency multiple description video streaming over Vehicular Ad-hoc NETworks (VANETs)**|Mohamed Aymen Labiod et.al.|[2311.13603](http://arxiv.org/abs/2311.13603)|null|
 |**2023-11-21**|**Deep Learning-Based Real-Time Quality Control of Standard Video Compression for Live Streaming**|Matin Mortaheb et.al.|[2311.12918](http://arxiv.org/abs/2311.12918)|null|
 |**2023-09-24**|**Semantic Face Compression for Metaverse: A Compact 3D Descriptor Based Approach**|Binzhe Li et.al.|[2311.12817](http://arxiv.org/abs/2311.12817)|null|
 |**2023-11-10**|**Evaluation of Sampling Algorithms for a Pairwise Subjective Assessment Methodology**|Shima Mohammadi et.al.|[2311.06093](http://arxiv.org/abs/2311.06093)|null|
@@ -1521,7 +1523,7 @@
 |**2023-11-06**|**Tensor Golub Kahan based on Einstein product**|Anas El Hachimi et.al.|[2311.03109](http://arxiv.org/abs/2311.03109)|null|
 |**2023-11-05**|**Enhanced adaptive cross-layer scheme for low latency HEVC streaming over Vehicular Ad-hoc Networks (VANETs)**|Mohamed Aymen Labiod et.al.|[2311.02664](http://arxiv.org/abs/2311.02664)|null|
 |**2023-11-05**|**Generative Face Video Coding Techniques and Standardization Efforts: A Review**|Bolin Chen et.al.|[2311.02649](http://arxiv.org/abs/2311.02649)|null|
-|**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
+|**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-31**|**UAV Immersive Video Streaming: A Comprehensive Survey, Benchmarking, and Open Challenges**|Mohit K. Sharma et.al.|[2311.00082](http://arxiv.org/abs/2311.00082)|null|
 |**2023-10-25**|**Exploring Behavior Discovery Methods for Heterogeneous Swarms of Limited-Capability Robots**|Connor Mattson et.al.|[2310.16941](http://arxiv.org/abs/2310.16941)|null|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029](http://arxiv.org/abs/2310.16029)|null|
@@ -1656,13 +1658,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-23**|**Understanding the Vulnerability of CLIP to Image Compression**|Cangxiong Chen et.al.|[2311.14029](http://arxiv.org/abs/2311.14029)|null|
+|**2023-11-23**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847](http://arxiv.org/abs/2311.13847)|null|
+|**2023-11-23**|**Progressive Learning with Visual Prompt Tuning for Variable-Rate Image Compression**|Shiyu Qin et.al.|[2311.13846](http://arxiv.org/abs/2311.13846)|null|
 |**2023-11-22**|**Single Image Compressed Sensing MRI via a Self-Supervised Deep Denoising Approach**|Marlon Bran Lorenzana et.al.|[2311.13144](http://arxiv.org/abs/2311.13144)|null|
 |**2023-09-26**|**Advancing The Rate-Distortion-Computation Frontier For Neural Image Compression**|David Minnen et.al.|[2311.12821](http://arxiv.org/abs/2311.12821)|null|
 |**2023-11-14**|**Cattle Identification Using Muzzle Images and Deep Learning Techniques**|G. N. Kimani et.al.|[2311.08148](http://arxiv.org/abs/2311.08148)|**[link](https://github.com/peter716/animal_biometrics_system)**|
 |**2023-11-08**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
 |**2023-11-06**|**Neural-based Compression Scheme for Solar Image Data**|Ali Zafari et.al.|[2311.02855](http://arxiv.org/abs/2311.02855)|null|
 |**2023-11-02**|**Deep learning based Image Compression for Microscopy Images: An Empirical Study**|Yu Zhou et.al.|[2311.01352](http://arxiv.org/abs/2311.01352)|null|
-|**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
+|**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-30**|**A Principled Hierarchical Deep Learning Approach to Joint Image Compression and Classification**|Siyu Qi et.al.|[2310.19675](http://arxiv.org/abs/2310.19675)|null|
 |**2023-10-25**|**Frequency-Aware Transformer for Learned Image Compression**|Han Li et.al.|[2310.16387](http://arxiv.org/abs/2310.16387)|null|
 |**2023-10-20**|**Diagnosis-oriented Medical Image Compression with Efficient Transfer Learning**|Guangqi Xie et.al.|[2310.13250](http://arxiv.org/abs/2310.13250)|null|
