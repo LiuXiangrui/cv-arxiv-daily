@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-25**|**Coordinate-Aware Modulation for Neural Fields**|Joo Chan Lee et.al.|[2311.14993](http://arxiv.org/abs/2311.14993)|null|
 |**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
 |**2023-11-05**|**Cross-layer scheme for low latency multiple description video streaming over Vehicular Ad-hoc NETworks (VANETs)**|Mohamed Aymen Labiod et.al.|[2311.13603](http://arxiv.org/abs/2311.13603)|null|
 |**2023-11-21**|**Deep Learning-Based Real-Time Quality Control of Standard Video Compression for Live Streaming**|Matin Mortaheb et.al.|[2311.12918](http://arxiv.org/abs/2311.12918)|null|
