@@ -1535,7 +1535,7 @@
 |**2023-10-16**|**Effortless Cross-Platform Video Codec: A Codebook-Based Method**|Kuan Tian et.al.|[2310.10292](http://arxiv.org/abs/2310.10292)|null|
 |**2023-10-16**|**Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning**|Dhruv Shah et.al.|[2310.10103](http://arxiv.org/abs/2310.10103)|null|
 |**2023-10-14**|**Energy-Efficient Multi-Codec Bitrate-Ladder Estimation for Adaptive Video Streaming**|Vignesh V Menon et.al.|[2310.09570](http://arxiv.org/abs/2310.09570)|null|
-|**2023-11-07**|**MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding**|Vinh Van Duong et.al.|[2310.08006](http://arxiv.org/abs/2310.08006)|**[link](https://github.com/duongvinh/mcpns)**|
+|**2023-11-28**|**MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding**|Vinh Van Duong et.al.|[2310.08006](http://arxiv.org/abs/2310.08006)|**[link](https://github.com/duongvinh/mcpns)**|
 |**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896](http://arxiv.org/abs/2310.07896)|null|
 |**2023-10-10**|**Encoder-Decoder-Based Intra-Frame Block Partitioning Decision**|Yucheng Jiang et.al.|[2310.06412](http://arxiv.org/abs/2310.06412)|null|
 |**2023-10-10**|**Compression Ratio Learning and Semantic Communications for Video Imaging**|Bowen Zhang et.al.|[2310.06246](http://arxiv.org/abs/2310.06246)|null|
@@ -1660,8 +1660,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-23**|**Understanding the Vulnerability of CLIP to Image Compression**|Cangxiong Chen et.al.|[2311.14029](http://arxiv.org/abs/2311.14029)|null|
-|**2023-11-23**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847](http://arxiv.org/abs/2311.13847)|null|
-|**2023-11-23**|**Progressive Learning with Visual Prompt Tuning for Variable-Rate Image Compression**|Shiyu Qin et.al.|[2311.13846](http://arxiv.org/abs/2311.13846)|null|
+|**2023-11-28**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847](http://arxiv.org/abs/2311.13847)|null|
+|**2023-11-28**|**Progressive Learning with Visual Prompt Tuning for Variable-Rate Image Compression**|Shiyu Qin et.al.|[2311.13846](http://arxiv.org/abs/2311.13846)|null|
 |**2023-11-22**|**Single Image Compressed Sensing MRI via a Self-Supervised Deep Denoising Approach**|Marlon Bran Lorenzana et.al.|[2311.13144](http://arxiv.org/abs/2311.13144)|null|
 |**2023-09-26**|**Advancing The Rate-Distortion-Computation Frontier For Neural Image Compression**|David Minnen et.al.|[2311.12821](http://arxiv.org/abs/2311.12821)|null|
 |**2023-11-14**|**Cattle Identification Using Muzzle Images and Deep Learning Techniques**|G. N. Kimani et.al.|[2311.08148](http://arxiv.org/abs/2311.08148)|**[link](https://github.com/peter716/animal_biometrics_system)**|
