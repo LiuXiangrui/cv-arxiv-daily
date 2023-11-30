@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Implicit-explicit Integrated Representations for Multi-view Video Compression**|Chen Zhu et.al.|[2311.17350](http://arxiv.org/abs/2311.17350)|null|
 |**2023-11-25**|**Coordinate-Aware Modulation for Neural Fields**|Joo Chan Lee et.al.|[2311.14993](http://arxiv.org/abs/2311.14993)|null|
 |**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
 |**2023-11-05**|**Cross-layer scheme for low latency multiple description video streaming over Vehicular Ad-hoc NETworks (VANETs)**|Mohamed Aymen Labiod et.al.|[2311.13603](http://arxiv.org/abs/2311.13603)|null|
@@ -1501,7 +1502,7 @@ layout: default
 |**2023-11-07**|**Perceptual Quality Improvement in Videoconferencing using Keyframes-based GAN**|Lorenzo Agnolucci et.al.|[2311.04263](http://arxiv.org/abs/2311.04263)|**[link](https://github.com/lorenzoagnolucci/keyframes-gan)**|
 |**2023-11-06**|**Tensor Golub Kahan based on Einstein product**|Anas El Hachimi et.al.|[2311.03109](http://arxiv.org/abs/2311.03109)|null|
 |**2023-11-05**|**Enhanced adaptive cross-layer scheme for low latency HEVC streaming over Vehicular Ad-hoc Networks (VANETs)**|Mohamed Aymen Labiod et.al.|[2311.02664](http://arxiv.org/abs/2311.02664)|null|
-|**2023-11-05**|**Generative Face Video Coding Techniques and Standardization Efforts: A Review**|Bolin Chen et.al.|[2311.02649](http://arxiv.org/abs/2311.02649)|null|
+|**2023-11-05**|**Generative Face Video Coding Techniques and Standardization Efforts: A Review**|Bolin Chen et.al.|[2311.02649](http://arxiv.org/abs/2311.02649)|**[link](https://github.com/berlin0610/awesome-generative-face-video-coding)**|
 |**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-31**|**UAV Immersive Video Streaming: A Comprehensive Survey, Benchmarking, and Open Challenges**|Mohit K. Sharma et.al.|[2311.00082](http://arxiv.org/abs/2311.00082)|null|
 |**2023-10-25**|**Exploring Behavior Discovery Methods for Heterogeneous Swarms of Limited-Capability Robots**|Connor Mattson et.al.|[2310.16941](http://arxiv.org/abs/2310.16941)|null|
@@ -1650,7 +1651,7 @@ layout: default
 |**2023-10-20**|**Diagnosis-oriented Medical Image Compression with Efficient Transfer Learning**|Guangqi Xie et.al.|[2310.13250](http://arxiv.org/abs/2310.13250)|null|
 |**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076](http://arxiv.org/abs/2310.12076)|null|
 |**2023-10-17**|**Image Compression using only Attention based Neural Networks**|Natacha Luka et.al.|[2310.11265](http://arxiv.org/abs/2310.11265)|null|
-|**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028](http://arxiv.org/abs/2310.11028)|null|
+|**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028](http://arxiv.org/abs/2310.11028)|**[link](https://github.com/pilancilab/matrix-compressor)**|
 |**2023-10-16**|**Distribution prediction for image compression: An experimental re-compressor for JPEG images**|Maxim Koroteev et.al.|[2310.10517](http://arxiv.org/abs/2310.10517)|null|
 |**2023-10-16**|**Towards image compression with perfect realism at ultra-low bitrates**|Marlène Careil et.al.|[2310.10325](http://arxiv.org/abs/2310.10325)|null|
 |**2023-10-16**|**Deep Unfolding Network for Image Compressed Sensing by Content-adaptive Gradient Updating and Deformation-invariant Non-local Modeling**|Wenxue Cui et.al.|[2310.10033](http://arxiv.org/abs/2310.10033)|null|
