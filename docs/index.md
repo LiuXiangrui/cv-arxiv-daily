@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1650,7 +1650,7 @@ layout: default
 |**2023-10-20**|**Diagnosis-oriented Medical Image Compression with Efficient Transfer Learning**|Guangqi Xie et.al.|[2310.13250](http://arxiv.org/abs/2310.13250)|null|
 |**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076](http://arxiv.org/abs/2310.12076)|null|
 |**2023-10-17**|**Image Compression using only Attention based Neural Networks**|Natacha Luka et.al.|[2310.11265](http://arxiv.org/abs/2310.11265)|null|
-|**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028](http://arxiv.org/abs/2310.11028)|**[link](https://github.com/pilancilab/matrix-compressor)**|
+|**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028](http://arxiv.org/abs/2310.11028)|null|
 |**2023-10-16**|**Distribution prediction for image compression: An experimental re-compressor for JPEG images**|Maxim Koroteev et.al.|[2310.10517](http://arxiv.org/abs/2310.10517)|null|
 |**2023-10-16**|**Towards image compression with perfect realism at ultra-low bitrates**|Marlène Careil et.al.|[2310.10325](http://arxiv.org/abs/2310.10325)|null|
 |**2023-10-16**|**Deep Unfolding Network for Image Compressed Sensing by Content-adaptive Gradient Updating and Deformation-invariant Non-local Modeling**|Wenxue Cui et.al.|[2310.10033](http://arxiv.org/abs/2310.10033)|null|
