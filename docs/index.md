@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video**|Zicong Fan et.al.|[2311.18448](http://arxiv.org/abs/2311.18448)|**[link](https://github.com/zc-alexfan/hold)**|
 |**2023-11-29**|**Implicit-explicit Integrated Representations for Multi-view Video Compression**|Chen Zhu et.al.|[2311.17350](http://arxiv.org/abs/2311.17350)|null|
 |**2023-11-25**|**Coordinate-Aware Modulation for Neural Fields**|Joo Chan Lee et.al.|[2311.14993](http://arxiv.org/abs/2311.14993)|null|
 |**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
@@ -1636,6 +1637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Corner-to-Center Long-range Context Model for Efficient Learned Image Compression**|Yang Sui et.al.|[2311.18103](http://arxiv.org/abs/2311.18103)|null|
 |**2023-11-23**|**Understanding the Vulnerability of CLIP to Image Compression**|Cangxiong Chen et.al.|[2311.14029](http://arxiv.org/abs/2311.14029)|null|
 |**2023-11-28**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847](http://arxiv.org/abs/2311.13847)|null|
 |**2023-11-28**|**Progressive Learning with Visual Prompt Tuning for Variable-Rate Image Compression**|Shiyu Qin et.al.|[2311.13846](http://arxiv.org/abs/2311.13846)|null|
