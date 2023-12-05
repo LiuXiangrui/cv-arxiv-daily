@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Bitstream Organization for Parallel Entropy Coding on Neural Network-based Video Codecs**|Amir Said et.al.|[2312.00921](http://arxiv.org/abs/2312.00921)|null|
 |**2023-11-30**|**HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video**|Zicong Fan et.al.|[2311.18448](http://arxiv.org/abs/2311.18448)|**[link](https://github.com/zc-alexfan/hold)**|
 |**2023-11-29**|**Implicit-explicit Integrated Representations for Multi-view Video Compression**|Chen Zhu et.al.|[2311.17350](http://arxiv.org/abs/2311.17350)|null|
 |**2023-11-25**|**Coordinate-Aware Modulation for Neural Fields**|Joo Chan Lee et.al.|[2311.14993](http://arxiv.org/abs/2311.14993)|null|
@@ -1637,6 +1638,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 |**2023-12-01**|**Technical description of the EPFL submission to the JPEG DNA CfP**|Davi Lazzarotto et.al.|[2312.00560](http://arxiv.org/abs/2312.00560)|null|
 |**2023-11-29**|**Corner-to-Center Long-range Context Model for Efficient Learned Image Compression**|Yang Sui et.al.|[2311.18103](http://arxiv.org/abs/2311.18103)|null|
 |**2023-11-23**|**Understanding the Vulnerability of CLIP to Image Compression**|Cangxiong Chen et.al.|[2311.14029](http://arxiv.org/abs/2311.14029)|null|
