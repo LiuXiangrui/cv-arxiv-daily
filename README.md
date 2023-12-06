@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**C3: High-performance and low-complexity neural compression from a single image or video**|Hyunjik Kim et.al.|[2312.02753](http://arxiv.org/abs/2312.02753)|null|
+|**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
 |**2023-12-01**|**Bitstream Organization for Parallel Entropy Coding on Neural Network-based Video Codecs**|Amir Said et.al.|[2312.00921](http://arxiv.org/abs/2312.00921)|null|
 |**2023-11-30**|**HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video**|Zicong Fan et.al.|[2311.18448](http://arxiv.org/abs/2311.18448)|**[link](https://github.com/zc-alexfan/hold)**|
 |**2023-11-29**|**Implicit-explicit Integrated Representations for Multi-view Video Compression**|Chen Zhu et.al.|[2311.17350](http://arxiv.org/abs/2311.17350)|null|
@@ -1662,6 +1664,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Unified learning-based lossy and lossless JPEG recompression**|Jianghui Zhang et.al.|[2312.02705](http://arxiv.org/abs/2312.02705)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 |**2023-12-01**|**Technical description of the EPFL submission to the JPEG DNA CfP**|Davi Lazzarotto et.al.|[2312.00560](http://arxiv.org/abs/2312.00560)|null|
 |**2023-11-29**|**Corner-to-Center Long-range Context Model for Efficient Learned Image Compression**|Yang Sui et.al.|[2311.18103](http://arxiv.org/abs/2311.18103)|null|
