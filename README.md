@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Deep Hierarchical Video Compression**|Ming Lu et.al.|[2312.07126](http://arxiv.org/abs/2312.07126)|null|
 |**2023-12-07**|**Analysis of Coding Gain Due to In-Loop Reshaping**|Chau-Wai Wong et.al.|[2312.04022](http://arxiv.org/abs/2312.04022)|null|
 |**2023-12-05**|**C3: High-performance and low-complexity neural compression from a single image or video**|Hyunjik Kim et.al.|[2312.02753](http://arxiv.org/abs/2312.02753)|null|
 |**2023-12-05**|**Accelerating Learnt Video Codecs with Gradient Decay and Layer-wise Distillation**|Tianhao Peng et.al.|[2312.02605](http://arxiv.org/abs/2312.02605)|null|
