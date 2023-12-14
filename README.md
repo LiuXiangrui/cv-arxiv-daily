@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Preparing VVC for Streaming: A Fast Multi-Rate Encoding Approach**|Yiqun Liu et.al.|[2312.08330](http://arxiv.org/abs/2312.08330)|null|
+|**2023-12-13**|**CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation**|Eugenio Chisari et.al.|[2312.08240](http://arxiv.org/abs/2312.08240)|null|
 |**2023-12-12**|**Deep Hierarchical Video Compression**|Ming Lu et.al.|[2312.07126](http://arxiv.org/abs/2312.07126)|null|
 |**2023-12-07**|**Analysis of Coding Gain Due to In-Loop Reshaping**|Chau-Wai Wong et.al.|[2312.04022](http://arxiv.org/abs/2312.04022)|null|
 |**2023-12-05**|**C3: High-performance and low-complexity neural compression from a single image or video**|Hyunjik Kim et.al.|[2312.02753](http://arxiv.org/abs/2312.02753)|null|
