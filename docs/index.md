@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.15
+## Updated on 2023.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1491,6 +1491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Efficient Online Learning of Contact Force Models for Connector Insertion**|Kevin Tracy et.al.|[2312.09190](http://arxiv.org/abs/2312.09190)|null|
 |**2023-12-13**|**Preparing VVC for Streaming: A Fast Multi-Rate Encoding Approach**|Yiqun Liu et.al.|[2312.08330](http://arxiv.org/abs/2312.08330)|null|
 |**2023-12-13**|**CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation**|Eugenio Chisari et.al.|[2312.08240](http://arxiv.org/abs/2312.08240)|null|
 |**2023-12-12**|**Deep Hierarchical Video Compression**|Ming Lu et.al.|[2312.07126](http://arxiv.org/abs/2312.07126)|null|
@@ -1648,7 +1649,7 @@ layout: default
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 |**2023-12-01**|**Technical description of the EPFL submission to the JPEG DNA CfP**|Davi Lazzarotto et.al.|[2312.00560](http://arxiv.org/abs/2312.00560)|null|
 |**2023-11-29**|**Corner-to-Center Long-range Context Model for Efficient Learned Image Compression**|Yang Sui et.al.|[2311.18103](http://arxiv.org/abs/2311.18103)|null|
-|**2023-11-23**|**Understanding the Vulnerability of CLIP to Image Compression**|Cangxiong Chen et.al.|[2311.14029](http://arxiv.org/abs/2311.14029)|null|
+|**2023-11-23**|**Understanding the Vulnerability of CLIP to Image Compression**|Cangxiong Chen et.al.|[2311.14029](http://arxiv.org/abs/2311.14029)|**[link](https://github.com/CangxiongChen/understanding_CLIP_vulnerability)**|
 |**2023-11-28**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847](http://arxiv.org/abs/2311.13847)|null|
 |**2023-11-28**|**Progressive Learning with Visual Prompt Tuning for Variable-Rate Image Compression**|Shiyu Qin et.al.|[2311.13846](http://arxiv.org/abs/2311.13846)|null|
 |**2023-11-22**|**Single Image Compressed Sensing MRI via a Self-Supervised Deep Denoising Approach**|Marlon Bran Lorenzana et.al.|[2311.13144](http://arxiv.org/abs/2311.13144)|null|
