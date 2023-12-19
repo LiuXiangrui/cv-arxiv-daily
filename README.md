@@ -1513,6 +1513,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid Network**|Siyu Zhang et.al.|[2312.10716](http://arxiv.org/abs/2312.10716)|null|
+|**2023-12-17**|**Light-weight CNN-based VVC Inter Partitioning Acceleration**|Yiqun Liu et.al.|[2312.10567](http://arxiv.org/abs/2312.10567)|null|
+|**2023-12-16**|**Statistical Analysis of Inter Coding in VVC Test Model (VTM)**|Yiqun Liu et.al.|[2312.10406](http://arxiv.org/abs/2312.10406)|null|
 |**2023-12-15**|**IQNet: Image Quality Assessment Guided Just Noticeable Difference Prefiltering For Versatile Video Coding**|Yu-Han Sun et.al.|[2312.09799](http://arxiv.org/abs/2312.09799)|null|
 |**2023-12-14**|**Geometry-Corrected Geodesic Motion Modeling with Per-Frame Camera Motion for 360-Degree Video Compression**|Andy Regensky et.al.|[2312.09266](http://arxiv.org/abs/2312.09266)|null|
 |**2023-12-14**|**Efficient Online Learning of Contact Force Models for Connector Insertion**|Kevin Tracy et.al.|[2312.09190](http://arxiv.org/abs/2312.09190)|null|
