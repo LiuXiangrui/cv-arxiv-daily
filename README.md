@@ -1513,7 +1513,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-17**|**A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid Network**|Siyu Zhang et.al.|[2312.10716](http://arxiv.org/abs/2312.10716)|null|
+|**2023-12-19**|**Full-reference Video Quality Assessment for User Generated Content Transcoding**|Zihao Qi et.al.|[2312.12317](http://arxiv.org/abs/2312.12317)|null|
+|**2023-12-19**|**Low-Consumption Partial Transcoding by HEVC**|Mohsen Abdoli et.al.|[2312.12174](http://arxiv.org/abs/2312.12174)|null|
+|**2023-12-19**|**Comparative Study of Hardware and Software Power Measurements in Video Compression**|Angeliki Katsenou et.al.|[2312.12150](http://arxiv.org/abs/2312.12150)|null|
+|**2023-12-19**|**A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid Network**|Siyu Zhang et.al.|[2312.10716](http://arxiv.org/abs/2312.10716)|null|
 |**2023-12-17**|**Light-weight CNN-based VVC Inter Partitioning Acceleration**|Yiqun Liu et.al.|[2312.10567](http://arxiv.org/abs/2312.10567)|null|
 |**2023-12-16**|**Statistical Analysis of Inter Coding in VVC Test Model (VTM)**|Yiqun Liu et.al.|[2312.10406](http://arxiv.org/abs/2312.10406)|null|
 |**2023-12-15**|**IQNet: Image Quality Assessment Guided Just Noticeable Difference Prefiltering For Versatile Video Coding**|Yu-Han Sun et.al.|[2312.09799](http://arxiv.org/abs/2312.09799)|null|
@@ -1674,6 +1677,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**Quantized Decoder in Learned Image Compression for Deterministic Reconstruction**|Esin Koyuncu et.al.|[2312.11209](http://arxiv.org/abs/2312.11209)|null|
 |**2023-12-05**|**Unified learning-based lossy and lossless JPEG recompression**|Jianghui Zhang et.al.|[2312.02705](http://arxiv.org/abs/2312.02705)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 |**2023-12-01**|**Technical description of the EPFL submission to the JPEG DNA CfP**|Davi Lazzarotto et.al.|[2312.00560](http://arxiv.org/abs/2312.00560)|null|
