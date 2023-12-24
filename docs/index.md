@@ -340,7 +340,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-19**|**Full-reference Video Quality Assessment for User Generated Content Transcoding**|Zihao Qi et.al.|[2312.12317](http://arxiv.org/abs/2312.12317)|null|
-|**2023-12-19**|**Low-Consumption Partial Transcoding by HEVC**|Mohsen Abdoli et.al.|[2312.12174](http://arxiv.org/abs/2312.12174)|null|
+|**2023-12-19**|**Low-Consumption Partial Transcoding by HEVC**|Mohsen Abdoli et.al.|[2312.12174](http://arxiv.org/abs/2312.12174)|**[link](https://github.com/b-com/hevcpartialtranscoding)**|
 |**2023-12-19**|**Comparative Study of Hardware and Software Power Measurements in Video Compression**|Angeliki Katsenou et.al.|[2312.12150](http://arxiv.org/abs/2312.12150)|null|
 |**2023-12-19**|**A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid Network**|Siyu Zhang et.al.|[2312.10716](http://arxiv.org/abs/2312.10716)|null|
 |**2023-12-17**|**Light-weight CNN-based VVC Inter Partitioning Acceleration**|Yiqun Liu et.al.|[2312.10567](http://arxiv.org/abs/2312.10567)|null|
