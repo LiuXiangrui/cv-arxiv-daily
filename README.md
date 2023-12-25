@@ -1677,6 +1677,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**The Rate-Distortion-Perception-Classification Tradeoff: Joint Source Coding and Modulation via Inverse-Domain GANs**|Junli Fang et.al.|[2312.14792](http://arxiv.org/abs/2312.14792)|null|
 |**2023-12-18**|**Quantized Decoder in Learned Image Compression for Deterministic Reconstruction**|Esin Koyuncu et.al.|[2312.11209](http://arxiv.org/abs/2312.11209)|null|
 |**2023-12-05**|**Unified learning-based lossy and lossless JPEG recompression**|Jianghui Zhang et.al.|[2312.02705](http://arxiv.org/abs/2312.02705)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
