@@ -577,7 +577,7 @@
 |**2023-03-19**|**Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**|Ming Xu et.al.|[2303.10778](http://arxiv.org/abs/2303.10778)|**[link](https://github.com/mingu6/declarativedtw)**|
 |**2023-03-17**|**MRIS: A Multi-modal Retrieval Approach for Image Synthesis on Diverse Modalities**|Boqi Chen et.al.|[2303.10249](http://arxiv.org/abs/2303.10249)|null|
 |**2023-03-17**|**IRGen: Generative Modeling for Image Retrieval**|Yidan Zhang et.al.|[2303.10126](http://arxiv.org/abs/2303.10126)|**[link](https://github.com/yakt00/IRGen)**|
-|**2023-03-16**|**Data Roaming and Early Fusion for Composed Image Retrieval**|Matan Levy et.al.|[2303.09429](http://arxiv.org/abs/2303.09429)|null|
+|**2023-03-16**|**Data Roaming and Early Fusion for Composed Image Retrieval**|Matan Levy et.al.|[2303.09429](http://arxiv.org/abs/2303.09429)|**[link](https://github.com/levymsn/LaSCo)**|
 |**2023-03-16**|**Towards a Smaller Student: Capacity Dynamic Distillation for Efficient Image Retrieval**|Yi Xie et.al.|[2303.09230](http://arxiv.org/abs/2303.09230)|null|
 |**2023-03-16**|**Metric-Free Exploration for Topological Mapping by Task and Motion Imitation in Feature Space**|Yuhang He et.al.|[2303.09192](http://arxiv.org/abs/2303.09192)|null|
 |**2023-03-16**|**Unsupervised Facial Expression Representation Learning with Contrastive Local Warping**|Fanglei Xue et.al.|[2303.09034](http://arxiv.org/abs/2303.09034)|null|
@@ -1192,7 +1192,7 @@
 |**2023-04-22**|**3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes**|Haotian Xue et.al.|[2304.11470](http://arxiv.org/abs/2304.11470)|null|
 |**2023-04-22**|**Dehazing-NeRF: Neural Radiance Fields from Hazy Images**|Tian Li et.al.|[2304.11448](http://arxiv.org/abs/2304.11448)|null|
 |**2023-04-22**|**NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation**|Baao Xie et.al.|[2304.11342](http://arxiv.org/abs/2304.11342)|null|
-|**2023-04-21**|**AutoNeRF: Training Implicit Scene Representations with Autonomous Agents**|Pierre Marza et.al.|[2304.11241](http://arxiv.org/abs/2304.11241)|null|
+|**2023-04-21**|**AutoNeRF: Training Implicit Scene Representations with Autonomous Agents**|Pierre Marza et.al.|[2304.11241](http://arxiv.org/abs/2304.11241)|**[link](https://github.com/PierreMarza/autonerf)**|
 |**2023-04-21**|**Omni-Line-of-Sight Imaging for Holistic Shape Reconstruction**|Binbin Huang et.al.|[2304.10780](http://arxiv.org/abs/2304.10780)|null|
 |**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger et.al.|[2304.10664](http://arxiv.org/abs/2304.10664)|null|
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537](http://arxiv.org/abs/2304.10537)|null|
@@ -1733,7 +1733,7 @@
 |**2023-08-10**|**End-to-End Optimization of JPEG-Based Deep Learning Process for Image Classification**|Siyu Qi et.al.|[2308.05840](http://arxiv.org/abs/2308.05840)|null|
 |**2023-08-04**|**Frequency Disentangled Features in Neural Image Compression**|Ali Zafari et.al.|[2308.02620](http://arxiv.org/abs/2308.02620)|null|
 |**2023-10-30**|**MLIC++: Linear Complexity Multi-Reference Entropy Modeling for Learned Image Compression**|Wei Jiang et.al.|[2307.15421](http://arxiv.org/abs/2307.15421)|**[link](https://github.com/jiangweibeta/mlic)**|
-|**2023-07-18**|**ECSIC: Epipolar Cross Attention for Stereo Image Compression**|Matthias Wödlinger et.al.|[2307.10284](http://arxiv.org/abs/2307.10284)|null|
+|**2023-07-18**|**ECSIC: Epipolar Cross Attention for Stereo Image Compression**|Matthias Wödlinger et.al.|[2307.10284](http://arxiv.org/abs/2307.10284)|**[link](https://github.com/mwoedlinger/ecsic)**|
 |**2023-07-19**|**A3D: Adaptive, Accurate, and Autonomous Navigation for Edge-Assisted Drones**|Liekang Zeng et.al.|[2307.09880](http://arxiv.org/abs/2307.09880)|null|
 |**2023-07-18**|**Deep Physics-Guided Unrolling Generalization for Compressed Sensing**|Bin Chen et.al.|[2307.08950](http://arxiv.org/abs/2307.08950)|**[link](https://github.com/guaishou74851/prl)**|
 |**2023-10-27**|**Neural Image Compression: Generalization, Robustness, and Spectral Biases**|Kelsey Lieberman et.al.|[2307.08657](http://arxiv.org/abs/2307.08657)|**[link](https://github.com/klieberman/ood_nic)**|
@@ -1765,7 +1765,7 @@
 |**2023-05-26**|**Random-Access Neural Compression of Material Textures**|Karthik Vaidyanathan et.al.|[2305.17105](http://arxiv.org/abs/2305.17105)|null|
 |**2023-05-25**|**NVTC: Nonlinear Vector Transform Coding**|Runsen Feng et.al.|[2305.16025](http://arxiv.org/abs/2305.16025)|**[link](https://github.com/ustc-imcl/nvtc)**|
 |**2023-08-04**|**Jointly Optimizing Image Compression with Low-light Image Enhancement**|Shilv Cai et.al.|[2305.15030](http://arxiv.org/abs/2305.15030)|null|
-|**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
+|**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|**[link](https://github.com/kvablack/ddpo-pytorch)**|
 |**2023-05-22**|**The Rate-Distortion-Perception Trade-off with Side Information**|Yassine Hamdi et.al.|[2305.13116](http://arxiv.org/abs/2305.13116)|null|
 |**2023-08-17**|**Sparsity and Coefficient Permutation Based Two-Domain AMP for Image Block Compressed Sensing**|Junhui Li et.al.|[2305.12986](http://arxiv.org/abs/2305.12986)|null|
 |**2023-05-19**|**Deep Image Compression Using Scene Text Quality Assessment**|Shohei Uchigasaki et.al.|[2305.11373](http://arxiv.org/abs/2305.11373)|null|
