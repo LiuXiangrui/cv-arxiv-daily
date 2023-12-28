@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -339,6 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-25**|**MaskCRT: Masked Conditional Residual Transformer for Learned Video Compression**|Yi-Hsin Chen et.al.|[2312.15829](http://arxiv.org/abs/2312.15829)|null|
+|**2023-12-25**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[2312.15622](http://arxiv.org/abs/2312.15622)|null|
 |**2023-12-19**|**Full-reference Video Quality Assessment for User Generated Content Transcoding**|Zihao Qi et.al.|[2312.12317](http://arxiv.org/abs/2312.12317)|null|
 |**2023-12-19**|**Low-Consumption Partial Transcoding by HEVC**|Mohsen Abdoli et.al.|[2312.12174](http://arxiv.org/abs/2312.12174)|**[link](https://github.com/b-com/hevcpartialtranscoding)**|
 |**2023-12-19**|**Comparative Study of Hardware and Software Power Measurements in Video Compression**|Angeliki Katsenou et.al.|[2312.12150](http://arxiv.org/abs/2312.12150)|null|
@@ -501,6 +503,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-25**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[2312.15622](http://arxiv.org/abs/2312.15622)|null|
 |**2023-12-22**|**The Rate-Distortion-Perception-Classification Tradeoff: Joint Source Coding and Modulation via Inverse-Domain GANs**|Junli Fang et.al.|[2312.14792](http://arxiv.org/abs/2312.14792)|null|
 |**2023-12-18**|**Quantized Decoder in Learned Image Compression for Deterministic Reconstruction**|Esin Koyuncu et.al.|[2312.11209](http://arxiv.org/abs/2312.11209)|null|
 |**2023-12-05**|**Unified learning-based lossy and lossless JPEG recompression**|Jianghui Zhang et.al.|[2312.02705](http://arxiv.org/abs/2312.02705)|null|
