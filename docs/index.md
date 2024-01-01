@@ -389,7 +389,7 @@ layout: default
 |**2023-10-09**|**Efficient Predictive Coding of Intra Prediction Modes**|Kevin Reuzé et.al.|[2310.05623](http://arxiv.org/abs/2310.05623)|null|
 |**2023-10-07**|**High Visual-Fidelity Learned Video Compression**|Meng Li et.al.|[2310.04679](http://arxiv.org/abs/2310.04679)|null|
 |**2023-11-15**|**MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device**|Ties van Rozendaal et.al.|[2310.01258](http://arxiv.org/abs/2310.01258)|null|
-|**2023-09-27**|**A Quantum-Classical Hybrid Block-Matching Algorithm in Noisy Environment using Dissimilarity Measure**|M. Martínez-Felipe et.al.|[2309.15792](http://arxiv.org/abs/2309.15792)|null|
+|**2023-12-28**|**Quantum Block-Matching Algorithm using Dissimilarity Measure**|M. Martínez-Felipe et.al.|[2309.15792](http://arxiv.org/abs/2309.15792)|null|
 |**2023-09-25**|**IBVC: Interpolation-driven B-frame Video Compression**|Meiqin Liu et.al.|[2309.13835](http://arxiv.org/abs/2309.13835)|null|
 |**2023-09-24**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|**[link](https://github.com/force-sight/forcesight)**|
 |**2023-09-21**|**Spatial-Temporal Transformer based Video Compression Framework**|Yanbo Gao et.al.|[2309.11913](http://arxiv.org/abs/2309.11913)|null|
@@ -503,7 +503,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-28**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia et.al.|[2312.16963](http://arxiv.org/abs/2312.16963)|null|
+|**2023-12-29**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia et.al.|[2312.16963](http://arxiv.org/abs/2312.16963)|null|
 |**2023-12-25**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[2312.15622](http://arxiv.org/abs/2312.15622)|null|
 |**2023-12-22**|**The Rate-Distortion-Perception-Classification Tradeoff: Joint Source Coding and Modulation via Inverse-Domain GANs**|Junli Fang et.al.|[2312.14792](http://arxiv.org/abs/2312.14792)|null|
 |**2023-12-18**|**Quantized Decoder in Learned Image Compression for Deterministic Reconstruction**|Esin Koyuncu et.al.|[2312.11209](http://arxiv.org/abs/2312.11209)|null|
