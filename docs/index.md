@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.03
+## Updated on 2024.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement**|Parham Zilouchian Moghaddam et.al.|[2401.01163](http://arxiv.org/abs/2401.01163)|null|
 |**2023-12-25**|**MaskCRT: Masked Conditional Residual Transformer for Learned Video Compression**|Yi-Hsin Chen et.al.|[2312.15829](http://arxiv.org/abs/2312.15829)|null|
 |**2023-12-25**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[2312.15622](http://arxiv.org/abs/2312.15622)|null|
 |**2023-12-19**|**Full-reference Video Quality Assessment for User Generated Content Transcoding**|Zihao Qi et.al.|[2312.12317](http://arxiv.org/abs/2312.12317)|null|
