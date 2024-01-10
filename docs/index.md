@@ -506,6 +506,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Modified Levenberg-Marquardt Algorithm For Tensor CP Decomposition in Image Compression**|Ramin Goudarzi Karim et.al.|[2401.04670](http://arxiv.org/abs/2401.04670)|null|
 |**2024-01-06**|**Transferable Learned Image Compression-Resistant Adversarial Perturbations**|Yang Sui et.al.|[2401.03115](http://arxiv.org/abs/2401.03115)|null|
 |**2024-01-05**|**MsDC-DEQ-Net: Deep Equilibrium Model (DEQ) with Multi-scale Dilated Convolution for Image Compressive Sensing (CS)**|Youhao Yu et.al.|[2401.02884](http://arxiv.org/abs/2401.02884)|null|
 |**2024-01-05**|**Importance Matching Lemma for Lossy Compression with Side Information**|Buu Phan et.al.|[2401.02609](http://arxiv.org/abs/2401.02609)|null|
