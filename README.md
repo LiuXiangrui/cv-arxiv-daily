@@ -1682,6 +1682,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part II: Spatial and Tonal Data Optimization**|Niklas Kämper et.al.|[2401.06747](http://arxiv.org/abs/2401.06747)|null|
+|**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517](http://arxiv.org/abs/2401.06517)|null|
 |**2024-01-10**|**SnapCap: Efficient Snapshot Compressive Video Captioning**|Jianqiao Sun et.al.|[2401.04903](http://arxiv.org/abs/2401.04903)|null|
 |**2024-01-09**|**Modified Levenberg-Marquardt Algorithm For Tensor CP Decomposition in Image Compression**|Ramin Goudarzi Karim et.al.|[2401.04670](http://arxiv.org/abs/2401.04670)|null|
 |**2024-01-06**|**Transferable Learned Image Compression-Resistant Adversarial Perturbations**|Yang Sui et.al.|[2401.03115](http://arxiv.org/abs/2401.03115)|null|
