@@ -506,8 +506,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Idempotence and Perceptual Image Compression**|Tongda Xu et.al.|[2401.08920](http://arxiv.org/abs/2401.08920)|**[link](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression)**|
 |**2024-01-16**|**End-to-End Optimized Image Compression with the Frequency-Oriented Transform**|Yuefeng Zhang et.al.|[2401.08194](http://arxiv.org/abs/2401.08194)|null|
-|**2024-01-16**|**Learned Image Compression with ROI-Weighted Distortion and Bit Allocation**|Wei Jiang et.al.|[2401.08154](http://arxiv.org/abs/2401.08154)|null|
+|**2024-01-17**|**Learned Image Compression with ROI-Weighted Distortion and Bit Allocation**|Wei Jiang et.al.|[2401.08154](http://arxiv.org/abs/2401.08154)|null|
 |**2024-01-14**|**Exploring Compressed Image Representation as a Perceptual Proxy: A Study**|Chen-Hsiu Huang et.al.|[2401.07200](http://arxiv.org/abs/2401.07200)|**[link](https://github.com/richzhang/PerceptualSimilarity)**|
 |**2024-01-13**|**Progressive Feature Fusion Network for Enhancing Image Quality Assessment**|Kaiqun Wu et.al.|[2401.06992](http://arxiv.org/abs/2401.06992)|null|
 |**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part II: Spatial and Tonal Data Optimization**|Niklas Kämper et.al.|[2401.06747](http://arxiv.org/abs/2401.06747)|null|
