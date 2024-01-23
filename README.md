@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-21**|**ColorVideoVDP: A visual difference predictor for image, video and display distortions**|Rafal K. Mantiuk et.al.|[2401.11485](http://arxiv.org/abs/2401.11485)|null|
 |**2024-01-19**|**NN-VVC: Versatile Video Coding boosted by self-supervisedly learned image coding for machines**|Jukka I. Ahonen et.al.|[2401.10761](http://arxiv.org/abs/2401.10761)|null|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
 |**2024-01-08**|**A Video Coding Method Based on Neural Network for CLIC2024**|Zhengang Li et.al.|[2401.03623](http://arxiv.org/abs/2401.03623)|null|
@@ -1684,6 +1685,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**A Training-Free Defense Framework for Robust Learned Image Compression**|Myungseo Song et.al.|[2401.11902](http://arxiv.org/abs/2401.11902)|null|
+|**2024-01-21**|**Another Way to the Top: Exploit Contextual Clustering in Learned Image Coding**|Yichi Zhang et.al.|[2401.11615](http://arxiv.org/abs/2401.11615)|null|
+|**2024-01-21**|**Data-driven compression of electron-phonon interactions**|Yao Luo et.al.|[2401.11393](http://arxiv.org/abs/2401.11393)|null|
+|**2024-01-20**|**Learned Image Compression with Dual-Branch Encoder and Conditional Information Coding**|Haisheng Fu et.al.|[2401.11093](http://arxiv.org/abs/2401.11093)|null|
 |**2024-01-18**|**Attack and Defense Analysis of Learned Image Compression**|Tianyu Zhu et.al.|[2401.10345](http://arxiv.org/abs/2401.10345)|null|
 |**2024-01-17**|**Idempotence and Perceptual Image Compression**|Tongda Xu et.al.|[2401.08920](http://arxiv.org/abs/2401.08920)|**[link](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression)**|
 |**2024-01-16**|**End-to-End Optimized Image Compression with the Frequency-Oriented Transform**|Yuefeng Zhang et.al.|[2401.08194](http://arxiv.org/abs/2401.08194)|null|
