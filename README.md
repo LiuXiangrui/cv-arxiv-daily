@@ -1685,6 +1685,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**FLLIC: Functionally Lossless Image Compression**|Xi Zhang et.al.|[2401.13616](http://arxiv.org/abs/2401.13616)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
 |**2024-01-22**|**A Training-Free Defense Framework for Robust Learned Image Compression**|Myungseo Song et.al.|[2401.11902](http://arxiv.org/abs/2401.11902)|null|
 |**2024-01-21**|**Another Way to the Top: Exploit Contextual Clustering in Learned Image Coding**|Yichi Zhang et.al.|[2401.11615](http://arxiv.org/abs/2401.11615)|null|
