@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Conditional Neural Video Coding with Spatial-Temporal Super-Resolution**|Henan Wang et.al.|[2401.13959](http://arxiv.org/abs/2401.13959)|null|
 |**2024-01-21**|**ColorVideoVDP: A visual difference predictor for image, video and display distortions**|Rafal K. Mantiuk et.al.|[2401.11485](http://arxiv.org/abs/2401.11485)|null|
 |**2024-01-19**|**NN-VVC: Versatile Video Coding boosted by self-supervisedly learned image coding for machines**|Jukka I. Ahonen et.al.|[2401.10761](http://arxiv.org/abs/2401.10761)|null|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
@@ -509,6 +510,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Semantic Ensemble Loss and Latent Refinement for High-Fidelity Neural Image Compression**|Daxin Li et.al.|[2401.14007](http://arxiv.org/abs/2401.14007)|null|
+|**2024-01-25**|**Perceptual-oriented Learned Image Compression with Dynamic Kernel**|Nianxiang Fu et.al.|[2401.13967](http://arxiv.org/abs/2401.13967)|null|
+|**2024-01-25**|**Conditional Neural Video Coding with Spatial-Temporal Super-Resolution**|Henan Wang et.al.|[2401.13959](http://arxiv.org/abs/2401.13959)|null|
 |**2024-01-24**|**FLLIC: Functionally Lossless Image Compression**|Xi Zhang et.al.|[2401.13616](http://arxiv.org/abs/2401.13616)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
 |**2024-01-22**|**A Training-Free Defense Framework for Robust Learned Image Compression**|Myungseo Song et.al.|[2401.11902](http://arxiv.org/abs/2401.11902)|null|
