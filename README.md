@@ -1686,6 +1686,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Study of the gOMP Algorithm for Recovery of Compressed Sensed Hyperspectral Images**|Jon Alvarez Justo et.al.|[2401.14786](http://arxiv.org/abs/2401.14786)|null|
+|**2024-01-26**|**A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction**|Jon Alvarez Justo et.al.|[2401.14762](http://arxiv.org/abs/2401.14762)|null|
 |**2024-01-25**|**Semantic Ensemble Loss and Latent Refinement for High-Fidelity Neural Image Compression**|Daxin Li et.al.|[2401.14007](http://arxiv.org/abs/2401.14007)|null|
 |**2024-01-25**|**Perceptual-oriented Learned Image Compression with Dynamic Kernel**|Nianxiang Fu et.al.|[2401.13967](http://arxiv.org/abs/2401.13967)|null|
 |**2024-01-25**|**Conditional Neural Video Coding with Spatial-Temporal Super-Resolution**|Henan Wang et.al.|[2401.13959](http://arxiv.org/abs/2401.13959)|null|
