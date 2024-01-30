@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression**|Xihua Sheng et.al.|[2401.15864](http://arxiv.org/abs/2401.15864)|null|
 |**2024-01-25**|**Conditional Neural Video Coding with Spatial-Temporal Super-Resolution**|Henan Wang et.al.|[2401.13959](http://arxiv.org/abs/2401.13959)|null|
 |**2024-01-21**|**ColorVideoVDP: A visual difference predictor for image, video and display distortions**|Rafal K. Mantiuk et.al.|[2401.11485](http://arxiv.org/abs/2401.11485)|null|
 |**2024-01-19**|**NN-VVC: Versatile Video Coding boosted by self-supervisedly learned image coding for machines**|Jukka I. Ahonen et.al.|[2401.10761](http://arxiv.org/abs/2401.10761)|null|
