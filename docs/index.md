@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**A Neural Enhancement Post-Processor with a Dynamic AV1 Encoder Configuration Strategy for CLIC 2024**|Darren Ramsook et.al.|[2401.18021](http://arxiv.org/abs/2401.18021)|null|
 |**2024-01-29**|**Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression**|Xihua Sheng et.al.|[2401.15864](http://arxiv.org/abs/2401.15864)|null|
 |**2024-01-25**|**Conditional Neural Video Coding with Spatial-Temporal Super-Resolution**|Henan Wang et.al.|[2401.13959](http://arxiv.org/abs/2401.13959)|null|
 |**2024-01-21**|**ColorVideoVDP: A visual difference predictor for image, video and display distortions**|Rafal K. Mantiuk et.al.|[2401.11485](http://arxiv.org/abs/2401.11485)|null|
@@ -511,6 +512,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Robustly overfitting latents for flexible neural image compression**|Yura Perugachi-Diaz et.al.|[2401.17789](http://arxiv.org/abs/2401.17789)|null|
 |**2024-01-26**|**Study of the gOMP Algorithm for Recovery of Compressed Sensed Hyperspectral Images**|Jon Alvarez Justo et.al.|[2401.14786](http://arxiv.org/abs/2401.14786)|null|
 |**2024-01-26**|**A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction**|Jon Alvarez Justo et.al.|[2401.14762](http://arxiv.org/abs/2401.14762)|null|
 |**2024-01-25**|**Semantic Ensemble Loss and Latent Refinement for High-Fidelity Neural Image Compression**|Daxin Li et.al.|[2401.14007](http://arxiv.org/abs/2401.14007)|null|
