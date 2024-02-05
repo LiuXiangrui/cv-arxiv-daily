@@ -1513,6 +1513,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
+|**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380](http://arxiv.org/abs/2402.01380)|null|
+|**2024-02-02**|**UCVC: A Unified Contextual Video Compression Framework with Joint P-frame and B-frame Coding**|Jiayu Yang et.al.|[2402.01289](http://arxiv.org/abs/2402.01289)|null|
 |**2024-02-01**|**LVC-LGMC: Joint Local and Global Motion Compensation for Learned Video Compression**|Wei Jiang et.al.|[2402.00680](http://arxiv.org/abs/2402.00680)|null|
 |**2024-02-01**|**Gain of Grain: A Film Grain Handling Toolchain for VVC-based Open Implementations**|Vignesh V Menon et.al.|[2402.00622](http://arxiv.org/abs/2402.00622)|null|
 |**2024-01-31**|**A Neural Enhancement Post-Processor with a Dynamic AV1 Encoder Configuration Strategy for CLIC 2024**|Darren Ramsook et.al.|[2401.18021](http://arxiv.org/abs/2401.18021)|null|
@@ -1690,6 +1693,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**UCVC: A Unified Contextual Video Compression Framework with Joint P-frame and B-frame Coding**|Jiayu Yang et.al.|[2402.01289](http://arxiv.org/abs/2402.01289)|null|
+|**2024-02-01**|**Compressed image quality assessment using stacking**|S. Farhad Hosseini-Benvidi et.al.|[2402.00993](http://arxiv.org/abs/2402.00993)|null|
 |**2024-01-31**|**Robustly overfitting latents for flexible neural image compression**|Yura Perugachi-Diaz et.al.|[2401.17789](http://arxiv.org/abs/2401.17789)|null|
 |**2024-01-26**|**Study of the gOMP Algorithm for Recovery of Compressed Sensed Hyperspectral Images**|Jon Alvarez Justo et.al.|[2401.14786](http://arxiv.org/abs/2401.14786)|null|
 |**2024-01-26**|**A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction**|Jon Alvarez Justo et.al.|[2401.14762](http://arxiv.org/abs/2401.14762)|null|
