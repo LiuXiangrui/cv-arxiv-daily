@@ -789,7 +789,7 @@
 |**2022-07-14**|**Semi-supervised Vector-Quantization in Visual SLAM using HGCN**|Amir Zarringhalam et.al.|[2207.06738](http://arxiv.org/abs/2207.06738)|null|
 |**2022-07-14**|**Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**|Amir Zarringhalam et.al.|[2207.06732](http://arxiv.org/abs/2207.06732)|null|
 |**2022-07-19**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu et.al.|[2207.06058](http://arxiv.org/abs/2207.06058)|**[link](https://github.com/peterfws/structure-plp-slam)**|
-|**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317](http://arxiv.org/abs/2207.05317)|null|
+|**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317](http://arxiv.org/abs/2207.05317)|**[link](https://github.com/82magnolia/panoramic-localization)**|
 |**2022-07-05**|**Hierarchical Average Precision Training for Pertinent Image Retrieval**|Elias Ramzi et.al.|[2207.04873](http://arxiv.org/abs/2207.04873)|**[link](https://github.com/elias-ramzi/happier)**|
 |**2022-07-11**|**A clinically motivated self-supervised approach for content-based image retrieval of CT liver images**|Kristoffer Knutsen Wickstrøm et.al.|[2207.04812](http://arxiv.org/abs/2207.04812)|**[link](https://github.com/wickstrom/clinical-self-supervised-cbir-ct-liver)**|
 |**2022-07-09**|**BOSS: Bottom-up Cross-modal Semantic Composition with Hybrid Counterfactual Training for Robust Content-based Image Retrieval**|Wenqiao Zhang et.al.|[2207.04211](http://arxiv.org/abs/2207.04211)|null|
