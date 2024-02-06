@@ -1513,10 +1513,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Cool-chic video: Learned video coding with 800 parameters**|Thomas Leguay et.al.|[2402.03179](http://arxiv.org/abs/2402.03179)|null|
 |**2024-02-02**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
 |**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380](http://arxiv.org/abs/2402.01380)|null|
 |**2024-02-02**|**UCVC: A Unified Contextual Video Compression Framework with Joint P-frame and B-frame Coding**|Jiayu Yang et.al.|[2402.01289](http://arxiv.org/abs/2402.01289)|null|
-|**2024-02-01**|**LVC-LGMC: Joint Local and Global Motion Compensation for Learned Video Compression**|Wei Jiang et.al.|[2402.00680](http://arxiv.org/abs/2402.00680)|null|
+|**2024-02-04**|**LVC-LGMC: Joint Local and Global Motion Compensation for Learned Video Compression**|Wei Jiang et.al.|[2402.00680](http://arxiv.org/abs/2402.00680)|null|
 |**2024-02-01**|**Gain of Grain: A Film Grain Handling Toolchain for VVC-based Open Implementations**|Vignesh V Menon et.al.|[2402.00622](http://arxiv.org/abs/2402.00622)|null|
 |**2024-01-31**|**A Neural Enhancement Post-Processor with a Dynamic AV1 Encoder Configuration Strategy for CLIC 2024**|Darren Ramsook et.al.|[2401.18021](http://arxiv.org/abs/2401.18021)|null|
 |**2024-01-29**|**Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression**|Xihua Sheng et.al.|[2401.15864](http://arxiv.org/abs/2401.15864)|null|
@@ -1693,6 +1694,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Perceptual Learned Image Compression via End-to-End JND-Based Optimization**|Farhad Pakdaman et.al.|[2402.02836](http://arxiv.org/abs/2402.02836)|null|
+|**2024-02-04**|**Discovering More Effective Tensor Network Structure Search Algorithms via Large Language Models (LLMs)**|Junhua Zeng et.al.|[2402.02456](http://arxiv.org/abs/2402.02456)|null|
+|**2024-02-03**|**RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction**|Nikolaos Stathoulopoulos et.al.|[2402.02192](http://arxiv.org/abs/2402.02192)|null|
 |**2024-02-02**|**UCVC: A Unified Contextual Video Compression Framework with Joint P-frame and B-frame Coding**|Jiayu Yang et.al.|[2402.01289](http://arxiv.org/abs/2402.01289)|null|
 |**2024-02-01**|**Compressed image quality assessment using stacking**|S. Farhad Hosseini-Benvidi et.al.|[2402.00993](http://arxiv.org/abs/2402.00993)|null|
 |**2024-01-31**|**Robustly overfitting latents for flexible neural image compression**|Yura Perugachi-Diaz et.al.|[2401.17789](http://arxiv.org/abs/2401.17789)|null|
