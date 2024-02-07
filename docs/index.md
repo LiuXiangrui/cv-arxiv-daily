@@ -339,7 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-05**|**Cool-chic video: Learned video coding with 800 parameters**|Thomas Leguay et.al.|[2402.03179](http://arxiv.org/abs/2402.03179)|null|
+|**2024-02-06**|**A Novel Local and Hyper-Local Multicast Services Transmission Scheme for Beyond 5G Networks**|Sweta Singh et.al.|[2402.03963](http://arxiv.org/abs/2402.03963)|null|
+|**2024-02-06**|**Cool-chic video: Learned video coding with 800 parameters**|Thomas Leguay et.al.|[2402.03179](http://arxiv.org/abs/2402.03179)|null|
 |**2024-02-02**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
 |**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380](http://arxiv.org/abs/2402.01380)|null|
 |**2024-02-02**|**UCVC: A Unified Contextual Video Compression Framework with Joint P-frame and B-frame Coding**|Jiayu Yang et.al.|[2402.01289](http://arxiv.org/abs/2402.01289)|null|
@@ -527,7 +528,7 @@ layout: default
 |**2024-01-26**|**Study of the gOMP Algorithm for Recovery of Compressed Sensed Hyperspectral Images**|Jon Alvarez Justo et.al.|[2401.14786](http://arxiv.org/abs/2401.14786)|null|
 |**2024-01-26**|**A Comparative Study of Compressive Sensing Algorithms for Hyperspectral Imaging Reconstruction**|Jon Alvarez Justo et.al.|[2401.14762](http://arxiv.org/abs/2401.14762)|null|
 |**2024-01-25**|**Semantic Ensemble Loss and Latent Refinement for High-Fidelity Neural Image Compression**|Daxin Li et.al.|[2401.14007](http://arxiv.org/abs/2401.14007)|null|
-|**2024-01-25**|**Perceptual-oriented Learned Image Compression with Dynamic Kernel**|Nianxiang Fu et.al.|[2401.13967](http://arxiv.org/abs/2401.13967)|null|
+|**2024-02-06**|**Perceptual-oriented Learned Image Compression with Dynamic Kernel**|Nianxiang Fu et.al.|[2401.13967](http://arxiv.org/abs/2401.13967)|null|
 |**2024-01-25**|**Conditional Neural Video Coding with Spatial-Temporal Super-Resolution**|Henan Wang et.al.|[2401.13959](http://arxiv.org/abs/2401.13959)|null|
 |**2024-01-24**|**FLLIC: Functionally Lossless Image Compression**|Xi Zhang et.al.|[2401.13616](http://arxiv.org/abs/2401.13616)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
