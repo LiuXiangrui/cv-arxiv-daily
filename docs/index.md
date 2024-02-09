@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**|Onur G. Guleryuz et.al.|[2402.05887](http://arxiv.org/abs/2402.05887)|**[link](https://github.com/google/sandwiched_compression)**|
 |**2024-02-06**|**A Novel Local and Hyper-Local Multicast Services Transmission Scheme for Beyond 5G Networks**|Sweta Singh et.al.|[2402.03963](http://arxiv.org/abs/2402.03963)|null|
 |**2024-02-06**|**Cool-chic video: Learned video coding with 800 parameters**|Thomas Leguay et.al.|[2402.03179](http://arxiv.org/abs/2402.03179)|null|
 |**2024-02-02**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
@@ -519,6 +520,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs**|Yuxin Xie et.al.|[2402.05582](http://arxiv.org/abs/2402.05582)|null|
 |**2024-02-05**|**Perceptual Learned Image Compression via End-to-End JND-Based Optimization**|Farhad Pakdaman et.al.|[2402.02836](http://arxiv.org/abs/2402.02836)|null|
 |**2024-02-04**|**Discovering More Effective Tensor Network Structure Search Algorithms via Large Language Models (LLMs)**|Junhua Zeng et.al.|[2402.02456](http://arxiv.org/abs/2402.02456)|null|
 |**2024-02-03**|**RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction**|Nikolaos Stathoulopoulos et.al.|[2402.02192](http://arxiv.org/abs/2402.02192)|null|
