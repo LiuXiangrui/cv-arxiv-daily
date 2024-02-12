@@ -1696,6 +1696,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**RAGE for the Machine: Image Compression with Low-Cost Random Access for Embedded Applications**|Christian D. Rask et.al.|[2402.05974](http://arxiv.org/abs/2402.05974)|null|
 |**2024-02-08**|**Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs**|Yuxin Xie et.al.|[2402.05582](http://arxiv.org/abs/2402.05582)|null|
 |**2024-02-05**|**Perceptual Learned Image Compression via End-to-End JND-Based Optimization**|Farhad Pakdaman et.al.|[2402.02836](http://arxiv.org/abs/2402.02836)|null|
 |**2024-02-04**|**Discovering More Effective Tensor Network Structure Search Algorithms via Large Language Models (LLMs)**|Junhua Zeng et.al.|[2402.02456](http://arxiv.org/abs/2402.02456)|null|
