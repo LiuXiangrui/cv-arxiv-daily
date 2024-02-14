@@ -339,6 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Motion-Adaptive Inference for Flexible Learned B-Frame Compression**|M. Akin Yilmaz et.al.|[2402.08550](http://arxiv.org/abs/2402.08550)|null|
+|**2024-02-13**|**A Neural-network Enhanced Video Coding Framework beyond ECM**|Yanchen Zhao et.al.|[2402.08397](http://arxiv.org/abs/2402.08397)|null|
 |**2024-02-08**|**Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**|Onur G. Guleryuz et.al.|[2402.05887](http://arxiv.org/abs/2402.05887)|**[link](https://github.com/google/sandwiched_compression)**|
 |**2024-02-06**|**A Novel Local and Hyper-Local Multicast Services Transmission Scheme for Beyond 5G Networks**|Sweta Singh et.al.|[2402.03963](http://arxiv.org/abs/2402.03963)|null|
 |**2024-02-06**|**Cool-chic video: Learned video coding with 800 parameters**|Thomas Leguay et.al.|[2402.03179](http://arxiv.org/abs/2402.03179)|null|
@@ -520,6 +522,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Learned Image Compression with Text Quality Enhancement**|Chih-Yu Lai et.al.|[2402.08643](http://arxiv.org/abs/2402.08643)|null|
 |**2024-02-07**|**RAGE for the Machine: Image Compression with Low-Cost Random Access for Embedded Applications**|Christian D. Rask et.al.|[2402.05974](http://arxiv.org/abs/2402.05974)|null|
 |**2024-02-08**|**Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs**|Yuxin Xie et.al.|[2402.05582](http://arxiv.org/abs/2402.05582)|null|
 |**2024-02-05**|**Perceptual Learned Image Compression via End-to-End JND-Based Optimization**|Farhad Pakdaman et.al.|[2402.02836](http://arxiv.org/abs/2402.02836)|null|
