@@ -339,6 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**A Comprehensive Review of Software and Hardware Energy Efficiency of Video Decoders**|Matthias Kränzler et.al.|[2402.09001](http://arxiv.org/abs/2402.09001)|null|
+|**2024-02-14**|**Extreme Video Compression with Pre-trained Diffusion Models**|Bohan Li et.al.|[2402.08934](http://arxiv.org/abs/2402.08934)|**[link](https://github.com/elesionkyrie/extreme-video-compression-with-prediction-using-pre-trainded-diffusion-models-)**|
 |**2024-02-13**|**Motion-Adaptive Inference for Flexible Learned B-Frame Compression**|M. Akin Yilmaz et.al.|[2402.08550](http://arxiv.org/abs/2402.08550)|null|
 |**2024-02-13**|**A Neural-network Enhanced Video Coding Framework beyond ECM**|Yanchen Zhao et.al.|[2402.08397](http://arxiv.org/abs/2402.08397)|null|
 |**2024-02-08**|**Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**|Onur G. Guleryuz et.al.|[2402.05887](http://arxiv.org/abs/2402.05887)|**[link](https://github.com/google/sandwiched_compression)**|
@@ -522,6 +524,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Extreme Video Compression with Pre-trained Diffusion Models**|Bohan Li et.al.|[2402.08934](http://arxiv.org/abs/2402.08934)|**[link](https://github.com/elesionkyrie/extreme-video-compression-with-prediction-using-pre-trainded-diffusion-models-)**|
+|**2024-02-14**|**Saliency-aware End-to-end Learned Variable-Bitrate 360-degree Image Compression**|Oguzhan Gungordu et.al.|[2402.08862](http://arxiv.org/abs/2402.08862)|null|
 |**2024-02-13**|**Learned Image Compression with Text Quality Enhancement**|Chih-Yu Lai et.al.|[2402.08643](http://arxiv.org/abs/2402.08643)|null|
 |**2024-02-07**|**RAGE for the Machine: Image Compression with Low-Cost Random Access for Embedded Applications**|Christian D. Rask et.al.|[2402.05974](http://arxiv.org/abs/2402.05974)|null|
 |**2024-02-08**|**Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs**|Yuxin Xie et.al.|[2402.05582](http://arxiv.org/abs/2402.05582)|null|
