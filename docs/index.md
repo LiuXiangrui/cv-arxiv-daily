@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Analysis of Neural Video Compression Networks for 360-Degree Video Coding**|Andy Regensky et.al.|[2402.10257](http://arxiv.org/abs/2402.10257)|null|
 |**2024-02-14**|**A Comprehensive Review of Software and Hardware Energy Efficiency of Video Decoders**|Matthias Kränzler et.al.|[2402.09001](http://arxiv.org/abs/2402.09001)|null|
 |**2024-02-14**|**Extreme Video Compression with Pre-trained Diffusion Models**|Bohan Li et.al.|[2402.08934](http://arxiv.org/abs/2402.08934)|**[link](https://github.com/elesionkyrie/extreme-video-compression-with-prediction-using-pre-trainded-diffusion-models-)**|
 |**2024-02-13**|**Motion-Adaptive Inference for Flexible Learned B-Frame Compression**|M. Akin Yilmaz et.al.|[2402.08550](http://arxiv.org/abs/2402.08550)|null|
