@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-18**|**Learning to Learn Faster from Human Feedback with Language Model Predictive Control**|Jacky Liang et.al.|[2402.11450](http://arxiv.org/abs/2402.11450)|null|
 |**2024-02-15**|**Analysis of Neural Video Compression Networks for 360-Degree Video Coding**|Andy Regensky et.al.|[2402.10257](http://arxiv.org/abs/2402.10257)|null|
 |**2024-02-14**|**A Comprehensive Review of Software and Hardware Energy Efficiency of Video Decoders**|Matthias Kränzler et.al.|[2402.09001](http://arxiv.org/abs/2402.09001)|null|
 |**2024-02-14**|**Extreme Video Compression with Pre-trained Diffusion Models**|Bohan Li et.al.|[2402.08934](http://arxiv.org/abs/2402.08934)|**[link](https://github.com/elesionkyrie/extreme-video-compression-with-prediction-using-pre-trainded-diffusion-models-)**|
@@ -1701,6 +1702,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680](http://arxiv.org/abs/2402.11680)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
+|**2024-02-17**|**TinyLIC-High efficiency lossy image compression method**|Gaocheng Ma et.al.|[2402.11164](http://arxiv.org/abs/2402.11164)|null|
 |**2024-02-14**|**Reducing Texture Bias of Deep Neural Networks via Edge Enhancing Diffusion**|Edgar Heinert et.al.|[2402.09530](http://arxiv.org/abs/2402.09530)|null|
 |**2024-02-14**|**Extreme Video Compression with Pre-trained Diffusion Models**|Bohan Li et.al.|[2402.08934](http://arxiv.org/abs/2402.08934)|**[link](https://github.com/elesionkyrie/extreme-video-compression-with-prediction-using-pre-trainded-diffusion-models-)**|
 |**2024-02-14**|**Saliency-aware End-to-end Learned Variable-Bitrate 360-degree Image Compression**|Oguzhan Gungordu et.al.|[2402.08862](http://arxiv.org/abs/2402.08862)|null|
