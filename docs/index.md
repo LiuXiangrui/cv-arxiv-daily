@@ -526,6 +526,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Transformer-based Learned Image Compression for Joint Decoding and Denoising**|Yi-Hsin Chen et.al.|[2402.12888](http://arxiv.org/abs/2402.12888)|null|
 |**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680](http://arxiv.org/abs/2402.11680)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
 |**2024-02-17**|**TinyLIC-High efficiency lossy image compression method**|Gaocheng Ma et.al.|[2402.11164](http://arxiv.org/abs/2402.11164)|null|
 |**2024-02-14**|**Reducing Texture Bias of Deep Neural Networks via Edge Enhancing Diffusion**|Edgar Heinert et.al.|[2402.09530](http://arxiv.org/abs/2402.09530)|null|
