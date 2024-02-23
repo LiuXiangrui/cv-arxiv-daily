@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Distributed Radiance Fields for Edge Video Compression and Metaverse Integration in Autonomous Driving**|Eugen Šlapak et.al.|[2402.14642](http://arxiv.org/abs/2402.14642)|null|
 |**2024-02-18**|**Learning to Learn Faster from Human Feedback with Language Model Predictive Control**|Jacky Liang et.al.|[2402.11450](http://arxiv.org/abs/2402.11450)|null|
 |**2024-02-15**|**Analysis of Neural Video Compression Networks for 360-Degree Video Coding**|Andy Regensky et.al.|[2402.10257](http://arxiv.org/abs/2402.10257)|null|
 |**2024-02-14**|**A Comprehensive Review of Software and Hardware Energy Efficiency of Video Decoders**|Matthias Kränzler et.al.|[2402.09001](http://arxiv.org/abs/2402.09001)|null|
