@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Adaptive Online Learning of Separable Path Graph Transforms for Intra-prediction**|Wen-Yang Lu et.al.|[2402.16371](http://arxiv.org/abs/2402.16371)|null|
 |**2024-02-22**|**Distributed Radiance Fields for Edge Video Compression and Metaverse Integration in Autonomous Driving**|Eugen Šlapak et.al.|[2402.14642](http://arxiv.org/abs/2402.14642)|null|
 |**2024-02-18**|**Learning to Learn Faster from Human Feedback with Language Model Predictive Control**|Jacky Liang et.al.|[2402.11450](http://arxiv.org/abs/2402.11450)|null|
 |**2024-02-15**|**Analysis of Neural Video Compression Networks for 360-Degree Video Coding**|Andy Regensky et.al.|[2402.10257](http://arxiv.org/abs/2402.10257)|null|
@@ -527,6 +528,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Distortion-Controlled Dithering with Reduced Recompression Rate**|Morriel Kasher et.al.|[2402.16447](http://arxiv.org/abs/2402.16447)|null|
+|**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366](http://arxiv.org/abs/2402.16366)|null|
+|**2024-02-24**|**Traditional Transformation Theory Guided Model for Learned Image Compression**|Zhiyuan Li et.al.|[2402.15744](http://arxiv.org/abs/2402.15744)|null|
 |**2024-02-21**|**Exploring the Limits of Semantic Image Compression at Micro-bits per Pixel**|Jordan Dotzel et.al.|[2402.13536](http://arxiv.org/abs/2402.13536)|null|
 |**2024-02-20**|**Transformer-based Learned Image Compression for Joint Decoding and Denoising**|Yi-Hsin Chen et.al.|[2402.12888](http://arxiv.org/abs/2402.12888)|null|
 |**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680](http://arxiv.org/abs/2402.11680)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
