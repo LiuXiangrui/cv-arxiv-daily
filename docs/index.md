@@ -339,6 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Neural Video Compression with Feature Modulation**|Jiahao Li et.al.|[2402.17414](http://arxiv.org/abs/2402.17414)|**[link](https://github.com/microsoft/dcvc)**|
+|**2024-02-26**|**Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**|Yifei Li et.al.|[2402.16599](http://arxiv.org/abs/2402.16599)|null|
 |**2024-02-26**|**Adaptive Online Learning of Separable Path Graph Transforms for Intra-prediction**|Wen-Yang Lu et.al.|[2402.16371](http://arxiv.org/abs/2402.16371)|null|
 |**2024-02-22**|**Distributed Radiance Fields for Edge Video Compression and Metaverse Integration in Autonomous Driving**|Eugen Šlapak et.al.|[2402.14642](http://arxiv.org/abs/2402.14642)|null|
 |**2024-02-18**|**Learning to Learn Faster from Human Feedback with Language Model Predictive Control**|Jacky Liang et.al.|[2402.11450](http://arxiv.org/abs/2402.11450)|null|
@@ -528,6 +530,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Bit Rate Matching Algorithm Optimization in JPEG-AI Verification Model**|Panqi Jia et.al.|[2402.17487](http://arxiv.org/abs/2402.17487)|null|
+|**2024-02-27**|**Bit Distribution Study and Implementation of Spatial Quality Map in the JPEG-AI Standardization**|Panqi Jia et.al.|[2402.17470](http://arxiv.org/abs/2402.17470)|null|
+|**2024-01-19**|**MB-RACS: Measurement-Bounds-based Rate-Adaptive Image Compressed Sensing Network**|Yujun Huang et.al.|[2402.16855](http://arxiv.org/abs/2402.16855)|null|
+|**2024-02-26**|**MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model**|Chunyi Li et.al.|[2402.16749](http://arxiv.org/abs/2402.16749)|**[link](https://github.com/lcysyzxdxc/misc)**|
 |**2024-02-26**|**Distortion-Controlled Dithering with Reduced Recompression Rate**|Morriel Kasher et.al.|[2402.16447](http://arxiv.org/abs/2402.16447)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366](http://arxiv.org/abs/2402.16366)|null|
 |**2024-02-24**|**Traditional Transformation Theory Guided Model for Learned Image Compression**|Zhiyuan Li et.al.|[2402.15744](http://arxiv.org/abs/2402.15744)|null|
