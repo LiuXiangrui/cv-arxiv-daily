@@ -339,8 +339,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets**|Fatih Kamisli et.al.|[2402.18930](http://arxiv.org/abs/2402.18930)|**[link](https://github.com/InterDigitalInc/CompressAI)**|
+|**2024-01-10**|**Motion Guided Token Compression for Efficient Masked Video Modeling**|Yukun Feng et.al.|[2402.18577](http://arxiv.org/abs/2402.18577)|null|
 |**2024-02-28**|**NERV++: An Enhanced Implicit Neural Video Representation**|Ahmed Ghorbel et.al.|[2402.18305](http://arxiv.org/abs/2402.18305)|null|
-|**2024-02-27**|**Neural Video Compression with Feature Modulation**|Jiahao Li et.al.|[2402.17414](http://arxiv.org/abs/2402.17414)|**[link](https://github.com/microsoft/dcvc)**|
+|**2024-02-29**|**Neural Video Compression with Feature Modulation**|Jiahao Li et.al.|[2402.17414](http://arxiv.org/abs/2402.17414)|**[link](https://github.com/microsoft/dcvc)**|
 |**2024-02-26**|**Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**|Yifei Li et.al.|[2402.16599](http://arxiv.org/abs/2402.16599)|null|
 |**2024-02-26**|**Adaptive Online Learning of Separable Path Graph Transforms for Intra-prediction**|Wen-Yang Lu et.al.|[2402.16371](http://arxiv.org/abs/2402.16371)|null|
 |**2024-02-22**|**Distributed Radiance Fields for Edge Video Compression and Metaverse Integration in Autonomous Driving**|Eugen Šlapak et.al.|[2402.14642](http://arxiv.org/abs/2402.14642)|null|
@@ -531,10 +533,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Deep Network for Image Compressed Sensing Coding Using Local Structural Sampling**|Wenxue Cui et.al.|[2402.19111](http://arxiv.org/abs/2402.19111)|null|
+|**2024-02-29**|**Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets**|Fatih Kamisli et.al.|[2402.18930](http://arxiv.org/abs/2402.18930)|**[link](https://github.com/InterDigitalInc/CompressAI)**|
+|**2024-02-29**|**Towards Backward-Compatible Continual Learning of Image Compression**|Zhihao Duan et.al.|[2402.18862](http://arxiv.org/abs/2402.18862)|null|
+|**2024-02-29**|**Exploration of Learned Lifting-Based Transform Structures for Fully Scalable and Accessible Wavelet-Like Image Compression**|Xinyue Li et.al.|[2402.18761](http://arxiv.org/abs/2402.18761)|null|
 |**2024-02-27**|**Bit Rate Matching Algorithm Optimization in JPEG-AI Verification Model**|Panqi Jia et.al.|[2402.17487](http://arxiv.org/abs/2402.17487)|null|
 |**2024-02-27**|**Bit Distribution Study and Implementation of Spatial Quality Map in the JPEG-AI Standardization**|Panqi Jia et.al.|[2402.17470](http://arxiv.org/abs/2402.17470)|null|
 |**2024-01-19**|**MB-RACS: Measurement-Bounds-based Rate-Adaptive Image Compressed Sensing Network**|Yujun Huang et.al.|[2402.16855](http://arxiv.org/abs/2402.16855)|null|
-|**2024-02-26**|**MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model**|Chunyi Li et.al.|[2402.16749](http://arxiv.org/abs/2402.16749)|**[link](https://github.com/lcysyzxdxc/misc)**|
+|**2024-02-29**|**MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model**|Chunyi Li et.al.|[2402.16749](http://arxiv.org/abs/2402.16749)|**[link](https://github.com/lcysyzxdxc/misc)**|
 |**2024-02-26**|**Distortion-Controlled Dithering with Reduced Recompression Rate**|Morriel Kasher et.al.|[2402.16447](http://arxiv.org/abs/2402.16447)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366](http://arxiv.org/abs/2402.16366)|null|
 |**2024-02-24**|**Traditional Transformation Theory Guided Model for Learned Image Compression**|Zhiyuan Li et.al.|[2402.15744](http://arxiv.org/abs/2402.15744)|null|
