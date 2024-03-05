@@ -339,6 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**Towards Accurate Lip-to-Speech Synthesis in-the-Wild**|Sindhu Hegde et.al.|[2403.01087](http://arxiv.org/abs/2403.01087)|null|
+|**2024-03-01**|**ODVista: An Omnidirectional Video Dataset for super-resolution and Quality Enhancement Tasks**|Ahmed Telili et.al.|[2403.00604](http://arxiv.org/abs/2403.00604)|null|
 |**2024-02-29**|**Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets**|Fatih Kamisli et.al.|[2402.18930](http://arxiv.org/abs/2402.18930)|**[link](https://github.com/InterDigitalInc/CompressAI)**|
 |**2024-01-10**|**Motion Guided Token Compression for Efficient Masked Video Modeling**|Yukun Feng et.al.|[2402.18577](http://arxiv.org/abs/2402.18577)|null|
 |**2024-02-28**|**NERV++: An Enhanced Implicit Neural Video Representation**|Ahmed Ghorbel et.al.|[2402.18305](http://arxiv.org/abs/2402.18305)|null|
@@ -533,6 +535,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-01**|**Region-Adaptive Transform with Segmentation Prior for Image Compression**|Yuxi Liu et.al.|[2403.00628](http://arxiv.org/abs/2403.00628)|**[link](https://github.com/GityuxiLiu/Region-Adaptive-Transform-with-Segmentation-Prior-for-Image-Compression)**|
 |**2024-02-29**|**Deep Network for Image Compressed Sensing Coding Using Local Structural Sampling**|Wenxue Cui et.al.|[2402.19111](http://arxiv.org/abs/2402.19111)|null|
 |**2024-02-29**|**Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets**|Fatih Kamisli et.al.|[2402.18930](http://arxiv.org/abs/2402.18930)|**[link](https://github.com/InterDigitalInc/CompressAI)**|
 |**2024-02-29**|**Towards Backward-Compatible Continual Learning of Image Compression**|Zhihao Duan et.al.|[2402.18862](http://arxiv.org/abs/2402.18862)|null|
