@@ -1711,10 +1711,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**|Hagyeong Lee et.al.|[2403.02944](http://arxiv.org/abs/2403.02944)|null|
+|**2024-03-05**|**Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders**|Daniele Mari et.al.|[2403.02887](http://arxiv.org/abs/2403.02887)|null|
+|**2024-03-04**|**Neural Network Assisted Lifting Steps For Improved Fully Scalable Lossy Image Compression in JPEG 2000**|Xinyue Li et.al.|[2403.01647](http://arxiv.org/abs/2403.01647)|**[link](https://github.com/xinyue-li3/hybrid-lifting-structure)**|
 |**2024-03-01**|**Region-Adaptive Transform with Segmentation Prior for Image Compression**|Yuxi Liu et.al.|[2403.00628](http://arxiv.org/abs/2403.00628)|**[link](https://github.com/GityuxiLiu/Region-Adaptive-Transform-with-Segmentation-Prior-for-Image-Compression)**|
 |**2024-02-29**|**Deep Network for Image Compressed Sensing Coding Using Local Structural Sampling**|Wenxue Cui et.al.|[2402.19111](http://arxiv.org/abs/2402.19111)|null|
 |**2024-02-29**|**Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets**|Fatih Kamisli et.al.|[2402.18930](http://arxiv.org/abs/2402.18930)|**[link](https://github.com/InterDigitalInc/CompressAI)**|
-|**2024-02-29**|**Towards Backward-Compatible Continual Learning of Image Compression**|Zhihao Duan et.al.|[2402.18862](http://arxiv.org/abs/2402.18862)|null|
+|**2024-02-29**|**Towards Backward-Compatible Continual Learning of Image Compression**|Zhihao Duan et.al.|[2402.18862](http://arxiv.org/abs/2402.18862)|**[link](https://gitlab.com/viper-purdue/continual-compression)**|
 |**2024-02-29**|**Exploration of Learned Lifting-Based Transform Structures for Fully Scalable and Accessible Wavelet-Like Image Compression**|Xinyue Li et.al.|[2402.18761](http://arxiv.org/abs/2402.18761)|null|
 |**2024-02-27**|**Bit Rate Matching Algorithm Optimization in JPEG-AI Verification Model**|Panqi Jia et.al.|[2402.17487](http://arxiv.org/abs/2402.17487)|null|
 |**2024-02-27**|**Bit Distribution Study and Implementation of Spatial Quality Map in the JPEG-AI Standardization**|Panqi Jia et.al.|[2402.17470](http://arxiv.org/abs/2402.17470)|null|
@@ -1735,7 +1738,7 @@
 |**2024-02-08**|**Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs**|Yuxin Xie et.al.|[2402.05582](http://arxiv.org/abs/2402.05582)|null|
 |**2024-02-05**|**Perceptual Learned Image Compression via End-to-End JND-Based Optimization**|Farhad Pakdaman et.al.|[2402.02836](http://arxiv.org/abs/2402.02836)|null|
 |**2024-02-04**|**Discovering More Effective Tensor Network Structure Search Algorithms via Large Language Models (LLMs)**|Junhua Zeng et.al.|[2402.02456](http://arxiv.org/abs/2402.02456)|null|
-|**2024-02-03**|**RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction**|Nikolaos Stathoulopoulos et.al.|[2402.02192](http://arxiv.org/abs/2402.02192)|null|
+|**2024-03-04**|**RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction**|Nikolaos Stathoulopoulos et.al.|[2402.02192](http://arxiv.org/abs/2402.02192)|null|
 |**2024-02-02**|**UCVC: A Unified Contextual Video Compression Framework with Joint P-frame and B-frame Coding**|Jiayu Yang et.al.|[2402.01289](http://arxiv.org/abs/2402.01289)|null|
 |**2024-02-01**|**Compressed image quality assessment using stacking**|S. Farhad Hosseini-Benvidi et.al.|[2402.00993](http://arxiv.org/abs/2402.00993)|null|
 |**2024-01-31**|**Robustly overfitting latents for flexible neural image compression**|Yura Perugachi-Diaz et.al.|[2401.17789](http://arxiv.org/abs/2401.17789)|null|
