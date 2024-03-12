@@ -1536,7 +1536,7 @@
 |**2024-02-23**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
 |**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380](http://arxiv.org/abs/2402.01380)|null|
 |**2024-02-02**|**UCVC: A Unified Contextual Video Compression Framework with Joint P-frame and B-frame Coding**|Jiayu Yang et.al.|[2402.01289](http://arxiv.org/abs/2402.01289)|null|
-|**2024-02-04**|**LVC-LGMC: Joint Local and Global Motion Compensation for Learned Video Compression**|Wei Jiang et.al.|[2402.00680](http://arxiv.org/abs/2402.00680)|null|
+|**2024-03-11**|**LVC-LGMC: Joint Local and Global Motion Compensation for Learned Video Compression**|Wei Jiang et.al.|[2402.00680](http://arxiv.org/abs/2402.00680)|null|
 |**2024-02-01**|**Gain of Grain: A Film Grain Handling Toolchain for VVC-based Open Implementations**|Vignesh V Menon et.al.|[2402.00622](http://arxiv.org/abs/2402.00622)|null|
 |**2024-01-31**|**A Neural Enhancement Post-Processor with a Dynamic AV1 Encoder Configuration Strategy for CLIC 2024**|Darren Ramsook et.al.|[2401.18021](http://arxiv.org/abs/2401.18021)|null|
 |**2024-01-29**|**Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression**|Xihua Sheng et.al.|[2401.15864](http://arxiv.org/abs/2401.15864)|null|
@@ -1713,6 +1713,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression**|Cao Zhi et.al.|[2403.06700](http://arxiv.org/abs/2403.06700)|null|
+|**2024-03-10**|**Probing Image Compression For Class-Incremental Learning**|Justin Yang et.al.|[2403.06288](http://arxiv.org/abs/2403.06288)|null|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
 |**2024-03-05**|**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**|Hagyeong Lee et.al.|[2403.02944](http://arxiv.org/abs/2403.02944)|null|
 |**2024-03-05**|**Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders**|Daniele Mari et.al.|[2403.02887](http://arxiv.org/abs/2403.02887)|null|
