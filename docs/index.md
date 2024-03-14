@@ -537,6 +537,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Content-aware Masked Image Modeling Transformer for Stereo Image Compression**|Xinjie Zhang et.al.|[2403.08505](http://arxiv.org/abs/2403.08505)|null|
 |**2024-03-11**|**Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression**|Cao Zhi et.al.|[2403.06700](http://arxiv.org/abs/2403.06700)|null|
 |**2024-03-10**|**Probing Image Compression For Class-Incremental Learning**|Justin Yang et.al.|[2403.06288](http://arxiv.org/abs/2403.06288)|null|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
