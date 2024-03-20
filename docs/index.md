@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
 |**2024-03-18**|**Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**|Zhuoyuan Li et.al.|[2403.11694](http://arxiv.org/abs/2403.11694)|null|
 |**2024-03-18**|**Hierarchical Frequency-based Upsampling and Refining for Compressed Video Quality Enhancement**|Qianyu Zhang et.al.|[2403.11556](http://arxiv.org/abs/2403.11556)|null|
 |**2024-03-16**|**Channel-wise Feature Decorrelation for Enhanced Learned Image Compression**|Farhad Pakdaman et.al.|[2403.10936](http://arxiv.org/abs/2403.10936)|null|
@@ -543,6 +544,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Privacy-Preserving Face Recognition Using Trainable Feature Subtraction**|Yuxi Mi et.al.|[2403.12457](http://arxiv.org/abs/2403.12457)|**[link](https://github.com/Tencent/TFace)**|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
 |**2024-03-17**|**Fidelity-preserving Learning-Based Image Compression: Loss Function and Subjective Evaluation Methodology**|Shima Mohammadi et.al.|[2403.11241](http://arxiv.org/abs/2403.11241)|null|
 |**2024-03-16**|**Channel-wise Feature Decorrelation for Enhanced Learned Image Compression**|Farhad Pakdaman et.al.|[2403.10936](http://arxiv.org/abs/2403.10936)|null|
