@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -550,7 +550,7 @@ layout: default
 |**2024-03-16**|**Channel-wise Feature Decorrelation for Enhanced Learned Image Compression**|Farhad Pakdaman et.al.|[2403.10936](http://arxiv.org/abs/2403.10936)|null|
 |**2024-03-15**|**Process-and-Forward: Deep Joint Source-Channel Coding Over Cooperative Relay Networks**|Chenghong Bian et.al.|[2403.10613](http://arxiv.org/abs/2403.10613)|null|
 |**2024-03-14**|**Noise Dimension of GAN: An Image Compression Perspective**|Ziran Zhu et.al.|[2403.09196](http://arxiv.org/abs/2403.09196)|null|
-|**2024-03-13**|**Content-aware Masked Image Modeling Transformer for Stereo Image Compression**|Xinjie Zhang et.al.|[2403.08505](http://arxiv.org/abs/2403.08505)|null|
+|**2024-03-20**|**Content-aware Masked Image Modeling Transformer for Stereo Image Compression**|Xinjie Zhang et.al.|[2403.08505](http://arxiv.org/abs/2403.08505)|null|
 |**2024-03-16**|**Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression**|Zhi Cao et.al.|[2403.06700](http://arxiv.org/abs/2403.06700)|null|
 |**2024-03-10**|**Probing Image Compression For Class-Incremental Learning**|Justin Yang et.al.|[2403.06288](http://arxiv.org/abs/2403.06288)|null|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
