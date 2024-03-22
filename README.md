@@ -1720,6 +1720,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|null|
+|**2024-03-21**|**Powerful Lossy Compression for Noisy Images**|Shilv Cai et.al.|[2403.14135](http://arxiv.org/abs/2403.14135)|null|
 |**2024-03-19**|**Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**|Jixiang Luo et.al.|[2403.13030](http://arxiv.org/abs/2403.13030)|null|
 |**2024-03-19**|**Privacy-Preserving Face Recognition Using Trainable Feature Subtraction**|Yuxi Mi et.al.|[2403.12457](http://arxiv.org/abs/2403.12457)|**[link](https://github.com/Tencent/TFace)**|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
