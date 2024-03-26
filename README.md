@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Impact of Video Compression Artifacts on Fisheye Camera Visual Perception Tasks**|Madhumitha Sakthi et.al.|[2403.16338](http://arxiv.org/abs/2403.16338)|null|
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
 |**2024-03-18**|**Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**|Zhuoyuan Li et.al.|[2403.11694](http://arxiv.org/abs/2403.11694)|null|
 |**2024-03-18**|**Hierarchical Frequency-based Upsampling and Refining for Compressed Video Quality Enhancement**|Qianyu Zhang et.al.|[2403.11556](http://arxiv.org/abs/2403.11556)|null|
@@ -1720,6 +1721,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-24**|**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis**|Atefeh Khoshkhahtinat et.al.|[2403.16258](http://arxiv.org/abs/2403.16258)|null|
 |**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|**[link](https://github.com/wyq2021/s2lic)**|
 |**2024-03-21**|**Powerful Lossy Compression for Noisy Images**|Shilv Cai et.al.|[2403.14135](http://arxiv.org/abs/2403.14135)|null|
 |**2024-03-19**|**Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**|Jixiang Luo et.al.|[2403.13030](http://arxiv.org/abs/2403.13030)|null|
