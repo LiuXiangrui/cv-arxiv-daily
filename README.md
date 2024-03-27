@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879](http://arxiv.org/abs/2403.17879)|null|
 |**2024-03-25**|**Impact of Video Compression Artifacts on Fisheye Camera Visual Perception Tasks**|Madhumitha Sakthi et.al.|[2403.16338](http://arxiv.org/abs/2403.16338)|null|
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
 |**2024-03-18**|**Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**|Zhuoyuan Li et.al.|[2403.11694](http://arxiv.org/abs/2403.11694)|null|
@@ -1721,9 +1722,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**|Kai Yuan et.al.|[2403.17607](http://arxiv.org/abs/2403.17607)|**[link](https://github.com/intel/tiny-dpcpp-nn)**|
+|**2024-03-25**|**Neural Image Compression with Quantization Rectifier**|Wei Luo et.al.|[2403.17236](http://arxiv.org/abs/2403.17236)|null|
+|**2024-03-25**|**Invertible Diffusion Models for Compressed Sensing**|Bin Chen et.al.|[2403.17006](http://arxiv.org/abs/2403.17006)|null|
 |**2024-03-24**|**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis**|Atefeh Khoshkhahtinat et.al.|[2403.16258](http://arxiv.org/abs/2403.16258)|null|
 |**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|**[link](https://github.com/wyq2021/s2lic)**|
-|**2024-03-21**|**Powerful Lossy Compression for Noisy Images**|Shilv Cai et.al.|[2403.14135](http://arxiv.org/abs/2403.14135)|null|
+|**2024-03-26**|**Powerful Lossy Compression for Noisy Images**|Shilv Cai et.al.|[2403.14135](http://arxiv.org/abs/2403.14135)|null|
 |**2024-03-19**|**Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**|Jixiang Luo et.al.|[2403.13030](http://arxiv.org/abs/2403.13030)|null|
 |**2024-03-19**|**Privacy-Preserving Face Recognition Using Trainable Feature Subtraction**|Yuxi Mi et.al.|[2403.12457](http://arxiv.org/abs/2403.12457)|**[link](https://github.com/Tencent/TFace)**|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
