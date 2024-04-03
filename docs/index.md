@@ -350,7 +350,7 @@ layout: default
 |**2024-03-15**|**CPGA: Coding Priors-Guided Aggregation Network for Compressed Video Quality Enhancement**|Qiang Zhu et.al.|[2403.10362](http://arxiv.org/abs/2403.10362)|null|
 |**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|**[link](https://github.com/uts-ri/idmp)**|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
-|**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954](http://arxiv.org/abs/2403.03954)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
+|**2024-04-02**|**3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations**|Yanjie Ze et.al.|[2403.03954](http://arxiv.org/abs/2403.03954)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
 |**2024-03-02**|**Towards Accurate Lip-to-Speech Synthesis in-the-Wild**|Sindhu Hegde et.al.|[2403.01087](http://arxiv.org/abs/2403.01087)|null|
 |**2024-03-07**|**ODVista: An Omnidirectional Video Dataset for super-resolution and Quality Enhancement Tasks**|Ahmed Telili et.al.|[2403.00604](http://arxiv.org/abs/2403.00604)|**[link](https://github.com/omnidirectional-video-group/odvista)**|
 |**2024-02-29**|**Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets**|Fatih Kamisli et.al.|[2402.18930](http://arxiv.org/abs/2402.18930)|**[link](https://github.com/InterDigitalInc/CompressAI)**|
@@ -547,6 +547,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-01**|**The Rate-Distortion-Perception Trade-off: The Role of Private Randomness**|Yassine Hamdi et.al.|[2404.01111](http://arxiv.org/abs/2404.01111)|null|
+|**2024-03-31**|**Metric dimensions of generalized Sierpiński graphs over squares**|Savari Prabhu et.al.|[2404.00771](http://arxiv.org/abs/2404.00771)|null|
 |**2024-03-26**|**Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**|Kai Yuan et.al.|[2403.17607](http://arxiv.org/abs/2403.17607)|**[link](https://github.com/intel/tiny-dpcpp-nn)**|
 |**2024-03-25**|**Neural Image Compression with Quantization Rectifier**|Wei Luo et.al.|[2403.17236](http://arxiv.org/abs/2403.17236)|null|
 |**2024-03-25**|**Invertible Diffusion Models for Compressed Sensing**|Bin Chen et.al.|[2403.17006](http://arxiv.org/abs/2403.17006)|null|
