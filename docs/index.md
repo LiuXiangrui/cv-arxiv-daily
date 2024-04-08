@@ -95,7 +95,7 @@ layout: default
 |**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497](http://arxiv.org/abs/2303.13497)|null|
 |**2023-03-23**|**Plotting Behind the Scenes: Towards Learnable Game Engines**|Willi Menapace et.al.|[2303.13472](http://arxiv.org/abs/2303.13472)|null|
 |**2023-03-23**|**Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**|Dana Cohen-Bar et.al.|[2303.13450](http://arxiv.org/abs/2303.13450)|**[link](https://github.com/DanaCohen95/Set-the-Scene)**|
-|**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277](http://arxiv.org/abs/2303.13277)|null|
+|**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277](http://arxiv.org/abs/2303.13277)|**[link](https://github.com/zju3dv/SINE)**|
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232](http://arxiv.org/abs/2303.13232)|null|
 |**2023-03-23**|**Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention**|Fangfu Liu et.al.|[2303.13014](http://arxiv.org/abs/2303.13014)|**[link](https://github.com/liuff19/Semantic-Ray)**|
 |**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865](http://arxiv.org/abs/2303.12865)|**[link](https://github.com/mshahbazi72/nerf-gan-distillation)**|
@@ -392,7 +392,7 @@ layout: default
 |**2023-12-17**|**Light-weight CNN-based VVC Inter Partitioning Acceleration**|Yiqun Liu et.al.|[2312.10567](http://arxiv.org/abs/2312.10567)|null|
 |**2023-12-16**|**Statistical Analysis of Inter Coding in VVC Test Model (VTM)**|Yiqun Liu et.al.|[2312.10406](http://arxiv.org/abs/2312.10406)|null|
 |**2023-12-15**|**IQNet: Image Quality Assessment Guided Just Noticeable Difference Prefiltering For Versatile Video Coding**|Yu-Han Sun et.al.|[2312.09799](http://arxiv.org/abs/2312.09799)|null|
-|**2023-12-14**|**Geometry-Corrected Geodesic Motion Modeling with Per-Frame Camera Motion for 360-Degree Video Compression**|Andy Regensky et.al.|[2312.09266](http://arxiv.org/abs/2312.09266)|null|
+|**2023-12-14**|**Geometry-Corrected Geodesic Motion Modeling with Per-Frame Camera Motion for 360-Degree Video Compression**|Andy Regensky et.al.|[2312.09266](http://arxiv.org/abs/2312.09266)|**[link](https://github.com/fau-lms/vvc-extension-ged)**|
 |**2023-12-14**|**Efficient Online Learning of Contact Force Models for Connector Insertion**|Kevin Tracy et.al.|[2312.09190](http://arxiv.org/abs/2312.09190)|null|
 |**2023-12-13**|**Preparing VVC for Streaming: A Fast Multi-Rate Encoding Approach**|Yiqun Liu et.al.|[2312.08330](http://arxiv.org/abs/2312.08330)|null|
 |**2023-12-13**|**CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation**|Eugenio Chisari et.al.|[2312.08240](http://arxiv.org/abs/2312.08240)|null|
