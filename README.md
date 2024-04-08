@@ -1723,6 +1723,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Convolutional variational autoencoders for secure lossy image compression in remote sensing**|Alessandro Giuliano et.al.|[2404.03696](http://arxiv.org/abs/2404.03696)|null|
+|**2024-03-25**|**RL for Consistency Models: Faster Reward Guided Text-to-Image Generation**|Owen Oertell et.al.|[2404.03673](http://arxiv.org/abs/2404.03673)|null|
 |**2024-04-01**|**The Rate-Distortion-Perception Trade-off: The Role of Private Randomness**|Yassine Hamdi et.al.|[2404.01111](http://arxiv.org/abs/2404.01111)|null|
 |**2024-03-31**|**Metric dimensions of generalized Sierpiński graphs over squares**|Savari Prabhu et.al.|[2404.00771](http://arxiv.org/abs/2404.00771)|null|
 |**2024-03-26**|**Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**|Kai Yuan et.al.|[2403.17607](http://arxiv.org/abs/2403.17607)|**[link](https://github.com/intel/tiny-dpcpp-nn)**|
