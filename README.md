@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557](http://arxiv.org/abs/2404.11557)|null|
 |**2024-04-15**|**One-Click Upgrade from 2D to 3D: Sandwiched RGB-D Video Compression for Stereoscopic Teleconferencing**|Yueyu Hu et.al.|[2404.09979](http://arxiv.org/abs/2404.09979)|null|
 |**2024-04-11**|**Video Compression Beyond VVC: Quantitative Analysis of Intra Coding Tools in Enhanced Compression Model (ECM)**|Mohsen Abdoli et.al.|[2404.07872](http://arxiv.org/abs/2404.07872)|null|
 |**2024-04-09**|**Encoder-Quantization-Motion-based Video Quality Metrics**|Yixu Chen et.al.|[2404.06620](http://arxiv.org/abs/2404.06620)|null|
@@ -1728,6 +1729,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Image Generative Semantic Communication with Multi-Modal Similarity Estimation for Resource-Limited Networks**|Eri Hosonuma et.al.|[2404.11280](http://arxiv.org/abs/2404.11280)|null|
 |**2024-04-16**|**Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression**|Jixiang Luo et.al.|[2404.10234](http://arxiv.org/abs/2404.10234)|null|
 |**2024-04-15**|**MarsQE: Semantic-Informed Quality Enhancement for Compressed Martian Image**|Chengfeng Liu et.al.|[2404.09433](http://arxiv.org/abs/2404.09433)|null|
 |**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
@@ -1770,7 +1772,7 @@
 |**2024-02-27**|**Bit Rate Matching Algorithm Optimization in JPEG-AI Verification Model**|Panqi Jia et.al.|[2402.17487](http://arxiv.org/abs/2402.17487)|null|
 |**2024-02-27**|**Bit Distribution Study and Implementation of Spatial Quality Map in the JPEG-AI Standardization**|Panqi Jia et.al.|[2402.17470](http://arxiv.org/abs/2402.17470)|null|
 |**2024-01-19**|**MB-RACS: Measurement-Bounds-based Rate-Adaptive Image Compressed Sensing Network**|Yujun Huang et.al.|[2402.16855](http://arxiv.org/abs/2402.16855)|null|
-|**2024-02-29**|**MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model**|Chunyi Li et.al.|[2402.16749](http://arxiv.org/abs/2402.16749)|**[link](https://github.com/lcysyzxdxc/misc)**|
+|**2024-04-17**|**MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model**|Chunyi Li et.al.|[2402.16749](http://arxiv.org/abs/2402.16749)|**[link](https://github.com/lcysyzxdxc/misc)**|
 |**2024-02-26**|**Distortion-Controlled Dithering with Reduced Recompression Rate**|Morriel Kasher et.al.|[2402.16447](http://arxiv.org/abs/2402.16447)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366](http://arxiv.org/abs/2402.16366)|null|
 |**2024-02-24**|**Traditional Transformation Theory Guided Model for Learned Image Compression**|Zhiyuan Li et.al.|[2402.15744](http://arxiv.org/abs/2402.15744)|null|
