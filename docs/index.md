@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -344,7 +344,7 @@ layout: default
 |**2024-04-11**|**Video Compression Beyond VVC: Quantitative Analysis of Intra Coding Tools in Enhanced Compression Model (ECM)**|Mohsen Abdoli et.al.|[2404.07872](http://arxiv.org/abs/2404.07872)|null|
 |**2024-04-09**|**Encoder-Quantization-Motion-based Video Quality Metrics**|Yixu Chen et.al.|[2404.06620](http://arxiv.org/abs/2404.06620)|null|
 |**2024-04-09**|**Image and Video Compression using Generative Sparse Representation with Fidelity Controls**|Wei Jiang et.al.|[2404.06076](http://arxiv.org/abs/2404.06076)|null|
-|**2024-04-07**|**Task-Aware Encoder Control for Deep Video Compression**|Xingtong Ge et.al.|[2404.04848](http://arxiv.org/abs/2404.04848)|null|
+|**2024-04-20**|**Task-Aware Encoder Control for Deep Video Compression**|Xingtong Ge et.al.|[2404.04848](http://arxiv.org/abs/2404.04848)|null|
 |**2024-03-28**|**Uncertainty-Aware Deep Video Compression with Ensembles**|Wufei Ma et.al.|[2403.19158](http://arxiv.org/abs/2403.19158)|null|
 |**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879](http://arxiv.org/abs/2403.17879)|null|
 |**2024-03-25**|**Impact of Video Compression Artifacts on Fisheye Camera Visual Perception Tasks**|Madhumitha Sakthi et.al.|[2403.16338](http://arxiv.org/abs/2403.16338)|null|
