@@ -388,7 +388,7 @@ layout: default
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
 |**2024-01-08**|**A Video Coding Method Based on Neural Network for CLIC2024**|Zhengang Li et.al.|[2401.03623](http://arxiv.org/abs/2401.03623)|null|
 |**2024-01-04**|**ED: Perceptually tuned Enhanced Compression Model**|Pierrick Philippe et.al.|[2401.02145](http://arxiv.org/abs/2401.02145)|null|
-|**2024-01-02**|**NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement**|Parham Zilouchian Moghaddam et.al.|[2401.01163](http://arxiv.org/abs/2401.01163)|null|
+|**2024-04-24**|**NU-Class Net: A Novel Deep Learning-based Approach for Video Quality Enhancement**|Parham Zilouchian Moghaddam et.al.|[2401.01163](http://arxiv.org/abs/2401.01163)|null|
 |**2023-12-25**|**MaskCRT: Masked Conditional Residual Transformer for Learned Video Compression**|Yi-Hsin Chen et.al.|[2312.15829](http://arxiv.org/abs/2312.15829)|null|
 |**2023-12-25**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[2312.15622](http://arxiv.org/abs/2312.15622)|null|
 |**2023-12-19**|**Full-reference Video Quality Assessment for User Generated Content Transcoding**|Zihao Qi et.al.|[2312.12317](http://arxiv.org/abs/2312.12317)|null|
@@ -553,6 +553,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al.|[2404.15591](http://arxiv.org/abs/2404.15591)|null|
 |**2024-04-20**|**HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression**|Lei Lu et.al.|[2404.13372](http://arxiv.org/abs/2404.13372)|null|
 |**2024-04-18**|**Image Compression and Reconstruction Based on Quantum Network**|Xun Ji et.al.|[2404.11994](http://arxiv.org/abs/2404.11994)|null|
 |**2024-04-17**|**Image Generative Semantic Communication with Multi-Modal Similarity Estimation for Resource-Limited Networks**|Eri Hosonuma et.al.|[2404.11280](http://arxiv.org/abs/2404.11280)|null|
