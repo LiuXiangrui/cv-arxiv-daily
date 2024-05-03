@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -569,7 +569,7 @@ layout: default
 |**2024-04-10**|**Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**|Tom Bordin et.al.|[2404.06865](http://arxiv.org/abs/2404.06865)|null|
 |**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|null|
 |**2024-04-09**|**Image and Video Compression using Generative Sparse Representation with Fidelity Controls**|Wei Jiang et.al.|[2404.06076](http://arxiv.org/abs/2404.06076)|null|
-|**2024-04-07**|**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder**|Yiyang Ma et.al.|[2404.04916](http://arxiv.org/abs/2404.04916)|null|
+|**2024-05-02**|**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder**|Yiyang Ma et.al.|[2404.04916](http://arxiv.org/abs/2404.04916)|null|
 |**2024-04-06**|**Power-Efficient Image Storage: Leveraging Super Resolution Generative Adversarial Network for Sustainable Compression and Reduced Carbon Footprint**|Ashok Mondal et.al.|[2404.04642](http://arxiv.org/abs/2404.04642)|null|
 |**2024-04-16**|**Convolutional variational autoencoders for secure lossy image compression in remote sensing**|Alessandro Giuliano et.al.|[2404.03696](http://arxiv.org/abs/2404.03696)|null|
 |**2024-03-25**|**RL for Consistency Models: Faster Reward Guided Text-to-Image Generation**|Owen Oertell et.al.|[2404.03673](http://arxiv.org/abs/2404.03673)|**[link](https://github.com/Owen-Oertell/rlcm)**|
