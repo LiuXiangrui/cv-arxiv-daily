@@ -339,6 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
+|**2024-05-07**|**DMOFC: Discrimination Metric-Optimized Feature Compression**|Changsheng Gao et.al.|[2405.04044](http://arxiv.org/abs/2405.04044)|null|
 |**2024-05-06**|**A Rate-Distortion-Classification Approach for Lossy Image Compression**|Yuefeng Zhang et.al.|[2405.03500](http://arxiv.org/abs/2405.03500)|null|
 |**2024-05-04**|**Deep Pulse-Signal Magnification for remote Heart Rate Estimation in Compressed Videos**|Joaquim Comas et.al.|[2405.02652](http://arxiv.org/abs/2405.02652)|null|
 |**2024-04-28**|**Joint Reference Frame Synthesis and Post Filter Enhancement for Versatile Video Coding**|Weijie Bao et.al.|[2404.18058](http://arxiv.org/abs/2404.18058)|null|
@@ -557,6 +559,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
+|**2024-05-07**|**Lossy Compression with Data, Perception, and Classification Constraints**|Yuhan Wang et.al.|[2405.04144](http://arxiv.org/abs/2405.04144)|null|
+|**2024-05-06**|**Computational ghost imaging with hybrid transforms by integrating Hadamard, discrete cosine, and Haar matrices**|Yi-Ning Zhao et.al.|[2405.03729](http://arxiv.org/abs/2405.03729)|null|
 |**2024-05-06**|**A Rate-Distortion-Classification Approach for Lossy Image Compression**|Yuefeng Zhang et.al.|[2405.03500](http://arxiv.org/abs/2405.03500)|null|
 |**2024-05-02**|**GroupedMixer: An Entropy Model with Group-wise Token-Mixers for Learned Image Compression**|Daxin Li et.al.|[2405.01170](http://arxiv.org/abs/2405.01170)|null|
 |**2024-04-30**|**Analysis and Enhancement of Lossless Image Compression in JPEG-XL**|Rustam Mamedov et.al.|[2404.19755](http://arxiv.org/abs/2404.19755)|null|
