@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -358,7 +358,7 @@ layout: default
 |**2024-03-18**|**Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**|Zhuoyuan Li et.al.|[2403.11694](http://arxiv.org/abs/2403.11694)|null|
 |**2024-03-18**|**Hierarchical Frequency-based Upsampling and Refining for Compressed Video Quality Enhancement**|Qianyu Zhang et.al.|[2403.11556](http://arxiv.org/abs/2403.11556)|null|
 |**2024-03-16**|**Channel-wise Feature Decorrelation for Enhanced Learned Image Compression**|Farhad Pakdaman et.al.|[2403.10936](http://arxiv.org/abs/2403.10936)|null|
-|**2024-03-16**|**NARRATE: Versatile Language Architecture for Optimal Control in Robotics**|Seif Ismail et.al.|[2403.10762](http://arxiv.org/abs/2403.10762)|null|
+|**2024-03-16**|**NARRATE: Versatile Language Architecture for Optimal Control in Robotics**|Seif Ismail et.al.|[2403.10762](http://arxiv.org/abs/2403.10762)|**[link](https://github.com/vateseif/narrate)**|
 |**2024-03-15**|**CPGA: Coding Priors-Guided Aggregation Network for Compressed Video Quality Enhancement**|Qiang Zhu et.al.|[2403.10362](http://arxiv.org/abs/2403.10362)|null|
 |**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|**[link](https://github.com/uts-ri/idmp)**|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
