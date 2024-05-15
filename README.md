@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Parameter-Efficient Instance-Adaptive Neural Video Compression**|Hyunmo Yang et.al.|[2405.08530](http://arxiv.org/abs/2405.08530)|null|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
 |**2024-05-07**|**DMOFC: Discrimination Metric-Optimized Feature Compression**|Changsheng Gao et.al.|[2405.04044](http://arxiv.org/abs/2405.04044)|null|
 |**2024-05-06**|**A Rate-Distortion-Classification Approach for Lossy Image Compression**|Yuefeng Zhang et.al.|[2405.03500](http://arxiv.org/abs/2405.03500)|null|
