@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -562,7 +562,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
 |**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
-|**2024-05-15**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
+|**2024-05-18**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
 |**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
 |**2024-05-13**|**An Efficient Compression Method for Sign Information of DCT Coefficients via Sign Retrieval**|Chihiro Tsutake et.al.|[2405.07487](http://arxiv.org/abs/2405.07487)|**[link](https://github.com/ctsutake/sr)**|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
@@ -596,7 +596,7 @@ layout: default
 |**2024-03-24**|**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis**|Atefeh Khoshkhahtinat et.al.|[2403.16258](http://arxiv.org/abs/2403.16258)|null|
 |**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|**[link](https://github.com/wyq2021/s2lic)**|
 |**2024-03-26**|**Powerful Lossy Compression for Noisy Images**|Shilv Cai et.al.|[2403.14135](http://arxiv.org/abs/2403.14135)|null|
-|**2024-03-19**|**Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**|Jixiang Luo et.al.|[2403.13030](http://arxiv.org/abs/2403.13030)|null|
+|**2024-05-17**|**Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**|Jixiang Luo et.al.|[2403.13030](http://arxiv.org/abs/2403.13030)|null|
 |**2024-03-19**|**Privacy-Preserving Face Recognition Using Trainable Feature Subtraction**|Yuxi Mi et.al.|[2403.12457](http://arxiv.org/abs/2403.12457)|**[link](https://github.com/Tencent/TFace)**|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
 |**2024-03-17**|**Fidelity-preserving Learning-Based Image Compression: Loss Function and Subjective Evaluation Methodology**|Shima Mohammadi et.al.|[2403.11241](http://arxiv.org/abs/2403.11241)|**[link](https://github.com/shimamohammadi/vcip2023)**|
