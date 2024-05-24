@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -415,7 +415,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 ## SFM
 
@@ -517,7 +517,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -907,7 +907,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1046,7 +1046,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1180,7 +1180,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 ## NeRF
 
@@ -1507,7 +1507,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 ## Video Coding
 
@@ -1731,7 +1731,7 @@
 |**2023-01-11**|**Analysis of displacement compensation methods for wavelet lifting of medical 3-D thorax CT volume data**|Wolfgang Schnurrer et.al.|[2301.04351](http://arxiv.org/abs/2301.04351)|null|
 |**2023-01-03**|**Saliency-Aware Spatio-Temporal Artifact Detection for Compressed Video Quality Assessment**|Liqun Lin et.al.|[2301.01069](http://arxiv.org/abs/2301.01069)|null|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 ## Image Compression
 
@@ -1774,7 +1774,7 @@
 |**2024-03-24**|**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis**|Atefeh Khoshkhahtinat et.al.|[2403.16258](http://arxiv.org/abs/2403.16258)|null|
 |**2024-03-21**|**S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**|Yongqiang Wang et.al.|[2403.14471](http://arxiv.org/abs/2403.14471)|**[link](https://github.com/wyq2021/s2lic)**|
 |**2024-03-26**|**Powerful Lossy Compression for Noisy Images**|Shilv Cai et.al.|[2403.14135](http://arxiv.org/abs/2403.14135)|null|
-|**2024-05-17**|**Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**|Jixiang Luo et.al.|[2403.13030](http://arxiv.org/abs/2403.13030)|null|
+|**2024-05-21**|**Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**|Jixiang Luo et.al.|[2403.13030](http://arxiv.org/abs/2403.13030)|null|
 |**2024-03-19**|**Privacy-Preserving Face Recognition Using Trainable Feature Subtraction**|Yuxi Mi et.al.|[2403.12457](http://arxiv.org/abs/2403.12457)|**[link](https://github.com/Tencent/TFace)**|
 |**2024-03-18**|**Earth+: on-board satellite imagery compression leveraging historical earth observations**|Kuntai Du et.al.|[2403.11434](http://arxiv.org/abs/2403.11434)|null|
 |**2024-03-17**|**Fidelity-preserving Learning-Based Image Compression: Loss Function and Subjective Evaluation Methodology**|Shima Mohammadi et.al.|[2403.11241](http://arxiv.org/abs/2403.11241)|**[link](https://github.com/shimamohammadi/vcip2023)**|
@@ -1785,7 +1785,7 @@
 |**2024-03-16**|**Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression**|Zhi Cao et.al.|[2403.06700](http://arxiv.org/abs/2403.06700)|null|
 |**2024-03-10**|**Probing Image Compression For Class-Incremental Learning**|Justin Yang et.al.|[2403.06288](http://arxiv.org/abs/2403.06288)|null|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
-|**2024-03-05**|**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**|Hagyeong Lee et.al.|[2403.02944](http://arxiv.org/abs/2403.02944)|null|
+|**2024-05-22**|**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**|Hagyeong Lee et.al.|[2403.02944](http://arxiv.org/abs/2403.02944)|null|
 |**2024-03-05**|**Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders**|Daniele Mari et.al.|[2403.02887](http://arxiv.org/abs/2403.02887)|null|
 |**2024-03-04**|**Neural Network Assisted Lifting Steps For Improved Fully Scalable Lossy Image Compression in JPEG 2000**|Xinyue Li et.al.|[2403.01647](http://arxiv.org/abs/2403.01647)|**[link](https://github.com/xinyue-li3/hybrid-lifting-structure)**|
 |**2024-03-01**|**Region-Adaptive Transform with Segmentation Prior for Image Compression**|Yuxi Liu et.al.|[2403.00628](http://arxiv.org/abs/2403.00628)|**[link](https://github.com/GityuxiLiu/Region-Adaptive-Transform-with-Segmentation-Prior-for-Image-Compression)**|
@@ -2002,7 +2002,7 @@
 |**2022-12-14**|**Image Compression with Product Quantized Masked Image Modeling**|Alaaeldin El-Nouby et.al.|[2212.07372](http://arxiv.org/abs/2212.07372)|null|
 |**2023-04-20**|**Metaheuristic-based Energy-aware Image Compression for Mobile App Development**|Seyed Jalaleddin Mousavirad et.al.|[2212.06313](http://arxiv.org/abs/2212.06313)|null|
 
-<p align=right>(<a href=#Updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240524>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
