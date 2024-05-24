@@ -1513,6 +1513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419](http://arxiv.org/abs/2405.14419)|null|
+|**2024-05-23**|**I $^2$ VC: A Unified Framework for Intra- \& Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|null|
 |**2024-05-21**|**Efficient Learned Wavelet Image and Video Coding**|Anna Meyer et.al.|[2405.12631](http://arxiv.org/abs/2405.12631)|null|
 |**2024-05-14**|**Parameter-Efficient Instance-Adaptive Neural Video Compression**|Hyunmo Yang et.al.|[2405.08530](http://arxiv.org/abs/2405.08530)|null|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
@@ -1520,7 +1522,7 @@
 |**2024-05-06**|**A Rate-Distortion-Classification Approach for Lossy Image Compression**|Yuefeng Zhang et.al.|[2405.03500](http://arxiv.org/abs/2405.03500)|null|
 |**2024-05-04**|**Deep Pulse-Signal Magnification for remote Heart Rate Estimation in Compressed Videos**|Joaquim Comas et.al.|[2405.02652](http://arxiv.org/abs/2405.02652)|null|
 |**2024-04-28**|**Joint Reference Frame Synthesis and Post Filter Enhancement for Versatile Video Coding**|Weijie Bao et.al.|[2404.18058](http://arxiv.org/abs/2404.18058)|null|
-|**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|**[link](https://github.com/ToruOwO/hato)**|
+|**2024-05-22**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|**[link](https://github.com/ToruOwO/hato)**|
 |**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557](http://arxiv.org/abs/2404.11557)|null|
 |**2024-04-15**|**One-Click Upgrade from 2D to 3D: Sandwiched RGB-D Video Compression for Stereoscopic Teleconferencing**|Yueyu Hu et.al.|[2404.09979](http://arxiv.org/abs/2404.09979)|null|
 |**2024-04-11**|**Video Compression Beyond VVC: Quantitative Analysis of Intra Coding Tools in Enhanced Compression Model (ECM)**|Mohsen Abdoli et.al.|[2404.07872](http://arxiv.org/abs/2404.07872)|null|
