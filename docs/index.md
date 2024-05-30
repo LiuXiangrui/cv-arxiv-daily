@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -568,7 +568,7 @@ layout: default
 |**2024-05-20**|**Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing**|Takahiro Shindo et.al.|[2405.11894](http://arxiv.org/abs/2405.11894)|null|
 |**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
 |**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
-|**2024-05-18**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
+|**2024-05-29**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
 |**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
 |**2024-05-21**|**An Efficient Compression Method for Sign Information of DCT Coefficients via Sign Retrieval**|Chihiro Tsutake et.al.|[2405.07487](http://arxiv.org/abs/2405.07487)|**[link](https://github.com/ctsutake/sr)**|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
