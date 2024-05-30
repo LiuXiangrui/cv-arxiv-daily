@@ -342,7 +342,7 @@ layout: default
 |**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419](http://arxiv.org/abs/2405.14419)|null|
 |**2024-05-26**|**I $^2$ VC: A Unified Framework for Intra- & Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|null|
 |**2024-05-21**|**Efficient Learned Wavelet Image and Video Coding**|Anna Meyer et.al.|[2405.12631](http://arxiv.org/abs/2405.12631)|null|
-|**2024-05-14**|**Parameter-Efficient Instance-Adaptive Neural Video Compression**|Hyunmo Yang et.al.|[2405.08530](http://arxiv.org/abs/2405.08530)|null|
+|**2024-05-14**|**Parameter-Efficient Instance-Adaptive Neural Video Compression**|Hyunmo Yang et.al.|[2405.08530](http://arxiv.org/abs/2405.08530)|**[link](https://github.com/ohsngjun/PEVC)**|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
 |**2024-05-07**|**DMOFC: Discrimination Metric-Optimized Feature Compression**|Changsheng Gao et.al.|[2405.04044](http://arxiv.org/abs/2405.04044)|null|
 |**2024-05-06**|**A Rate-Distortion-Classification Approach for Lossy Image Compression**|Yuefeng Zhang et.al.|[2405.03500](http://arxiv.org/abs/2405.03500)|null|
@@ -563,12 +563,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
 |**2024-05-27**|**UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation**|Runzhao Yang et.al.|[2405.16850](http://arxiv.org/abs/2405.16850)|null|
 |**2024-05-27**|**Controlling Rate, Distortion, and Realism: Towards a Single Comprehensive Neural Image Compression Model**|Shoma Iwai et.al.|[2405.16817](http://arxiv.org/abs/2405.16817)|**[link](https://github.com/iwa-shi/CRDR)**|
 |**2024-05-20**|**Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing**|Takahiro Shindo et.al.|[2405.11894](http://arxiv.org/abs/2405.11894)|null|
 |**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
 |**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
-|**2024-05-29**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|null|
+|**2024-05-29**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|**[link](https://github.com/final-0/icm-v1)**|
 |**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
 |**2024-05-21**|**An Efficient Compression Method for Sign Information of DCT Coefficients via Sign Retrieval**|Chihiro Tsutake et.al.|[2405.07487](http://arxiv.org/abs/2405.07487)|**[link](https://github.com/ctsutake/sr)**|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
