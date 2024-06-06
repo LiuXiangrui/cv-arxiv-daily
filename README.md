@@ -1741,7 +1741,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-02**|**Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption**|Anqi Li et.al.|[2406.00758](http://arxiv.org/abs/2406.00758)|**[link](https://github.com/lianqi1008/Control-GIC)**|
+|**2024-06-05**|**Lossless Image Compression Using Multi-level Dictionaries: Binary Images**|Samar Agnihotri et.al.|[2406.03087](http://arxiv.org/abs/2406.03087)|null|
+|**2024-06-05**|**Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption**|Anqi Li et.al.|[2406.00758](http://arxiv.org/abs/2406.00758)|**[link](https://github.com/lianqi1008/Control-GIC)**|
 |**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239](http://arxiv.org/abs/2406.00239)|null|
 |**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
 |**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
