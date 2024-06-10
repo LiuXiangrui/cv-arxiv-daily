@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**SMC++: Masked Learning of Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2406.04765](http://arxiv.org/abs/2406.04765)|**[link](https://github.com/tianyuan168326/videosemanticcompression-pytorch)**|
 |**2024-06-04**|**Towards AI-Assisted Sustainable Adaptive Video Streaming Systems: Tutorial and Survey**|Reza Farahani et.al.|[2406.02302](http://arxiv.org/abs/2406.02302)|null|
 |**2024-06-03**|**Video Coding with Cross-Component Sample Offset**|Han Gao et.al.|[2406.01795](http://arxiv.org/abs/2406.01795)|null|
 |**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419](http://arxiv.org/abs/2405.14419)|null|
@@ -1541,7 +1542,7 @@
 |**2024-03-16**|**NARRATE: Versatile Language Architecture for Optimal Control in Robotics**|Seif Ismail et.al.|[2403.10762](http://arxiv.org/abs/2403.10762)|**[link](https://github.com/vateseif/narrate)**|
 |**2024-03-15**|**CPGA: Coding Priors-Guided Aggregation Network for Compressed Video Quality Enhancement**|Qiang Zhu et.al.|[2403.10362](http://arxiv.org/abs/2403.10362)|null|
 |**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|**[link](https://github.com/uts-ri/idmp)**|
-|**2024-05-30**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|**[link](https://github.com/final-0/sa-icm)**|
+|**2024-06-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|**[link](https://github.com/final-0/sa-icm)**|
 |**2024-05-27**|**3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations**|Yanjie Ze et.al.|[2403.03954](http://arxiv.org/abs/2403.03954)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
 |**2024-03-02**|**Towards Accurate Lip-to-Speech Synthesis in-the-Wild**|Sindhu Hegde et.al.|[2403.01087](http://arxiv.org/abs/2403.01087)|null|
 |**2024-03-07**|**ODVista: An Omnidirectional Video Dataset for super-resolution and Quality Enhancement Tasks**|Ahmed Telili et.al.|[2403.00604](http://arxiv.org/abs/2403.00604)|**[link](https://github.com/omnidirectional-video-group/odvista)**|
@@ -1741,6 +1742,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**PatchSVD: A Non-uniform SVD-based Image Compression Algorithm**|Zahra Golpayegani et.al.|[2406.05129](http://arxiv.org/abs/2406.05129)|null|
 |**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
 |**2024-06-05**|**Lossless Image Compression Using Multi-level Dictionaries: Binary Images**|Samar Agnihotri et.al.|[2406.03087](http://arxiv.org/abs/2406.03087)|null|
 |**2024-06-05**|**Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption**|Anqi Li et.al.|[2406.00758](http://arxiv.org/abs/2406.00758)|**[link](https://github.com/lianqi1008/Control-GIC)**|
