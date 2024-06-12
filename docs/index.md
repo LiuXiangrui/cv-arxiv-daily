@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -345,7 +345,7 @@ layout: default
 |**2024-05-23**|**Motion-based video compression for resource-constrained camera traps**|Malika Nisal Ratnayake et.al.|[2405.14419](http://arxiv.org/abs/2405.14419)|null|
 |**2024-06-01**|**I $^2$ VC: A Unified Framework for Intra- & Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|**[link](https://github.com/gyukai/i2vc)**|
 |**2024-05-21**|**Efficient Learned Wavelet Image and Video Coding**|Anna Meyer et.al.|[2405.12631](http://arxiv.org/abs/2405.12631)|null|
-|**2024-05-14**|**Parameter-Efficient Instance-Adaptive Neural Video Compression**|Hyunmo Yang et.al.|[2405.08530](http://arxiv.org/abs/2405.08530)|**[link](https://github.com/ohsngjun/PEVC)**|
+|**2024-06-11**|**Parameter-Efficient Instance-Adaptive Neural Video Compression**|Hyunmo Yang et.al.|[2405.08530](http://arxiv.org/abs/2405.08530)|**[link](https://github.com/ohsngjun/PEVC)**|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
 |**2024-05-07**|**DMOFC: Discrimination Metric-Optimized Feature Compression**|Changsheng Gao et.al.|[2405.04044](http://arxiv.org/abs/2405.04044)|null|
 |**2024-05-06**|**A Rate-Distortion-Classification Approach for Lossy Image Compression**|Yuefeng Zhang et.al.|[2405.03500](http://arxiv.org/abs/2405.03500)|null|
@@ -568,7 +568,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-10**|**Image Compression with Isotropic and Anisotropic Shepard Inpainting**|Rahul Mohideen Kaja Mohideen et.al.|[2406.06247](http://arxiv.org/abs/2406.06247)|null|
 |**2024-06-09**|**Region of Interest Loss for Anonymizing Learned Image Compression**|Christoph Liebender et.al.|[2406.05726](http://arxiv.org/abs/2406.05726)|null|
-|**2024-06-07**|**PatchSVD: A Non-uniform SVD-based Image Compression Algorithm**|Zahra Golpayegani et.al.|[2406.05129](http://arxiv.org/abs/2406.05129)|null|
+|**2024-06-07**|**PatchSVD: A Non-uniform SVD-based Image Compression Algorithm**|Zahra Golpayegani et.al.|[2406.05129](http://arxiv.org/abs/2406.05129)|**[link](https://github.com/zahragolpa/PatchSVD)**|
 |**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
 |**2024-06-05**|**Lossless Image Compression Using Multi-level Dictionaries: Binary Images**|Samar Agnihotri et.al.|[2406.03087](http://arxiv.org/abs/2406.03087)|null|
 |**2024-06-05**|**Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption**|Anqi Li et.al.|[2406.00758](http://arxiv.org/abs/2406.00758)|**[link](https://github.com/lianqi1008/Control-GIC)**|
