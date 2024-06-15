@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.14
+## Updated on 2024.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -569,6 +569,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**CMC-Bench: Towards a New Paradigm of Visual Signal Compression**|Chunyi Li et.al.|[2406.09356](http://arxiv.org/abs/2406.09356)|null|
 |**2024-06-13**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487](http://arxiv.org/abs/2406.08487)|**[link](https://github.com/yfzhang114/slime)**|
 |**2024-06-11**|**Optimal Matrix-Mimetic Tensor Algebras via Variable Projection**|Elizabeth Newman et.al.|[2406.06942](http://arxiv.org/abs/2406.06942)|**[link](https://github.com/elizabethnewman/star-m-opt)**|
 |**2024-06-10**|**Image Compression with Isotropic and Anisotropic Shepard Inpainting**|Rahul Mohideen Kaja Mohideen et.al.|[2406.06247](http://arxiv.org/abs/2406.06247)|null|
