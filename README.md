@@ -1513,6 +1513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-15**|**Object-Attribute-Relation Representation based Video Semantic Communication**|Qiyuan Du et.al.|[2406.10469](http://arxiv.org/abs/2406.10469)|null|
 |**2024-06-14**|**Information Compression in the AI Era: Recent Advances and Future Challenges**|Jun Chen et.al.|[2406.10036](http://arxiv.org/abs/2406.10036)|null|
 |**2024-06-12**|**On Annotation-free Optimization of Video Coding for Machines**|Marc Windsheimer et.al.|[2406.07938](http://arxiv.org/abs/2406.07938)|null|
 |**2024-06-11**|**SSNVC: Single Stream Neural Video Compression with Implicit Temporal Information**|Feng Wang et.al.|[2406.07645](http://arxiv.org/abs/2406.07645)|null|
@@ -1746,6 +1747,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**On Efficient Neural Network Architectures for Image Compression**|Yichi Zhang et.al.|[2406.10361](http://arxiv.org/abs/2406.10361)|null|
 |**2024-06-13**|**CMC-Bench: Towards a New Paradigm of Visual Signal Compression**|Chunyi Li et.al.|[2406.09356](http://arxiv.org/abs/2406.09356)|null|
 |**2024-06-14**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487](http://arxiv.org/abs/2406.08487)|**[link](https://github.com/yfzhang114/slime)**|
 |**2024-06-11**|**Optimal Matrix-Mimetic Tensor Algebras via Variable Projection**|Elizabeth Newman et.al.|[2406.06942](http://arxiv.org/abs/2406.06942)|**[link](https://github.com/elizabethnewman/star-m-opt)**|
@@ -1760,10 +1762,10 @@
 |**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
 |**2024-05-27**|**UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation**|Runzhao Yang et.al.|[2405.16850](http://arxiv.org/abs/2405.16850)|null|
 |**2024-05-27**|**Controlling Rate, Distortion, and Realism: Towards a Single Comprehensive Neural Image Compression Model**|Shoma Iwai et.al.|[2405.16817](http://arxiv.org/abs/2405.16817)|**[link](https://github.com/iwa-shi/CRDR)**|
-|**2024-05-20**|**Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing**|Takahiro Shindo et.al.|[2405.11894](http://arxiv.org/abs/2405.11894)|null|
+|**2024-06-17**|**Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing**|Takahiro Shindo et.al.|[2405.11894](http://arxiv.org/abs/2405.11894)|null|
 |**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
 |**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
-|**2024-06-09**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|**[link](https://github.com/final-0/icm-v1)**|
+|**2024-06-17**|**Scalable Image Coding for Humans and Machines Using Feature Fusion Network**|Takahiro Shindo et.al.|[2405.09152](http://arxiv.org/abs/2405.09152)|**[link](https://github.com/final-0/icm-v1)**|
 |**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
 |**2024-05-21**|**An Efficient Compression Method for Sign Information of DCT Coefficients via Sign Retrieval**|Chihiro Tsutake et.al.|[2405.07487](http://arxiv.org/abs/2405.07487)|**[link](https://github.com/ctsutake/sr)**|
 |**2024-05-07**|**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression**|Zhenghao Chen et.al.|[2405.04274](http://arxiv.org/abs/2405.04274)|null|
