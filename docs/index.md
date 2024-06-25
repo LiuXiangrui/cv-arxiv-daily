@@ -339,6 +339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Hierarchical B-frame Video Coding for Long Group of Pictures**|Ivan Kirillov et.al.|[2406.16544](http://arxiv.org/abs/2406.16544)|null|
 |**2024-06-20**|**Prediction and Reference Quality Adaptation for Learned Video Compression**|Xihua Sheng et.al.|[2406.14118](http://arxiv.org/abs/2406.14118)|null|
 |**2024-06-19**|**Convex-hull Estimation using XPSNR for Versatile Video Coding**|Vignesh V Menon et.al.|[2406.13712](http://arxiv.org/abs/2406.13712)|null|
 |**2024-06-18**|**Competitive Learning for Achieving Content-specific Filters in Video Coding for Machines**|Honglei Zhang et.al.|[2406.12367](http://arxiv.org/abs/2406.12367)|null|
