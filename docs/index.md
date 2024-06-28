@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -577,7 +577,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-19**|**A Study on the Effect of Color Spaces in Learned Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2406.13709](http://arxiv.org/abs/2406.13709)|null|
 |**2024-06-18**|**Learned Image Compression for HE-stained Histopathological Images via Stain Deconvolution**|Maximilian Fischer et.al.|[2406.12623](http://arxiv.org/abs/2406.12623)|null|
-|**2024-06-14**|**On Efficient Neural Network Architectures for Image Compression**|Yichi Zhang et.al.|[2406.10361](http://arxiv.org/abs/2406.10361)|null|
+|**2024-06-14**|**On Efficient Neural Network Architectures for Image Compression**|Yichi Zhang et.al.|[2406.10361](http://arxiv.org/abs/2406.10361)|**[link](https://gitlab.com/viper-purdue/efficient-compression)**|
 |**2024-06-13**|**CMC-Bench: Towards a New Paradigm of Visual Signal Compression**|Chunyi Li et.al.|[2406.09356](http://arxiv.org/abs/2406.09356)|**[link](https://github.com/q-future/cmc-bench)**|
 |**2024-06-14**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487](http://arxiv.org/abs/2406.08487)|**[link](https://github.com/yfzhang114/slime)**|
 |**2024-06-11**|**Optimal Matrix-Mimetic Tensor Algebras via Variable Projection**|Elizabeth Newman et.al.|[2406.06942](http://arxiv.org/abs/2406.06942)|**[link](https://github.com/elizabethnewman/star-m-opt)**|
