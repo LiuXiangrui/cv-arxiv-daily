@@ -641,7 +641,7 @@ layout: default
 |**2024-03-16**|**Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression**|Zhi Cao et.al.|[2403.06700](http://arxiv.org/abs/2403.06700)|null|
 |**2024-03-10**|**Probing Image Compression For Class-Incremental Learning**|Justin Yang et.al.|[2403.06288](http://arxiv.org/abs/2403.06288)|null|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|**[link](https://github.com/final-0/sa-icm)**|
-|**2024-05-22**|**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**|Hagyeong Lee et.al.|[2403.02944](http://arxiv.org/abs/2403.02944)|null|
+|**2024-05-22**|**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity**|Hagyeong Lee et.al.|[2403.02944](http://arxiv.org/abs/2403.02944)|**[link](https://github.com/effl-lab/taco)**|
 |**2024-03-05**|**Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders**|Daniele Mari et.al.|[2403.02887](http://arxiv.org/abs/2403.02887)|null|
 |**2024-03-04**|**Neural Network Assisted Lifting Steps For Improved Fully Scalable Lossy Image Compression in JPEG 2000**|Xinyue Li et.al.|[2403.01647](http://arxiv.org/abs/2403.01647)|**[link](https://github.com/xinyue-li3/hybrid-lifting-structure)**|
 |**2024-03-01**|**Region-Adaptive Transform with Segmentation Prior for Image Compression**|Yuxi Liu et.al.|[2403.00628](http://arxiv.org/abs/2403.00628)|**[link](https://github.com/GityuxiLiu/Region-Adaptive-Transform-with-Segmentation-Prior-for-Image-Compression)**|
